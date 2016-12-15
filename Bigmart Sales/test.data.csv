@@ -1,0 +1,1706 @@
+Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,log_MRP,Establishment_Age,Outlet_Size,Outlet_Location_Type,Outlet_Type
+12.6,LF,0.127469857,Snack Foods,2.032466449,28,Medium,Tier 3,Supermarket Type3
+11.8,LF,0,Fruits and Vegetables,1.658394934,14,Medium,Tier 1,Supermarket Type1
+17.6,Regular,0.047257328,Snack Foods,2.078015049,16,Small,Tier 1,Supermarket Type1
+9,Regular,0.069088961,Breakfast,1.750981772,16,Small,Tier 1,Supermarket Type1
+13.35,LF,0.10249212,Dairy,2.362737246,9,Small,Tier 2,Supermarket Type1
+18.6,LF,0.080829372,Health and Hygiene,1.984273413,4,Medium,Tier 3,Supermarket Type2
+10,LF,0.089291137,Health and Hygiene,2.166460309,14,Medium,Tier 1,Supermarket Type1
+19.6,LF,0,Health and Hygiene,2.185548954,11,Small,Tier 2,Supermarket Type1
+15.85,Regular,0.121632721,Baking Goods,1.78263026,16,Small,Tier 1,Supermarket Type1
+12.6,Regular,0.255394896,Dairy,2.294200277,28,Small,Tier 1,Grocery Store
+10.9,LF,0.065041581,Fruits and Vegetables,2.293095929,6,Small,Tier 2,Supermarket Type1
+9.2,LF,0.048157338,Household,2.02596991,11,Small,Tier 2,Supermarket Type1
+12.6,LF,0.026015519,Snack Foods,2.407960977,28,Medium,Tier 3,Supermarket Type3
+8.65,LF,0.143422643,Health and Hygiene,1.981551336,16,Small,Tier 1,Supermarket Type1
+19,LF,0.112556507,Frozen Foods,2.021032925,6,Small,Tier 2,Supermarket Type1
+11.8,Regular,0.014087057,Frozen Foods,2.256078579,16,Small,Tier 1,Supermarket Type1
+12.6,LF,0.293417759,Household,2.289173186,28,Small,Tier 1,Grocery Store
+12.6,Regular,0.039057677,Breakfast,2.19302158,28,Medium,Tier 3,Supermarket Type3
+12.6,LF,0.028459761,Household,2.176006708,28,Medium,Tier 3,Supermarket Type3
+8.75,Regular,0.074627201,Fruits and Vegetables,2.273824146,16,Small,Tier 1,Supermarket Type1
+14.15,LF,0.035913805,Soft Drinks,1.617145082,26,High,Tier 3,Supermarket Type1
+8.89,LF,0.005505481,Frozen Foods,2.010306742,6,Small,Tier 2,Supermarket Type1
+12.6,LF,0.033809913,Canned,2.256711975,28,Medium,Tier 3,Supermarket Type3
+16,LF,0.060836524,Starchy Foods,2.355720404,9,Small,Tier 2,Supermarket Type1
+5.47,Regular,0,Baking Goods,2.122421013,4,Medium,Tier 3,Supermarket Type2
+7.27,LF,0.071077939,Soft Drinks,2.057863051,16,Small,Tier 1,Supermarket Type1
+17.7,LF,0.291865402,Fruits and Vegetables,2.061389894,15,Small,Tier 3,Grocery Store
+14.6,LF,0.059582996,Others,2.378132155,14,Medium,Tier 1,Supermarket Type1
+15.1,LF,0.052339069,Meat,2.385161385,16,Small,Tier 1,Supermarket Type1
+12.6,Regular,0.051643608,Snack Foods,2.030851402,28,Small,Tier 1,Grocery Store
+9.5,LF,0.041878397,Soft Drinks,1.518382316,9,Small,Tier 2,Supermarket Type1
+5.78,Regular,0,Snack Foods,2.421203665,6,Small,Tier 2,Supermarket Type1
+17.2,LF,0.15616879,Meat,2.205901816,26,High,Tier 3,Supermarket Type1
+12.6,LF,0.049754975,Dairy,2.182226284,28,Small,Tier 1,Grocery Store
+7.55,LF,0.027164679,Canned,2.182796846,9,Small,Tier 2,Supermarket Type1
+13,LF,0.099325278,Household,1.657113245,16,Small,Tier 1,Supermarket Type1
+12.6,Regular,0.082741482,Snack Foods,2.07473674,28,Small,Tier 1,Grocery Store
+12.6,LF,0.084554569,Snack Foods,2.040962916,28,Medium,Tier 3,Supermarket Type3
+15.85,LF,0.020603511,Household,1.630541773,6,Small,Tier 2,Supermarket Type1
+12.6,LF,0.058153409,Dairy,2.181940722,28,Small,Tier 1,Grocery Store
+7.79,LF,0.088846306,Fruits and Vegetables,1.788528955,14,Medium,Tier 1,Supermarket Type1
+11.8,Regular,0.09357779,Snack Foods,2.100268508,26,High,Tier 3,Supermarket Type1
+9.1,LF,0.175103435,Baking Goods,2.105633473,6,Small,Tier 2,Supermarket Type1
+17.6,LF,0.056245075,Frozen Foods,1.636943015,26,High,Tier 3,Supermarket Type1
+7.98,LF,0.014618973,Baking Goods,1.93056701,26,High,Tier 3,Supermarket Type1
+17.6,Regular,0.076552407,Meat,2.043441662,6,Small,Tier 2,Supermarket Type1
+7.79,Regular,0.038288087,Fruits and Vegetables,2.013664547,4,Medium,Tier 3,Supermarket Type2
+12.6,LF,0.031867464,Household,2.004328254,28,Medium,Tier 3,Supermarket Type3
+6.26,Regular,0.009866049,Meat,2.179369648,9,Small,Tier 2,Supermarket Type1
+6.15,LF,0.04627095,Baking Goods,1.997117161,16,Small,Tier 1,Supermarket Type1
+6.45,LF,0.029691762,Baking Goods,1.966815423,16,Small,Tier 1,Supermarket Type1
+7.07,LF,0.093861144,Snack Foods,2.062895466,11,Small,Tier 2,Supermarket Type1
+19,Regular,0.173154079,Fruits and Vegetables,2.358452644,15,Small,Tier 3,Grocery Store
+12.6,LF,0.094697274,Baking Goods,2.199920748,28,Medium,Tier 3,Supermarket Type3
+12.6,LF,0.2047,Frozen Foods,1.885739932,28,Small,Tier 1,Grocery Store
+7.9,Regular,0.095102092,Breakfast,2.018838586,6,Small,Tier 2,Supermarket Type1
+20.25,LF,0.026005891,Household,2.257672816,11,Small,Tier 2,Supermarket Type1
+15.85,LF,0.107765165,Soft Drinks,1.775176301,14,Medium,Tier 1,Supermarket Type1
+6.17,LF,0.010647477,Meat,1.822054258,14,Medium,Tier 1,Supermarket Type1
+19.2,LF,0.077628053,Household,2.295811116,14,Medium,Tier 1,Supermarket Type1
+14.5,Regular,0.063993068,Breads,2.415740036,11,Small,Tier 2,Supermarket Type1
+11.6,Regular,0.078929571,Frozen Foods,1.902696773,16,Small,Tier 1,Supermarket Type1
+8.05,Regular,0.07838564,Fruits and Vegetables,2.409027428,9,Small,Tier 2,Supermarket Type1
+16.5,LF,0.036715907,Household,2.255349224,11,Small,Tier 2,Supermarket Type1
+12.6,Regular,0.014753811,Fruits and Vegetables,2.365105563,28,Medium,Tier 3,Supermarket Type3
+6.64,Regular,0.046350909,Frozen Foods,1.57345878,6,Small,Tier 2,Supermarket Type1
+10.2,LF,0.159936948,Frozen Foods,2.15598972,16,Small,Tier 1,Supermarket Type1
+7.61,LF,0.129503146,Fruits and Vegetables,2.214899455,11,Small,Tier 2,Supermarket Type1
+18.35,LF,0.089163056,Household,2.281829374,11,Small,Tier 2,Supermarket Type1
+12.6,LF,0.026916794,Others,1.707285663,28,Medium,Tier 3,Supermarket Type3
+10.6,LF,0.035264298,Health and Hygiene,1.935116124,11,Small,Tier 2,Supermarket Type1
+10.2,Regular,0.017627888,Starchy Foods,2.37958432,9,Small,Tier 2,Supermarket Type1
+12.6,LF,0.0194158,Breads,1.619567038,28,Small,Tier 1,Grocery Store
+17.5,LF,0.015623754,Fruits and Vegetables,2.261564034,4,Medium,Tier 3,Supermarket Type2
+15.5,Regular,0.15717236,Snack Foods,2.17359938,14,Medium,Tier 1,Supermarket Type1
+20.7,Regular,0.047565208,Dairy,2.329372655,14,Medium,Tier 1,Supermarket Type1
+12.85,LF,0.022604051,Fruits and Vegetables,2.258713409,16,Small,Tier 1,Supermarket Type1
+20.85,Regular,0.056580228,Breads,2.023930335,11,Small,Tier 2,Supermarket Type1
+12.35,LF,0.164196823,Household,2.081031735,14,Medium,Tier 1,Supermarket Type1
+12.6,Regular,0.141975462,Snack Foods,1.695488681,28,Small,Tier 1,Grocery Store
+8.78,LF,0,Dairy,1.66221746,26,High,Tier 3,Supermarket Type1
+18.25,LF,0.089004389,Frozen Foods,2.293904146,11,Small,Tier 2,Supermarket Type1
+15,LF,0.044871033,Health and Hygiene,2.147316994,26,High,Tier 3,Supermarket Type1
+12.6,LF,0.13121032,Dairy,1.869439427,28,Small,Tier 1,Grocery Store
+20.75,LF,0.149404057,Breakfast,2.285214689,15,Small,Tier 3,Grocery Store
+9.8,LF,0.0268952,Meat,2.108571788,11,Small,Tier 2,Supermarket Type1
+12.6,LF,0.059776237,Household,2.365046352,28,Medium,Tier 3,Supermarket Type3
+18.1,LF,0.297883712,Dairy,2.195148808,15,Small,Tier 3,Grocery Store
+8.6,LF,0.032754431,Health and Hygiene,2.147723924,4,Medium,Tier 3,Supermarket Type2
+19,Regular,0.104035148,Fruits and Vegetables,2.357500335,6,Small,Tier 2,Supermarket Type1
+12.6,Regular,0.062648111,Frozen Foods,2.020771348,26,High,Tier 3,Supermarket Type1
+15.6,LF,0.111685868,Others,2.266684106,15,Small,Tier 3,Grocery Store
+16.6,LF,0,Fruits and Vegetables,2.238983468,16,Small,Tier 1,Supermarket Type1
+15.35,LF,0.015673267,Others,2.161508751,9,Small,Tier 2,Supermarket Type1
+11.8,Regular,0.076705948,Snack Foods,1.541027289,9,Small,Tier 2,Supermarket Type1
+14.1,LF,0.089677773,Canned,2.145661229,16,Small,Tier 1,Supermarket Type1
+20.7,Regular,0.100330684,Fruits and Vegetables,2.091451691,14,Medium,Tier 1,Supermarket Type1
+6.92,Regular,0.131128467,Breakfast,1.96932457,14,Medium,Tier 1,Supermarket Type1
+8.68,LF,0.008871687,Frozen Foods,1.998862397,4,Medium,Tier 3,Supermarket Type2
+15.35,LF,0.073269336,Soft Drinks,1.964316212,9,Small,Tier 2,Supermarket Type1
+6.26,LF,0.031470832,Household,2.042271439,14,Medium,Tier 1,Supermarket Type1
+17.1,LF,0.067141355,Household,2.059131559,9,Small,Tier 2,Supermarket Type1
+18.75,LF,0.034501405,Household,2.325765578,6,Small,Tier 2,Supermarket Type1
+5,LF,0.044004675,Soft Drinks,2.276123888,16,Small,Tier 1,Supermarket Type1
+14.3,Regular,0.034404732,Baking Goods,1.991990293,9,Small,Tier 2,Supermarket Type1
+12.6,LF,0.141106202,Starchy Foods,1.944073848,28,Medium,Tier 3,Supermarket Type3
+12.3,Regular,0,Snack Foods,1.75858037,26,High,Tier 3,Supermarket Type1
+7.44,LF,0.123086812,Starchy Foods,2.31589439,11,Small,Tier 2,Supermarket Type1
+20.35,LF,0.039428167,Household,2.107100704,4,Medium,Tier 3,Supermarket Type2
+18.5,LF,0.052025392,Snack Foods,2.073397184,26,High,Tier 3,Supermarket Type1
+20.2,LF,0.074541867,Household,1.973802795,4,Medium,Tier 3,Supermarket Type2
+5.66,LF,0.175352413,Soft Drinks,2.168527535,14,Medium,Tier 1,Supermarket Type1
+12.8,LF,0.076060037,Fruits and Vegetables,1.978367712,16,Small,Tier 1,Supermarket Type1
+13.3,LF,0.080131363,Dairy,2.369271533,4,Medium,Tier 3,Supermarket Type2
+8.98,Regular,0.05268526,Canned,1.920761771,26,High,Tier 3,Supermarket Type1
+7.67,LF,0.184689756,Household,1.549268174,26,High,Tier 3,Supermarket Type1
+20,Regular,0.104245198,Canned,2.02268483,14,Medium,Tier 1,Supermarket Type1
+5.75,Regular,0.075595405,Dairy,2.059630053,6,Small,Tier 2,Supermarket Type1
+7.89,LF,0.036207786,Dairy,2.083065956,11,Small,Tier 2,Supermarket Type1
+16.35,LF,0.034742632,Household,2.105176246,11,Small,Tier 2,Supermarket Type1
+14.6,LF,0.059393919,Household,2.259588146,9,Small,Tier 2,Supermarket Type1
+7.67,LF,0.185218446,Household,1.560164971,11,Small,Tier 2,Supermarket Type1
+17.35,Regular,0.146895866,Seafood,2.174946108,4,Medium,Tier 3,Supermarket Type2
+14.3,LF,0.026428924,Frozen Foods,1.893374441,4,Medium,Tier 3,Supermarket Type2
+12.6,Regular,0.045243613,Dairy,2.16675623,28,Medium,Tier 3,Supermarket Type3
+12.6,Regular,0.133673087,Canned,1.618550123,28,Medium,Tier 3,Supermarket Type3
+12.6,LF,0.060252433,Dairy,2.232260489,28,Medium,Tier 3,Supermarket Type3
+12.35,Regular,0.072541731,Dairy,1.68636095,11,Small,Tier 2,Supermarket Type1
+8.4,LF,0.072088552,Hard Drinks,2.404327315,14,Medium,Tier 1,Supermarket Type1
+12.6,LF,0.044391149,Canned,2.215860072,28,Medium,Tier 3,Supermarket Type3
+20.25,Regular,0.022639471,Dairy,2.395167676,6,Small,Tier 2,Supermarket Type1
+8.95,Regular,0,Dairy,2.42290322,6,Small,Tier 2,Supermarket Type1
+16.75,Regular,0.008579863,Meat,1.859161123,14,Medium,Tier 1,Supermarket Type1
+15,Regular,0.054367971,Canned,1.767826463,9,Small,Tier 2,Supermarket Type1
+13.15,Regular,0.165328057,Fruits and Vegetables,2.232173474,9,Small,Tier 2,Supermarket Type1
+12.6,Regular,0.013529884,Fruits and Vegetables,2.026368177,28,Medium,Tier 3,Supermarket Type3
+6.28,LF,0.027699863,Soft Drinks,1.944086691,9,Small,Tier 2,Supermarket Type1
+5.93,Regular,0.09646733,Dairy,1.631531025,16,Small,Tier 1,Supermarket Type1
+18.85,LF,0.141642219,Canned,2.225601815,16,Small,Tier 1,Supermarket Type1
+16.1,Regular,0.013584408,Fruits and Vegetables,2.032455971,26,High,Tier 3,Supermarket Type1
+7.57,LF,0.054751689,Health and Hygiene,1.738725079,11,Small,Tier 2,Supermarket Type1
+12.6,LF,0.014560297,Baking Goods,1.910757767,28,Medium,Tier 3,Supermarket Type3
+5.46,Regular,0.03217132,Canned,2.266758365,9,Small,Tier 2,Supermarket Type1
+11.8,LF,0.121848436,Fruits and Vegetables,1.670618741,11,Small,Tier 2,Supermarket Type1
+19.25,LF,0.108470504,Household,1.524471419,4,Medium,Tier 3,Supermarket Type2
+14.3,Regular,0.065207559,Fruits and Vegetables,1.953690122,16,Small,Tier 1,Supermarket Type1
+19.1,LF,0.096733815,Fruits and Vegetables,2.367720724,16,Small,Tier 1,Supermarket Type1
+16.25,LF,0.057485328,Fruits and Vegetables,2.101075185,14,Medium,Tier 1,Supermarket Type1
+12.6,Regular,0.024776026,Baking Goods,2.236391633,28,Medium,Tier 3,Supermarket Type3
+5.15,Regular,0.061165512,Meat,2.09912378,9,Small,Tier 2,Supermarket Type1
+18.85,LF,0.091008572,Hard Drinks,2.112717582,14,Medium,Tier 1,Supermarket Type1
+12.65,Regular,0.156286566,Fruits and Vegetables,2.378313941,14,Medium,Tier 1,Supermarket Type1
+19.35,Regular,0.137697119,Baking Goods,1.673052256,15,Small,Tier 3,Grocery Store
+12.6,LF,0.220225608,Fruits and Vegetables,1.932574209,28,Small,Tier 1,Grocery Store
+13.65,LF,0.04929502,Fruits and Vegetables,2.177550928,14,Medium,Tier 1,Supermarket Type1
+20.35,LF,0.054362695,Snack Foods,2.071685426,6,Small,Tier 2,Supermarket Type1
+13.85,Regular,0.085274988,Meat,2.077776205,16,Small,Tier 1,Supermarket Type1
+12.35,Regular,0.072334667,Dairy,1.691693142,26,High,Tier 3,Supermarket Type1
+6.38,LF,0.032028115,Dairy,2.251235125,4,Medium,Tier 3,Supermarket Type2
+13,Regular,0.070588037,Snack Foods,1.819204263,4,Medium,Tier 3,Supermarket Type2
+8.9,Regular,0.088821765,Snack Foods,2.097510661,6,Small,Tier 2,Supermarket Type1
+16.2,Regular,0.128682722,Frozen Foods,2.251484913,11,Small,Tier 2,Supermarket Type1
+7.48,LF,0.013120028,Household,2.337697209,16,Small,Tier 1,Supermarket Type1
+10.8,Regular,0.048339408,Baking Goods,1.618192489,4,Medium,Tier 3,Supermarket Type2
+14.3,Regular,0.04975339,Meat,2.322960272,14,Medium,Tier 1,Supermarket Type1
+12.6,LF,0.14453827,Canned,2.256718227,28,Small,Tier 1,Grocery Store
+12.6,LF,0.172309903,Meat,1.992130062,28,Small,Tier 1,Grocery Store
+12.6,Regular,0.05787008,Breakfast,1.696363379,28,Small,Tier 1,Grocery Store
+11.5,LF,0.173516063,Fruits and Vegetables,2.10777012,16,Small,Tier 1,Supermarket Type1
+19.7,LF,0.077899109,Baking Goods,2.2498487,9,Small,Tier 2,Supermarket Type1
+10.9,LF,0.064621927,Fruits and Vegetables,2.293758875,26,High,Tier 3,Supermarket Type1
+13.65,Regular,0.021343732,Snack Foods,1.766106353,15,Small,Tier 3,Grocery Store
+12.6,Regular,0.061955439,Frozen Foods,2.161792505,28,Medium,Tier 3,Supermarket Type3
+13.15,LF,0.024701262,Household,2.247650738,11,Small,Tier 2,Supermarket Type1
+15.25,LF,0.02671821,Snack Foods,1.930540511,4,Medium,Tier 3,Supermarket Type2
+12.6,LF,0.0514111,Breads,1.519247672,28,Medium,Tier 3,Supermarket Type3
+9.5,LF,0,Fruits and Vegetables,2.043058755,6,Small,Tier 2,Supermarket Type1
+11.65,LF,0.175033524,Dairy,1.744526109,6,Small,Tier 2,Supermarket Type1
+12.35,LF,0.026676216,Canned,1.756062248,9,Small,Tier 2,Supermarket Type1
+12.6,LF,0.029380407,Household,2.059620209,28,Medium,Tier 3,Supermarket Type3
+7,LF,0.152261999,Canned,2.024190017,6,Small,Tier 2,Supermarket Type1
+9.3,LF,0.174621343,Snack Foods,2.018269318,14,Medium,Tier 1,Supermarket Type1
+14.7,LF,0.072410764,Fruits and Vegetables,1.683077672,14,Medium,Tier 1,Supermarket Type1
+7.68,LF,0.118672537,Fruits and Vegetables,2.283789987,15,Small,Tier 3,Grocery Store
+16,LF,0.090153756,Dairy,2.15598972,11,Small,Tier 2,Supermarket Type1
+12.6,Regular,0.058446424,Baking Goods,2.235887349,28,Medium,Tier 3,Supermarket Type3
+13.5,LF,0.054990009,Health and Hygiene,1.54761966,16,Small,Tier 1,Supermarket Type1
+12.6,Regular,0.15528831,Fruits and Vegetables,2.383373309,28,Medium,Tier 3,Supermarket Type3
+8.21,LF,0.010755465,Hard Drinks,2.17851422,26,High,Tier 3,Supermarket Type1
+12.6,LF,0.039055756,Household,2.182804258,28,Medium,Tier 3,Supermarket Type3
+9.5,Regular,0.104421237,Canned,1.904152707,26,High,Tier 3,Supermarket Type1
+12.6,LF,0.034584356,Dairy,2.39510788,28,Medium,Tier 3,Supermarket Type3
+11.65,LF,0.040144377,Snack Foods,2.359777446,6,Small,Tier 2,Supermarket Type1
+10.85,LF,0.028738058,Household,2.068856459,11,Small,Tier 2,Supermarket Type1
+12.15,LF,0.063430788,Meat,1.816125915,15,Small,Tier 3,Grocery Store
+16.35,LF,0.029445361,Household,2.411054756,16,Small,Tier 1,Supermarket Type1
+6.24,LF,0.118651919,Household,2.421589121,9,Small,Tier 2,Supermarket Type1
+20.2,Regular,0.039215075,Breakfast,2.197729786,26,High,Tier 3,Supermarket Type1
+14.1,LF,0.089859642,Canned,2.146901631,11,Small,Tier 2,Supermarket Type1
+13.65,Regular,0.026643448,Meat,1.579248399,14,Medium,Tier 1,Supermarket Type1
+12.6,LF,0.073879939,Household,1.973341252,28,Medium,Tier 3,Supermarket Type3
+12.6,LF,0.077046505,Soft Drinks,2.277501487,28,Small,Tier 1,Grocery Store
+9.2,Regular,0.064376263,Frozen Foods,1.919896724,6,Small,Tier 2,Supermarket Type1
+15.6,Regular,0.04575559,Snack Foods,2.223010755,9,Small,Tier 2,Supermarket Type1
+11.5,LF,0.014944614,Starchy Foods,2.235043382,6,Small,Tier 2,Supermarket Type1
+13.15,LF,0.024646608,Household,2.249121523,9,Small,Tier 2,Supermarket Type1
+8.05,Regular,0.078522357,Fruits and Vegetables,2.410211186,14,Medium,Tier 1,Supermarket Type1
+20.75,LF,0.089260667,Breakfast,2.286563795,16,Small,Tier 1,Supermarket Type1
+13.5,LF,0.05510153,Health and Hygiene,1.569226388,11,Small,Tier 2,Supermarket Type1
+18,LF,0.047645037,Household,2.237146962,6,Small,Tier 2,Supermarket Type1
+12.6,LF,0.122242847,Starchy Foods,2.317151613,28,Medium,Tier 3,Supermarket Type3
+16,LF,0.076975118,Fruits and Vegetables,1.664722811,14,Medium,Tier 1,Supermarket Type1
+12.6,Regular,0.098606543,Breakfast,2.36685237,28,Small,Tier 1,Grocery Store
+12.6,LF,0.020614212,Fruits and Vegetables,2.101762879,28,Medium,Tier 3,Supermarket Type3
+8.65,LF,0.143713508,Health and Hygiene,1.985161415,11,Small,Tier 2,Supermarket Type1
+12.6,LF,0.099747488,Fruits and Vegetables,1.876407226,28,Medium,Tier 3,Supermarket Type3
+12.6,LF,0,Fruits and Vegetables,2.385580179,28,Medium,Tier 3,Supermarket Type3
+10.5,Regular,0.026520107,Baking Goods,2.160806951,6,Small,Tier 2,Supermarket Type1
+20.75,Regular,0.083736551,Frozen Foods,2.252201829,14,Medium,Tier 1,Supermarket Type1
+12.6,LF,0.012865901,Frozen Foods,1.773447066,28,Small,Tier 1,Grocery Store
+6.13,LF,0.028365524,Household,2.041752606,14,Medium,Tier 1,Supermarket Type1
+9.1,LF,0,Household,2.058622627,16,Small,Tier 1,Supermarket Type1
+14.75,LF,0.089686322,Snack Foods,2.062024376,4,Medium,Tier 3,Supermarket Type2
+19.2,LF,0.035185588,Snack Foods,2.258473973,16,Small,Tier 1,Supermarket Type1
+12.6,LF,0.035574413,Fruits and Vegetables,2.118689221,28,Medium,Tier 3,Supermarket Type3
+11.65,LF,0,Baking Goods,2.183561364,9,Small,Tier 2,Supermarket Type1
+17.75,LF,0.03050705,Others,2.256154674,16,Small,Tier 1,Supermarket Type1
+6.42,LF,0.053688479,Dairy,2.25115183,4,Medium,Tier 3,Supermarket Type2
+10.6,LF,0.056911107,Dairy,2.369149409,11,Small,Tier 2,Supermarket Type1
+17.7,Regular,0.016622448,Fruits and Vegetables,1.700733131,14,Medium,Tier 1,Supermarket Type1
+8.24,LF,0.014482153,Health and Hygiene,2.260774757,14,Medium,Tier 1,Supermarket Type1
+11.6,LF,0,Soft Drinks,2.151110483,11,Small,Tier 2,Supermarket Type1
+17.2,Regular,0.025205909,Canned,2.17359938,14,Medium,Tier 1,Supermarket Type1
+19.6,LF,0.039544237,Snack Foods,2.213922909,26,High,Tier 3,Supermarket Type1
+8.02,LF,0.111613921,Snack Foods,2.183838468,14,Medium,Tier 1,Supermarket Type1
+13.8,LF,0.097043739,Dairy,1.759614971,9,Small,Tier 2,Supermarket Type1
+12.6,Regular,0.214139786,Fruits and Vegetables,2.010306742,28,Small,Tier 1,Grocery Store
+10,LF,0.021468792,Household,2.400840077,11,Small,Tier 2,Supermarket Type1
+11.6,LF,0.040911824,Soft Drinks,2.153251898,26,High,Tier 3,Supermarket Type1
+9.3,LF,0.044843161,Household,2.39125312,4,Medium,Tier 3,Supermarket Type2
+8.26,Regular,0.032435437,Soft Drinks,2.096468546,9,Small,Tier 2,Supermarket Type1
+10.9,LF,0.020994339,Health and Hygiene,2.407675015,11,Small,Tier 2,Supermarket Type1
+15.5,Regular,0.02536567,Baking Goods,1.917995718,9,Small,Tier 2,Supermarket Type1
+12.1,LF,0.011604894,Dairy,2.22024568,6,Small,Tier 2,Supermarket Type1
+16,LF,0.041028937,Snack Foods,2.154270558,11,Small,Tier 2,Supermarket Type1
+9.3,LF,0.042930789,Fruits and Vegetables,1.947027668,26,High,Tier 3,Supermarket Type1
+12.6,LF,0.046994717,Meat,2.099687546,28,Small,Tier 1,Grocery Store
+17.35,LF,0.014689006,Frozen Foods,1.872178424,9,Small,Tier 2,Supermarket Type1
+19.7,LF,0.064921764,Canned,1.945073503,16,Small,Tier 1,Supermarket Type1
+19.35,LF,0.033060937,Meat,2.236723132,26,High,Tier 3,Supermarket Type1
+12.85,LF,0.033172957,Snack Foods,2.235634987,9,Small,Tier 2,Supermarket Type1
+18.85,LF,0.141524348,Canned,2.226376128,26,High,Tier 3,Supermarket Type1
+11.65,LF,0.039980644,Snack Foods,2.356732016,14,Medium,Tier 1,Supermarket Type1
+10.9,Regular,0.009636821,Dairy,2.085907502,14,Medium,Tier 1,Supermarket Type1
+17.6,Regular,0.039189221,Snack Foods,1.988295804,26,High,Tier 3,Supermarket Type1
+9.7,Regular,0.129008866,Baking Goods,2.355911816,6,Small,Tier 2,Supermarket Type1
+13.85,LF,0.030795085,Soft Drinks,2.15629286,16,Small,Tier 1,Supermarket Type1
+12.15,Regular,0.13283066,Fruits and Vegetables,2.280321542,6,Small,Tier 2,Supermarket Type1
+11.8,LF,0.008559557,Health and Hygiene,2.069109888,9,Small,Tier 2,Supermarket Type1
+14.35,LF,0.017038777,Health and Hygiene,2.051240531,16,Small,Tier 1,Supermarket Type1
+20,LF,0.0814536,Others,1.566071989,14,Medium,Tier 1,Supermarket Type1
+17.75,LF,0.07607772,Baking Goods,2.050976453,14,Medium,Tier 1,Supermarket Type1
+6.13,LF,0.076891526,Dairy,1.789253458,11,Small,Tier 2,Supermarket Type1
+20.25,Regular,0.014793357,Dairy,2.282205516,16,Small,Tier 1,Supermarket Type1
+19.85,Regular,0.020858779,Snack Foods,1.798093784,26,High,Tier 3,Supermarket Type1
+7.41,LF,0,Dairy,2.313296782,6,Small,Tier 2,Supermarket Type1
+15.7,Regular,0.03079807,Snack Foods,2.403073141,6,Small,Tier 2,Supermarket Type1
+20.1,LF,0.077389797,Health and Hygiene,1.784286275,26,High,Tier 3,Supermarket Type1
+12.6,Regular,0.136592891,Meat,2.376622209,28,Small,Tier 1,Grocery Store
+9.8,Regular,0.072863893,Snack Foods,2.074120574,9,Small,Tier 2,Supermarket Type1
+12.6,LF,0.244102315,Snack Foods,2.170484674,28,Small,Tier 1,Grocery Store
+20.35,LF,0.141789197,Snack Foods,2.086029356,9,Small,Tier 2,Supermarket Type1
+12.6,LF,0.035414528,Breads,2.338887785,28,Medium,Tier 3,Supermarket Type3
+6.85,LF,0.022864238,Frozen Foods,2.415072556,26,High,Tier 3,Supermarket Type1
+20.35,LF,0.054011943,Snack Foods,2.066499608,26,High,Tier 3,Supermarket Type1
+6.39,Regular,0.123961415,Snack Foods,1.522279875,11,Small,Tier 2,Supermarket Type1
+20.5,LF,0.060847634,Frozen Foods,1.875464102,15,Small,Tier 3,Grocery Store
+12.6,LF,0,Fruits and Vegetables,2.403181627,28,Medium,Tier 3,Supermarket Type3
+8.42,Regular,0.030890618,Canned,2.359333003,14,Medium,Tier 1,Supermarket Type1
+19.75,LF,0.033883448,Snack Foods,2.328970901,9,Small,Tier 2,Supermarket Type1
+17.85,LF,0.052166995,Snack Foods,2.085316271,9,Small,Tier 2,Supermarket Type1
+15,Regular,0.161301097,Canned,2.267468825,26,High,Tier 3,Supermarket Type1
+13.8,Regular,0.064307102,Fruits and Vegetables,1.888186236,14,Medium,Tier 1,Supermarket Type1
+18.7,Regular,0.071091591,Frozen Foods,2.359078126,6,Small,Tier 2,Supermarket Type1
+5.79,Regular,0.0901292,Fruits and Vegetables,1.953690122,15,Small,Tier 3,Grocery Store
+10.1,Regular,0,Fruits and Vegetables,2.352392473,26,High,Tier 3,Supermarket Type1
+16.75,LF,0.032580547,Health and Hygiene,2.283563988,9,Small,Tier 2,Supermarket Type1
+7.42,LF,0.020391845,Snack Foods,2.396040949,16,Small,Tier 1,Supermarket Type1
+13.15,LF,0.036879539,Frozen Foods,2.258631537,6,Small,Tier 2,Supermarket Type1
+10.9,LF,0.137023446,Dairy,2.421203665,14,Medium,Tier 1,Supermarket Type1
+20.7,Regular,0.122208091,Frozen Foods,2.078263191,6,Small,Tier 2,Supermarket Type1
+12.6,LF,0.063800266,Health and Hygiene,2.090051264,28,Medium,Tier 3,Supermarket Type3
+17.35,Regular,0.063207198,Baking Goods,1.951254927,6,Small,Tier 2,Supermarket Type1
+17.7,LF,0.011660463,Frozen Foods,1.984711793,4,Medium,Tier 3,Supermarket Type2
+16.5,LF,0.028579565,Snack Foods,1.955757963,6,Small,Tier 2,Supermarket Type1
+9.6,LF,0.011211251,Household,2.222504213,15,Small,Tier 3,Grocery Store
+6.06,LF,0.031103357,Fruits and Vegetables,2.204005422,16,Small,Tier 1,Supermarket Type1
+6.87,Regular,0.036042939,Frozen Foods,2.388187554,6,Small,Tier 2,Supermarket Type1
+6.06,LF,0.031230059,Fruits and Vegetables,2.205090089,4,Medium,Tier 3,Supermarket Type2
+12.6,Regular,0.22417463,Snack Foods,2.227582335,28,Small,Tier 1,Grocery Store
+15.7,Regular,0.030672457,Snack Foods,2.403416359,14,Medium,Tier 1,Supermarket Type1
+9.2,Regular,0.077995641,Meat,2.030031084,26,High,Tier 3,Supermarket Type1
+13.85,Regular,0.056432784,Breakfast,2.370938479,11,Small,Tier 2,Supermarket Type1
+10.7,LF,0.064022881,Household,1.557324303,4,Medium,Tier 3,Supermarket Type2
+6.55,Regular,0.034658144,Breads,2.192647726,14,Medium,Tier 1,Supermarket Type1
+12.6,LF,0.075691713,Fruits and Vegetables,1.992292775,28,Medium,Tier 3,Supermarket Type3
+7.33,LF,0.093765794,Fruits and Vegetables,1.955757963,4,Medium,Tier 3,Supermarket Type2
+17.7,Regular,0.016593506,Fruits and Vegetables,1.671204326,9,Small,Tier 2,Supermarket Type1
+17,Regular,0.015965308,Snack Foods,2.360660048,16,Small,Tier 1,Supermarket Type1
+11.5,LF,0.073029341,Fruits and Vegetables,2.274049262,11,Small,Tier 2,Supermarket Type1
+18.85,LF,0.055347985,Baking Goods,2.119019537,9,Small,Tier 2,Supermarket Type1
+19.7,LF,0.077849003,Baking Goods,2.253255598,26,High,Tier 3,Supermarket Type1
+5.18,Regular,0.04937018,Snack Foods,2.028417515,15,Small,Tier 3,Grocery Store
+16.75,LF,0.060792265,Dairy,2.231496606,4,Medium,Tier 3,Supermarket Type2
+11.15,LF,0.119852889,Dairy,1.652965378,26,High,Tier 3,Supermarket Type1
+20.1,LF,0.074778547,Dairy,2.04423706,11,Small,Tier 2,Supermarket Type1
+18.25,LF,0.0793795,Frozen Foods,2.354312471,11,Small,Tier 2,Supermarket Type1
+19.5,LF,0.01572192,Household,2.268720217,9,Small,Tier 2,Supermarket Type1
+7.51,LF,0.01742908,Fruits and Vegetables,2.360973775,16,Small,Tier 1,Supermarket Type1
+12.5,LF,0.081119484,Meat,2.342580183,9,Small,Tier 2,Supermarket Type1
+11,Regular,0.133145617,Canned,2.33941129,16,Small,Tier 1,Supermarket Type1
+7.35,LF,0.028652919,Fruits and Vegetables,1.607941589,11,Small,Tier 2,Supermarket Type1
+16.35,LF,0,Fruits and Vegetables,2.293014538,4,Medium,Tier 3,Supermarket Type2
+16.75,LF,0.104768536,Snack Foods,2.190788168,26,High,Tier 3,Supermarket Type1
+12.5,LF,0.020680499,Breads,2.295070291,26,High,Tier 3,Supermarket Type1
+12.6,Regular,0.123727659,Dairy,2.403181627,15,Small,Tier 3,Grocery Store
+13.35,LF,0.065082452,Baking Goods,1.968858241,11,Small,Tier 2,Supermarket Type1
+6.61,Regular,0.029129907,Snack Foods,2.275287854,4,Medium,Tier 3,Supermarket Type2
+12.6,LF,0.079440262,Soft Drinks,1.938460681,28,Small,Tier 1,Grocery Store
+20,Regular,0.060022526,Baking Goods,2.227149063,11,Small,Tier 2,Supermarket Type1
+12.6,LF,0.054723717,Health and Hygiene,1.564516935,28,Medium,Tier 3,Supermarket Type3
+6.78,LF,0.066724663,Fruits and Vegetables,2.2735198,14,Medium,Tier 1,Supermarket Type1
+15.2,LF,0.112896669,Soft Drinks,1.557324303,16,Small,Tier 1,Supermarket Type1
+16.85,LF,0,Snack Foods,2.164578868,6,Small,Tier 2,Supermarket Type1
+11.15,LF,0.073516952,Others,1.818978985,11,Small,Tier 2,Supermarket Type1
+17,LF,0.119285634,Frozen Foods,2.393475874,26,High,Tier 3,Supermarket Type1
+20.7,LF,0.04875891,Fruits and Vegetables,1.572297583,16,Small,Tier 1,Supermarket Type1
+18.85,Regular,0.067953506,Dairy,2.075707511,16,Small,Tier 1,Supermarket Type1
+6.18,Regular,0.179077475,Meat,1.974857885,16,Small,Tier 1,Supermarket Type1
+14.5,Regular,0.063863551,Breads,2.418896629,16,Small,Tier 1,Supermarket Type1
+16,LF,0.040938155,Snack Foods,2.149679652,9,Small,Tier 2,Supermarket Type1
+16.7,Regular,0.119439636,Fruits and Vegetables,2.260542652,9,Small,Tier 2,Supermarket Type1
+12.6,LF,0.081014461,Baking Goods,1.994925706,28,Small,Tier 1,Grocery Store
+19.75,Regular,0.030166924,Frozen Foods,2.254707555,15,Small,Tier 3,Grocery Store
+12.15,LF,0.01544786,Frozen Foods,2.324884698,26,High,Tier 3,Supermarket Type1
+12.6,LF,0.32111501,Fruits and Vegetables,2.003331259,28,Small,Tier 1,Grocery Store
+8.21,LF,0.010762387,Hard Drinks,2.174755053,9,Small,Tier 2,Supermarket Type1
+17.5,LF,0.02687089,Frozen Foods,2.422410899,16,Small,Tier 1,Supermarket Type1
+12.6,LF,0.099681705,Baking Goods,2.031255727,28,Small,Tier 1,Grocery Store
+10.8,LF,0.082534287,Dairy,2.281375211,9,Small,Tier 2,Supermarket Type1
+7.47,Regular,0.152024355,Frozen Foods,2.325970654,26,High,Tier 3,Supermarket Type1
+19.85,LF,0.045669236,Fruits and Vegetables,2.101753946,16,Small,Tier 1,Supermarket Type1
+8.39,Regular,0.024342578,Frozen Foods,2.055445611,6,Small,Tier 2,Supermarket Type1
+17.35,LF,0.168329848,Household,2.24741151,6,Small,Tier 2,Supermarket Type1
+12.6,LF,0.248301532,Snack Foods,2.093796978,28,Small,Tier 1,Grocery Store
+16,LF,0.090480206,Dairy,2.153556954,6,Small,Tier 2,Supermarket Type1
+16.2,LF,0.044291251,Frozen Foods,1.636943015,14,Medium,Tier 1,Supermarket Type1
+12.6,LF,0.070556945,Fruits and Vegetables,2.281524683,28,Medium,Tier 3,Supermarket Type3
+15,Regular,0.054599767,Canned,1.774446889,4,Medium,Tier 3,Supermarket Type2
+15.2,LF,0.021250528,Canned,2.335623162,11,Small,Tier 2,Supermarket Type1
+7.42,LF,0.0204332,Snack Foods,2.396040949,11,Small,Tier 2,Supermarket Type1
+12.6,Regular,0.055213281,Baking Goods,2.236729679,28,Small,Tier 1,Grocery Store
+5.44,LF,0.025519534,Dairy,2.377950293,14,Medium,Tier 1,Supermarket Type1
+10.4,Regular,0.091688111,Baking Goods,1.69020317,6,Small,Tier 2,Supermarket Type1
+12.6,Regular,0.165101585,Fruits and Vegetables,1.943436144,28,Small,Tier 1,Grocery Store
+16.75,Regular,0.024848788,Soft Drinks,1.601866687,9,Small,Tier 2,Supermarket Type1
+12.6,Regular,0.076868664,Frozen Foods,1.793227252,28,Small,Tier 1,Grocery Store
+6.89,Regular,0.140292495,Canned,2.03552099,11,Small,Tier 2,Supermarket Type1
+12.15,LF,0.025916883,Starchy Foods,2.080063415,11,Small,Tier 2,Supermarket Type1
+7.44,LF,0.122837694,Starchy Foods,2.319655193,16,Small,Tier 1,Supermarket Type1
+4.64,LF,0.141174838,Breads,2.1041435,11,Small,Tier 2,Supermarket Type1
+8.96,Regular,0.069078149,Fruits and Vegetables,2.296175346,11,Small,Tier 2,Supermarket Type1
+11.65,Regular,0.058822142,Baking Goods,2.239405099,14,Medium,Tier 1,Supermarket Type1
+18.5,Regular,0.076097035,Dairy,2.163787906,15,Small,Tier 3,Grocery Store
+13.1,Regular,0.044281996,Fruits and Vegetables,2.251715584,11,Small,Tier 2,Supermarket Type1
+16.1,LF,0.023613955,Soft Drinks,2.285297555,14,Medium,Tier 1,Supermarket Type1
+12.35,LF,0.164274416,Household,2.078501768,11,Small,Tier 2,Supermarket Type1
+12.1,LF,0.115107028,Baking Goods,2.346375275,11,Small,Tier 2,Supermarket Type1
+10.65,LF,0.023971463,Fruits and Vegetables,1.73261246,16,Small,Tier 1,Supermarket Type1
+8.39,Regular,0.024243294,Frozen Foods,2.064523877,14,Medium,Tier 1,Supermarket Type1
+10.9,LF,0.044991876,Frozen Foods,2.030308206,15,Small,Tier 3,Grocery Store
+5.82,Regular,0.077319079,Fruits and Vegetables,2.407277004,16,Small,Tier 1,Supermarket Type1
+17.6,Regular,0.041373331,Snack Foods,1.581141499,9,Small,Tier 2,Supermarket Type1
+5.41,Regular,0.053730029,Canned,2.299014979,11,Small,Tier 2,Supermarket Type1
+12.6,LF,0.079146113,Frozen Foods,2.258795266,28,Small,Tier 1,Grocery Store
+5.99,LF,0.096337184,Frozen Foods,2.09783945,6,Small,Tier 2,Supermarket Type1
+16.2,LF,0,Soft Drinks,1.866107675,26,High,Tier 3,Supermarket Type1
+6.78,Regular,0.08573655,Fruits and Vegetables,2.360913999,26,High,Tier 3,Supermarket Type1
+19.1,LF,0.092437711,Others,2.267783535,6,Small,Tier 2,Supermarket Type1
+17.6,LF,0.137807013,Health and Hygiene,2.208957044,15,Small,Tier 3,Grocery Store
+15.35,LF,0.014098693,Frozen Foods,1.5707647,6,Small,Tier 2,Supermarket Type1
+9.8,LF,0.106933748,Fruits and Vegetables,2.243873572,11,Small,Tier 2,Supermarket Type1
+13.1,LF,0.012148836,Others,2.281835275,4,Medium,Tier 3,Supermarket Type2
+9.3,Regular,0.014047825,Snack Foods,2.29338112,11,Small,Tier 2,Supermarket Type1
+6.78,LF,0.066608487,Fruits and Vegetables,2.266288156,9,Small,Tier 2,Supermarket Type1
+12.6,LF,0.024536199,Household,2.160198927,28,Medium,Tier 3,Supermarket Type3
+7.98,LF,0.014653896,Baking Goods,1.916058956,14,Medium,Tier 1,Supermarket Type1
+16.7,Regular,0.054618573,Starchy Foods,1.816352677,9,Small,Tier 2,Supermarket Type1
+8.75,Regular,0.074743226,Fruits and Vegetables,2.273361529,14,Medium,Tier 1,Supermarket Type1
+9.7,LF,0.070431235,Hard Drinks,2.249282517,9,Small,Tier 2,Supermarket Type1
+19.75,LF,0.041330512,Fruits and Vegetables,2.063883292,26,High,Tier 3,Supermarket Type1
+11.8,Regular,0.057746382,Meat,2.183089254,6,Small,Tier 2,Supermarket Type1
+9.8,Regular,0.045337184,Baking Goods,1.566878045,14,Medium,Tier 1,Supermarket Type1
+12.6,Regular,0.062797771,Frozen Foods,2.017029163,14,Medium,Tier 1,Supermarket Type1
+19.75,Regular,0.018096488,Frozen Foods,2.254224108,4,Medium,Tier 3,Supermarket Type2
+13.1,LF,0.037657459,Fruits and Vegetables,2.245032211,11,Small,Tier 2,Supermarket Type1
+12.6,LF,0.041091215,Household,1.95207238,28,Medium,Tier 3,Supermarket Type3
+15,LF,0.046336634,Breads,2.079331052,26,High,Tier 3,Supermarket Type1
+11.6,Regular,0.241055611,Dairy,2.377528806,15,Small,Tier 3,Grocery Store
+7.66,LF,0.05346916,Canned,2.057472872,15,Small,Tier 3,Grocery Store
+13.65,LF,0.040049609,Frozen Foods,1.537262338,6,Small,Tier 2,Supermarket Type1
+12.6,Regular,0.03941584,Dairy,2.394117426,28,Small,Tier 1,Grocery Store
+11.8,LF,0.058725131,Health and Hygiene,1.915725829,9,Small,Tier 2,Supermarket Type1
+6.72,Regular,0.122274118,Baking Goods,1.605794026,6,Small,Tier 2,Supermarket Type1
+19.1,LF,0.067239404,Household,1.598567285,26,High,Tier 3,Supermarket Type1
+12.6,LF,0.055566935,Household,2.420930578,28,Small,Tier 1,Grocery Store
+12.35,LF,0.041973712,Health and Hygiene,1.552930903,6,Small,Tier 2,Supermarket Type1
+20.25,LF,0.036474041,Dairy,2.339149616,4,Medium,Tier 3,Supermarket Type2
+18,LF,0.039231652,Snack Foods,2.161792505,6,Small,Tier 2,Supermarket Type1
+12.35,Regular,0.03382933,Meat,2.294339667,11,Small,Tier 2,Supermarket Type1
+10.1,LF,0.032075379,Canned,1.706724608,26,High,Tier 3,Supermarket Type1
+10.3,Regular,0.024875871,Baking Goods,2.238152028,26,High,Tier 3,Supermarket Type1
+12.6,Regular,0.028139761,Canned,2.239905316,28,Medium,Tier 3,Supermarket Type3
+17.1,Regular,0.073997843,Fruits and Vegetables,2.31610418,26,High,Tier 3,Supermarket Type1
+14.15,LF,0.020798905,Fruits and Vegetables,2.092034634,4,Medium,Tier 3,Supermarket Type2
+6.22,LF,0.012138795,Fruits and Vegetables,1.594224546,26,High,Tier 3,Supermarket Type1
+17.5,LF,0,Snack Foods,2.403181627,9,Small,Tier 2,Supermarket Type1
+8.98,Regular,0.009058845,Canned,2.014516339,16,Small,Tier 1,Supermarket Type1
+4.62,Regular,0.101812521,Canned,2.365918322,9,Small,Tier 2,Supermarket Type1
+19.2,LF,0.100055601,Frozen Foods,2.051108512,9,Small,Tier 2,Supermarket Type1
+12.65,Regular,0.076198809,Frozen Foods,2.281906989,11,Small,Tier 2,Supermarket Type1
+11.1,LF,0.010639596,Canned,1.925264636,9,Small,Tier 2,Supermarket Type1
+19.2,LF,0.041220035,Household,2.118036438,9,Small,Tier 2,Supermarket Type1
+16.1,Regular,0.024987903,Fruits and Vegetables,1.988295804,14,Medium,Tier 1,Supermarket Type1
+21.25,LF,0.009996872,Meat,2.268486236,9,Small,Tier 2,Supermarket Type1
+9,LF,0.079506434,Canned,1.894118813,11,Small,Tier 2,Supermarket Type1
+12.15,LF,0.021811987,Breads,2.213832141,4,Medium,Tier 3,Supermarket Type2
+12.6,LF,0.039631495,Frozen Foods,1.504549694,28,Medium,Tier 3,Supermarket Type3
+7.94,LF,0.017141985,Dairy,1.699273904,26,High,Tier 3,Supermarket Type1
+17.6,LF,0.056379439,Frozen Foods,1.630889385,14,Medium,Tier 1,Supermarket Type1
+13.35,LF,0,Dairy,1.889868437,16,Small,Tier 1,Supermarket Type1
+9,LF,0.082011521,Frozen Foods,2.329099568,16,Small,Tier 1,Supermarket Type1
+17.6,LF,0.049144165,Snack Foods,2.051991733,14,Medium,Tier 1,Supermarket Type1
+9,LF,0.03201648,Household,1.998266315,9,Small,Tier 2,Supermarket Type1
+12.6,LF,0.055806016,Seafood,1.720144413,28,Medium,Tier 3,Supermarket Type3
+20.2,Regular,0.117543713,Baking Goods,2.295151298,14,Medium,Tier 1,Supermarket Type1
+20.7,LF,0.048718334,Fruits and Vegetables,1.588278431,26,High,Tier 3,Supermarket Type1
+12.6,Regular,0.095587976,Fruits and Vegetables,2.287761433,28,Small,Tier 1,Grocery Store
+13.35,LF,0.091189915,Snack Foods,2.174265707,9,Small,Tier 2,Supermarket Type1
+20.85,Regular,0.062212713,Baking Goods,1.945229214,9,Small,Tier 2,Supermarket Type1
+5.62,LF,0.126480422,Health and Hygiene,2.084837134,6,Small,Tier 2,Supermarket Type1
+20.5,LF,0.144094079,Household,1.541816294,6,Small,Tier 2,Supermarket Type1
+12.65,LF,0.035404052,Baking Goods,2.362861186,9,Small,Tier 2,Supermarket Type1
+6.43,LF,0.105742544,Breakfast,2.11581879,15,Small,Tier 3,Grocery Store
+9.7,Regular,0.029223424,Canned,2.244121192,11,Small,Tier 2,Supermarket Type1
+12.6,Regular,0.021002171,Canned,2.26762316,28,Small,Tier 1,Grocery Store
+15.6,LF,0.088215871,Snack Foods,2.342777473,6,Small,Tier 2,Supermarket Type1
+16.1,Regular,0.063429818,Dairy,2.253899414,14,Medium,Tier 1,Supermarket Type1
+17.6,LF,0.010037996,Snack Foods,2.213664356,9,Small,Tier 2,Supermarket Type1
+16.5,Regular,0.093846532,Baking Goods,1.980942796,9,Small,Tier 2,Supermarket Type1
+11.65,LF,0.040744057,Fruits and Vegetables,2.269335454,6,Small,Tier 2,Supermarket Type1
+17.6,LF,0.015775777,Household,2.253332189,6,Small,Tier 2,Supermarket Type1
+6.24,LF,0.118858866,Household,2.420436014,14,Medium,Tier 1,Supermarket Type1
+16.75,LF,0.105448901,Snack Foods,2.193578144,6,Small,Tier 2,Supermarket Type1
+6.58,Regular,0.075625152,Breads,2.163591877,14,Medium,Tier 1,Supermarket Type1
+12.6,LF,0.198424841,Soft Drinks,2.267857607,28,Small,Tier 1,Grocery Store
+16.7,Regular,0.120137953,Fruits and Vegetables,2.258392055,6,Small,Tier 2,Supermarket Type1
+8.18,Regular,0.082867689,Frozen Foods,1.767592168,6,Small,Tier 2,Supermarket Type1
+12.35,LF,0.093441604,Snack Foods,2.075956975,14,Medium,Tier 1,Supermarket Type1
+12.6,Regular,0.011937183,Canned,2.266684106,28,Medium,Tier 3,Supermarket Type3
+6.59,LF,0.026163192,Household,2.084611306,26,High,Tier 3,Supermarket Type1
+12.6,Regular,0.015950066,Breads,1.678884234,28,Medium,Tier 3,Supermarket Type3
+12.6,LF,0.143199389,Breads,2.245110266,28,Small,Tier 1,Grocery Store
+12.6,LF,0.237651344,Fruits and Vegetables,2.230986603,28,Small,Tier 1,Grocery Store
+20.35,Regular,0.031102571,Dairy,2.41038442,6,Small,Tier 2,Supermarket Type1
+12.6,LF,0.142589751,Household,1.555324237,28,Medium,Tier 3,Supermarket Type3
+14.1,LF,0.126292985,Fruits and Vegetables,1.947530766,4,Medium,Tier 3,Supermarket Type2
+17.25,LF,0.05869048,Dairy,1.961952364,15,Small,Tier 3,Grocery Store
+10.5,LF,0.071244438,Frozen Foods,2.076311959,9,Small,Tier 2,Supermarket Type1
+18.7,LF,0.046088273,Health and Hygiene,2.186584004,16,Small,Tier 1,Supermarket Type1
+5.78,LF,0.014584584,Soft Drinks,2.165274604,11,Small,Tier 2,Supermarket Type1
+12.8,Regular,0.023530953,Meat,2.349356024,16,Small,Tier 1,Supermarket Type1
+8.31,Regular,0.115911972,Snack Foods,2.248715594,11,Small,Tier 2,Supermarket Type1
+12.6,LF,0.029084548,Frozen Foods,2.086394715,28,Small,Tier 1,Grocery Store
+11.3,LF,0.066816565,Household,2.283861379,11,Small,Tier 2,Supermarket Type1
+15.7,LF,0.122742389,Canned,2.128057256,11,Small,Tier 2,Supermarket Type1
+18.2,LF,0.090084098,Fruits and Vegetables,2.294931135,11,Small,Tier 2,Supermarket Type1
+19.85,Regular,0.020908608,Snack Foods,1.802906387,14,Medium,Tier 1,Supermarket Type1
+12.85,LF,0.030678825,Starchy Foods,2.400890117,11,Small,Tier 2,Supermarket Type1
+10.5,Regular,0.013493914,Snack Foods,2.157503308,9,Small,Tier 2,Supermarket Type1
+8.6,Regular,0.040205535,Canned,2.275893863,16,Small,Tier 1,Supermarket Type1
+20.5,LF,0.032819637,Household,1.590866345,14,Medium,Tier 1,Supermarket Type1
+15.1,Regular,0.096249842,Meat,2.128703556,14,Medium,Tier 1,Supermarket Type1
+7.91,LF,0.010003987,Snack Foods,2.399225007,26,High,Tier 3,Supermarket Type1
+19.85,LF,0.054025644,Seafood,2.295076015,16,Small,Tier 1,Supermarket Type1
+12.6,LF,0.06912336,Soft Drinks,2.025690005,28,Medium,Tier 3,Supermarket Type3
+11.65,LF,0.033851785,Seafood,2.049938663,9,Small,Tier 2,Supermarket Type1
+7.24,LF,0.058121214,Snack Foods,2.064021229,9,Small,Tier 2,Supermarket Type1
+8.84,Regular,0.076547632,Frozen Foods,2.039504538,9,Small,Tier 2,Supermarket Type1
+18.85,LF,0.16758389,Household,2.289173186,16,Small,Tier 1,Supermarket Type1
+8.42,LF,0.070968081,Household,2.334291262,6,Small,Tier 2,Supermarket Type1
+12.6,LF,0.011206632,Canned,2.281984589,28,Medium,Tier 3,Supermarket Type3
+9,LF,0.039004193,Soft Drinks,1.568424683,11,Small,Tier 2,Supermarket Type1
+20.1,Regular,0.054584207,Fruits and Vegetables,2.286416047,9,Small,Tier 2,Supermarket Type1
+20.25,LF,0.014251461,Household,2.172140956,11,Small,Tier 2,Supermarket Type1
+20.35,LF,0.090480214,Snack Foods,2.077537229,15,Small,Tier 3,Grocery Store
+12.6,LF,0.294939214,Frozen Foods,1.673076228,28,Small,Tier 1,Grocery Store
+12.6,LF,0.018632082,Canned,1.919029951,28,Small,Tier 1,Grocery Store
+9.2,LF,0.114863923,Frozen Foods,1.771033053,9,Small,Tier 2,Supermarket Type1
+12.6,LF,0.056191301,Seafood,1.726712542,11,Small,Tier 2,Supermarket Type1
+5.46,Regular,0.032242661,Canned,2.273288391,11,Small,Tier 2,Supermarket Type1
+12.3,Regular,0.058234621,Snack Foods,1.7690537,11,Small,Tier 2,Supermarket Type1
+19.6,LF,0.023931217,Household,2.013664547,26,High,Tier 3,Supermarket Type1
+11.1,LF,0.11089655,Fruits and Vegetables,2.282360597,11,Small,Tier 2,Supermarket Type1
+9.27,LF,0.103419257,Dairy,2.17056972,15,Small,Tier 3,Grocery Store
+13.35,LF,0.032180494,Meat,1.786889069,16,Small,Tier 1,Supermarket Type1
+12.3,LF,0.111500259,Baking Goods,1.552514909,11,Small,Tier 2,Supermarket Type1
+6.43,LF,0.010497273,Canned,2.073281271,6,Small,Tier 2,Supermarket Type1
+5.19,LF,0.042687151,Frozen Foods,2.292058821,14,Medium,Tier 1,Supermarket Type1
+10.8,Regular,0.048218142,Baking Goods,1.625454448,14,Medium,Tier 1,Supermarket Type1
+11.8,Regular,0.107036943,Dairy,2.343166661,9,Small,Tier 2,Supermarket Type1
+12.6,LF,0.032381325,Meat,2.220589731,28,Medium,Tier 3,Supermarket Type3
+7.81,Regular,0.034043503,Snack Foods,2.227155756,14,Medium,Tier 1,Supermarket Type1
+12.85,LF,0,Frozen Foods,1.583384698,9,Small,Tier 2,Supermarket Type1
+9.3,LF,0.016087659,Dairy,2.397260588,4,Medium,Tier 3,Supermarket Type2
+16.6,LF,0,Frozen Foods,1.737680751,6,Small,Tier 2,Supermarket Type1
+14.5,LF,0.089778187,Health and Hygiene,2.199920748,16,Small,Tier 1,Supermarket Type1
+5.47,Regular,0,Baking Goods,2.111136779,16,Small,Tier 1,Supermarket Type1
+12.6,LF,0.013066448,Household,2.148958458,28,Medium,Tier 3,Supermarket Type3
+12.6,Regular,0.058542509,Fruits and Vegetables,2.226972955,28,Medium,Tier 3,Supermarket Type3
+20.35,LF,0.089608321,Dairy,2.418565434,14,Medium,Tier 1,Supermarket Type1
+6.28,LF,0.027748176,Soft Drinks,1.937115507,14,Medium,Tier 1,Supermarket Type1
+9.4,LF,0.159201868,Soft Drinks,2.354246776,26,High,Tier 3,Supermarket Type1
+12.65,LF,0.042175992,Household,2.027324324,26,High,Tier 3,Supermarket Type1
+12.6,LF,0.057933643,Meat,2.243469151,28,Small,Tier 1,Grocery Store
+8.88,LF,0.086916126,Hard Drinks,2.185735321,14,Medium,Tier 1,Supermarket Type1
+18.25,LF,0.075347426,Snack Foods,2.101419168,11,Small,Tier 2,Supermarket Type1
+6.63,Regular,0.010961483,Snack Foods,1.765361535,11,Small,Tier 2,Supermarket Type1
+12.6,Regular,0.029157849,Frozen Foods,1.987096662,28,Small,Tier 1,Grocery Store
+4.64,LF,0.141108156,Breads,2.108224625,14,Medium,Tier 1,Supermarket Type1
+20.2,Regular,0.121500143,Snack Foods,1.978067248,11,Small,Tier 2,Supermarket Type1
+11.4,Regular,0.069574013,Meat,2.367097877,9,Small,Tier 2,Supermarket Type1
+18.35,Regular,0.092226754,Frozen Foods,2.26582356,16,Small,Tier 1,Supermarket Type1
+19.6,LF,0.023999722,Household,2.01743571,11,Small,Tier 2,Supermarket Type1
+12.3,LF,0.052608525,Household,2.281608256,11,Small,Tier 2,Supermarket Type1
+17.6,LF,0.058042926,Meat,2.189297688,26,High,Tier 3,Supermarket Type1
+8.16,LF,0.119692888,Meat,2.275203055,11,Small,Tier 2,Supermarket Type1
+8.4,LF,0.039484739,Snack Foods,1.990801323,9,Small,Tier 2,Supermarket Type1
+10,LF,0.021425341,Household,2.398243908,16,Small,Tier 1,Supermarket Type1
+12.6,Regular,0.149305497,Meat,2.077776205,28,Small,Tier 1,Grocery Store
+11.1,LF,0.033102681,Household,2.066744734,9,Small,Tier 2,Supermarket Type1
+7.08,LF,0.058676973,Dairy,2.15232749,6,Small,Tier 2,Supermarket Type1
+14.1,LF,0.067148407,Snack Foods,2.301915921,4,Medium,Tier 3,Supermarket Type2
+16.35,LF,0.020579897,Fruits and Vegetables,1.717107719,14,Medium,Tier 1,Supermarket Type1
+15.2,LF,0.03366718,Household,2.040171788,11,Small,Tier 2,Supermarket Type1
+11.5,LF,0.173867958,Fruits and Vegetables,2.110135652,11,Small,Tier 2,Supermarket Type1
+19,LF,0.111923422,Frozen Foods,2.027603178,16,Small,Tier 1,Supermarket Type1
+19.7,LF,0.024756031,Soft Drinks,1.923550715,4,Medium,Tier 3,Supermarket Type2
+16.75,LF,0.045138797,Snack Foods,2.27405527,11,Small,Tier 2,Supermarket Type1
+20.7,LF,0.169776346,Canned,2.26582356,9,Small,Tier 2,Supermarket Type1
+15.6,LF,0.116913245,Frozen Foods,1.893023444,16,Small,Tier 1,Supermarket Type1
+19.6,LF,0.024222321,Dairy,1.658696183,9,Small,Tier 2,Supermarket Type1
+12.85,LF,0.169139066,Frozen Foods,1.666574136,4,Medium,Tier 3,Supermarket Type2
+12.6,LF,0.035769657,Soft Drinks,1.611869818,28,Medium,Tier 3,Supermarket Type3
+19,Regular,0.10361083,Fruits and Vegetables,2.358642855,14,Medium,Tier 1,Supermarket Type1
+12.6,LF,0,Frozen Foods,1.992292775,28,Small,Tier 1,Grocery Store
+9.8,Regular,0.056386541,Breads,1.927836235,16,Small,Tier 1,Supermarket Type1
+12.6,LF,0.090596378,Others,2.028139183,28,Medium,Tier 3,Supermarket Type3
+12.6,Regular,0.057143515,Meat,2.18137647,28,Medium,Tier 3,Supermarket Type3
+7.64,Regular,0.070645636,Snack Foods,1.960051979,26,High,Tier 3,Supermarket Type1
+12.6,Regular,0.066006824,Dairy,2.101301556,28,Small,Tier 1,Grocery Store
+19.1,LF,0.045492697,Dairy,1.605453737,4,Medium,Tier 3,Supermarket Type2
+19.1,LF,0.03856376,Fruits and Vegetables,2.320683315,16,Small,Tier 1,Supermarket Type1
+12.6,Regular,0.069909188,Soft Drinks,2.212951078,28,Small,Tier 1,Grocery Store
+18.85,LF,0.036111038,Meat,1.764596021,11,Small,Tier 2,Supermarket Type1
+12.5,LF,0.031225303,Fruits and Vegetables,2.012411154,6,Small,Tier 2,Supermarket Type1
+9.3,LF,0.043777415,Hard Drinks,2.285522654,9,Small,Tier 2,Supermarket Type1
+16.35,LF,0,Fruits and Vegetables,2.297853705,16,Small,Tier 1,Supermarket Type1
+5.82,LF,0,Household,2.228859564,26,High,Tier 3,Supermarket Type1
+10.5,LF,0.027271252,Household,2.23454411,9,Small,Tier 2,Supermarket Type1
+18.2,LF,0.089884775,Fruits and Vegetables,2.290281755,9,Small,Tier 2,Supermarket Type1
+11.6,Regular,0.143990173,Dairy,2.379527051,9,Small,Tier 2,Supermarket Type1
+12.6,Regular,0.019107027,Soft Drinks,1.685465852,28,Medium,Tier 3,Supermarket Type3
+8.27,LF,0.01889024,Health and Hygiene,2.376919878,4,Medium,Tier 3,Supermarket Type2
+12.85,Regular,0.152364317,Fruits and Vegetables,2.404899027,14,Medium,Tier 1,Supermarket Type1
+8.99,LF,0.183774965,Fruits and Vegetables,2.007619775,11,Small,Tier 2,Supermarket Type1
+10.3,Regular,0.024891881,Baking Goods,2.232849289,9,Small,Tier 2,Supermarket Type1
+9.4,Regular,0.100966837,Baking Goods,1.938947805,6,Small,Tier 2,Supermarket Type1
+12.1,LF,0.030297819,Canned,1.873709955,6,Small,Tier 2,Supermarket Type1
+7.93,LF,0.07113587,Health and Hygiene,1.630515335,16,Small,Tier 1,Supermarket Type1
+8.43,LF,0.017322454,Soft Drinks,2.294194542,9,Small,Tier 2,Supermarket Type1
+12.6,Regular,0.117442838,Snack Foods,2.411165648,28,Small,Tier 1,Grocery Store
+17.7,LF,0.087791917,Dairy,2.256787958,9,Small,Tier 2,Supermarket Type1
+18.2,LF,0.090267996,Fruits and Vegetables,2.289390487,4,Medium,Tier 3,Supermarket Type2
+19.35,Regular,0.082394321,Baking Goods,1.685772183,14,Medium,Tier 1,Supermarket Type1
+7.48,LF,0.01319424,Household,2.337297893,6,Small,Tier 2,Supermarket Type1
+6.64,Regular,0.00636189,Baking Goods,2.083179287,6,Small,Tier 2,Supermarket Type1
+12.6,LF,0.036150153,Dairy,2.341529881,28,Medium,Tier 3,Supermarket Type3
+20.85,Regular,0.062321222,Baking Goods,1.940772404,14,Medium,Tier 1,Supermarket Type1
+6.16,Regular,0.158441218,Meat,2.329918314,15,Small,Tier 3,Grocery Store
+8.91,LF,0.143419394,Frozen Foods,1.788788955,11,Small,Tier 2,Supermarket Type1
+17.85,LF,0.018052019,Health and Hygiene,1.985019385,14,Medium,Tier 1,Supermarket Type1
+14.85,LF,0.15643727,Baking Goods,2.152536616,15,Small,Tier 3,Grocery Store
+16.5,LF,0.035728302,Health and Hygiene,1.978691688,11,Small,Tier 2,Supermarket Type1
+12.15,Regular,0.131973625,Fruits and Vegetables,2.274128279,26,High,Tier 3,Supermarket Type1
+8.9,Regular,0.088681966,Snack Foods,2.086263706,4,Medium,Tier 3,Supermarket Type2
+15.7,LF,0.122470805,Canned,2.119896298,9,Small,Tier 2,Supermarket Type1
+13.3,LF,0.035607579,Baking Goods,2.078864095,15,Small,Tier 3,Grocery Store
+8.21,LF,0.044925784,Dairy,1.934598428,16,Small,Tier 1,Supermarket Type1
+20.7,LF,0.071699984,Dairy,2.249449808,15,Small,Tier 3,Grocery Store
+13.35,LF,0.091723066,Snack Foods,2.172809522,6,Small,Tier 2,Supermarket Type1
+9.17,LF,0.172365428,Baking Goods,2.160909505,15,Small,Tier 3,Grocery Store
+16.5,Regular,0.094246644,Baking Goods,1.995226151,4,Medium,Tier 3,Supermarket Type2
+6.98,LF,0.041071581,Canned,1.916945344,26,High,Tier 3,Supermarket Type1
+11,LF,0.054939029,Health and Hygiene,2.006191259,16,Small,Tier 1,Supermarket Type1
+19.5,Regular,0.030819397,Canned,1.934771062,4,Medium,Tier 3,Supermarket Type2
+19.2,Regular,0,Fruits and Vegetables,2.266219933,4,Medium,Tier 3,Supermarket Type2
+8.06,LF,0.021358889,Breakfast,2.366110153,26,High,Tier 3,Supermarket Type1
+12.6,Regular,0.087221497,Dairy,2.421589121,28,Medium,Tier 3,Supermarket Type3
+5.18,LF,0.050808821,Health and Hygiene,1.527467493,15,Small,Tier 3,Grocery Store
+6.15,LF,0.046342889,Baking Goods,1.988284203,14,Medium,Tier 1,Supermarket Type1
+15.2,LF,0,Soft Drinks,1.985315079,16,Small,Tier 1,Supermarket Type1
+6.62,LF,0.093574769,Dairy,2.299817927,11,Small,Tier 2,Supermarket Type1
+20.2,LF,0.011838464,Household,2.190706991,14,Medium,Tier 1,Supermarket Type1
+12.6,Regular,0.086837543,Frozen Foods,2.026249634,28,Medium,Tier 3,Supermarket Type3
+5.1,Regular,0.129705008,Snack Foods,2.151932811,14,Medium,Tier 1,Supermarket Type1
+11.6,Regular,0.157149885,Breakfast,2.225948362,11,Small,Tier 2,Supermarket Type1
+14.3,LF,0.12780038,Frozen Foods,1.922322628,11,Small,Tier 2,Supermarket Type1
+12.6,LF,0.119959873,Fruits and Vegetables,1.658068662,28,Medium,Tier 3,Supermarket Type3
+12.3,LF,0.069401919,Soft Drinks,2.033398823,26,High,Tier 3,Supermarket Type1
+13.65,Regular,0.026579951,Meat,1.5409948,26,High,Tier 3,Supermarket Type1
+8.8,LF,0.071369947,Snack Foods,2.320481125,26,High,Tier 3,Supermarket Type1
+6.72,Regular,0.203510667,Baking Goods,1.613264492,15,Small,Tier 3,Grocery Store
+18,LF,0.017979145,Starchy Foods,2.251318404,4,Medium,Tier 3,Supermarket Type2
+12.6,Regular,0.073700837,Fruits and Vegetables,2.316313869,28,Medium,Tier 3,Supermarket Type3
+12.6,LF,0.008499464,Baking Goods,1.910420548,28,Medium,Tier 3,Supermarket Type3
+7.27,Regular,0.020865797,Canned,1.955441436,4,Medium,Tier 3,Supermarket Type2
+9.2,Regular,0.122494876,Fruits and Vegetables,2.000441019,14,Medium,Tier 1,Supermarket Type1
+12.8,LF,0.022980361,Fruits and Vegetables,2.070957965,14,Medium,Tier 1,Supermarket Type1
+13.5,Regular,0.017895691,Snack Foods,1.900345277,11,Small,Tier 2,Supermarket Type1
+19.35,Regular,0.082731751,Baking Goods,1.691995114,6,Small,Tier 2,Supermarket Type1
+8.49,LF,0.058083831,Health and Hygiene,2.013675489,26,High,Tier 3,Supermarket Type1
+17,Regular,0.139804885,Canned,2.424536023,11,Small,Tier 2,Supermarket Type1
+10.5,Regular,0.0481669,Dairy,1.688754313,26,High,Tier 3,Supermarket Type1
+5.62,LF,0.12566436,Health and Hygiene,2.091572,26,High,Tier 3,Supermarket Type1
+7.83,Regular,0.150015234,Frozen Foods,2.197359965,16,Small,Tier 1,Supermarket Type1
+15.2,LF,0.019142452,Snack Foods,2.375708961,6,Small,Tier 2,Supermarket Type1
+18.85,LF,0.090850115,Hard Drinks,2.102548953,9,Small,Tier 2,Supermarket Type1
+9.2,Regular,0.086396038,Baking Goods,1.89798098,15,Small,Tier 3,Grocery Store
+15.3,LF,0.023071504,Household,2.007889391,4,Medium,Tier 3,Supermarket Type2
+13.5,Regular,0.160624116,Fruits and Vegetables,2.167347468,6,Small,Tier 2,Supermarket Type1
+17.7,LF,0.050929429,Household,2.111154263,9,Small,Tier 2,Supermarket Type1
+13.85,Regular,0.026042966,Frozen Foods,2.207421611,6,Small,Tier 2,Supermarket Type1
+6.92,LF,0.038610722,Dairy,1.78877059,4,Medium,Tier 3,Supermarket Type2
+11,Regular,0.057290978,Fruits and Vegetables,2.385161385,4,Medium,Tier 3,Supermarket Type2
+12.6,LF,0.087380432,Fruits and Vegetables,2.040296882,26,High,Tier 3,Supermarket Type1
+12.6,Regular,0.030476541,Snack Foods,2.401869739,28,Medium,Tier 3,Supermarket Type3
+11.6,Regular,0.078863888,Frozen Foods,1.920267371,26,High,Tier 3,Supermarket Type1
+7.44,LF,0.205605116,Starchy Foods,2.31756988,15,Small,Tier 3,Grocery Store
+5.66,LF,0.085622362,Fruits and Vegetables,2.223366126,4,Medium,Tier 3,Supermarket Type2
+20.35,LF,0.142393712,Snack Foods,2.088870046,4,Medium,Tier 3,Supermarket Type2
+8.85,LF,0.053976156,Fruits and Vegetables,2.258946494,11,Small,Tier 2,Supermarket Type1
+12.6,LF,0.054363971,Fruits and Vegetables,2.021598584,28,Small,Tier 1,Grocery Store
+12.6,LF,0.161039887,Snack Foods,2.322759139,15,Small,Tier 3,Grocery Store
+7.21,Regular,0,Snack Foods,2.013398493,6,Small,Tier 2,Supermarket Type1
+11.85,Regular,0.050085152,Fruits and Vegetables,2.216832277,16,Small,Tier 1,Supermarket Type1
+12.6,LF,0.126924095,Frozen Foods,1.940628032,28,Medium,Tier 3,Supermarket Type3
+6.11,Regular,0.103340142,Fruits and Vegetables,2.118254141,4,Medium,Tier 3,Supermarket Type2
+15.15,Regular,0.012288171,Snack Foods,2.11370409,11,Small,Tier 2,Supermarket Type1
+10.5,Regular,0.142827296,Breads,2.202645768,11,Small,Tier 2,Supermarket Type1
+11,LF,0.037953762,Health and Hygiene,1.584873753,14,Medium,Tier 1,Supermarket Type1
+10.7,Regular,0.128247408,Dairy,2.085804148,4,Medium,Tier 3,Supermarket Type2
+9.11,LF,0.038699553,Household,1.528788192,6,Small,Tier 2,Supermarket Type1
+13.3,LF,0.06355415,Frozen Foods,2.174556359,9,Small,Tier 2,Supermarket Type1
+12.15,Regular,0.132083542,Fruits and Vegetables,2.277809013,16,Small,Tier 1,Supermarket Type1
+15.85,LF,0.228469522,Canned,1.969925397,15,Small,Tier 3,Grocery Store
+7.09,LF,0.007256127,Baking Goods,1.702459833,6,Small,Tier 2,Supermarket Type1
+6.55,LF,0.024664556,Breads,2.014239879,6,Small,Tier 2,Supermarket Type1
+12.1,LF,0.034427577,Snack Foods,2.166351359,15,Small,Tier 3,Grocery Store
+9.5,Regular,0,Snack Foods,2.260931489,15,Small,Tier 3,Grocery Store
+16.1,LF,0.100799828,Fruits and Vegetables,1.894497719,6,Small,Tier 2,Supermarket Type1
+13.85,LF,0.030920531,Soft Drinks,2.149266544,4,Medium,Tier 3,Supermarket Type2
+18.85,LF,0.039723999,Snack Foods,1.613292002,11,Small,Tier 2,Supermarket Type1
+13.8,LF,0.05843112,Dairy,2.386820242,6,Small,Tier 2,Supermarket Type1
+9.4,LF,0.103664897,Snack Foods,2.368646075,26,High,Tier 3,Supermarket Type1
+16.75,LF,0.105282932,Snack Foods,2.195797291,4,Medium,Tier 3,Supermarket Type2
+7.72,Regular,0.088543868,Fruits and Vegetables,2.070210072,11,Small,Tier 2,Supermarket Type1
+12.6,LF,0.304859104,Baking Goods,2.098422889,28,Small,Tier 1,Grocery Store
+12.6,LF,0.090778148,Household,2.184981999,28,Small,Tier 1,Grocery Store
+8,Regular,0.030311951,Breads,2.393415845,14,Medium,Tier 1,Supermarket Type1
+15.1,Regular,0.067064128,Snack Foods,2.411502532,9,Small,Tier 2,Supermarket Type1
+20.2,LF,0.065932087,Household,1.811916677,16,Small,Tier 1,Supermarket Type1
+12.6,LF,0.158096128,Household,1.936454425,28,Small,Tier 1,Grocery Store
+12.6,LF,0.096411426,Household,2.285516803,28,Medium,Tier 3,Supermarket Type3
+12.85,LF,0.16871476,Frozen Foods,1.674916227,14,Medium,Tier 1,Supermarket Type1
+12.6,LF,0.082353076,Household,2.24774109,28,Medium,Tier 3,Supermarket Type3
+10.3,Regular,0,Fruits and Vegetables,2.281381118,9,Small,Tier 2,Supermarket Type1
+11.85,Regular,0,Baking Goods,1.709834516,9,Small,Tier 2,Supermarket Type1
+18.35,Regular,0.092150005,Frozen Foods,2.266764474,26,High,Tier 3,Supermarket Type1
+12.6,LF,0.01938106,Others,2.215693069,28,Medium,Tier 3,Supermarket Type3
+7.86,Regular,0.162461219,Baking Goods,1.594224546,6,Small,Tier 2,Supermarket Type1
+18.5,LF,0.033944698,Others,2.11370409,16,Small,Tier 1,Supermarket Type1
+6.65,LF,0.08816538,Fruits and Vegetables,2.103351409,6,Small,Tier 2,Supermarket Type1
+7.66,LF,0.032009653,Canned,2.069109888,11,Small,Tier 2,Supermarket Type1
+8.1,Regular,0.134870732,Canned,1.622711259,4,Medium,Tier 3,Supermarket Type2
+15.7,LF,0.045295529,Frozen Foods,2.258555875,11,Small,Tier 2,Supermarket Type1
+7.36,LF,0.052312034,Frozen Foods,1.767592168,16,Small,Tier 1,Supermarket Type1
+5.46,Regular,0.107223632,Fruits and Vegetables,2.161004241,14,Medium,Tier 1,Supermarket Type1
+8.6,Regular,0.054594957,Breads,2.115713665,11,Small,Tier 2,Supermarket Type1
+9.04,Regular,0.173821519,Meat,2.180328919,11,Small,Tier 2,Supermarket Type1
+20.35,Regular,0,Fruits and Vegetables,2.370135069,11,Small,Tier 2,Supermarket Type1
+15.6,LF,0.081103929,Baking Goods,2.050590085,16,Small,Tier 1,Supermarket Type1
+15,LF,0.119131749,Snack Foods,2.35596731,11,Small,Tier 2,Supermarket Type1
+6.89,Regular,0,Snack Foods,2.286640568,14,Medium,Tier 1,Supermarket Type1
+12.15,LF,0.036360676,Breads,2.220156224,15,Small,Tier 3,Grocery Store
+19.1,LF,0.096653315,Fruits and Vegetables,2.371429562,26,High,Tier 3,Supermarket Type1
+8.91,LF,0.143351652,Frozen Foods,1.793006271,14,Medium,Tier 1,Supermarket Type1
+6.38,LF,0.015149955,Household,2.158504218,26,High,Tier 3,Supermarket Type1
+10,Regular,0.063121982,Frozen Foods,2.365051225,26,High,Tier 3,Supermarket Type1
+14.5,Regular,0.058946687,Fruits and Vegetables,2.226972955,11,Small,Tier 2,Supermarket Type1
+10.9,Regular,0.009641375,Dairy,2.094027174,11,Small,Tier 2,Supermarket Type1
+17.85,LF,0.0112259,Snack Foods,2.326245715,26,High,Tier 3,Supermarket Type1
+18.7,LF,0.026355345,Baking Goods,2.104152384,11,Small,Tier 2,Supermarket Type1
+18,LF,0.01548171,Health and Hygiene,2.202380411,11,Small,Tier 2,Supermarket Type1
+12.6,LF,0.045465958,Fruits and Vegetables,2.082215748,28,Small,Tier 1,Grocery Store
+12.6,LF,0.093217569,Snack Foods,2.067381115,28,Medium,Tier 3,Supermarket Type3
+8.43,LF,0.177661246,Household,2.231831861,9,Small,Tier 2,Supermarket Type1
+11.35,Regular,0.06321435,Dairy,1.946381514,9,Small,Tier 2,Supermarket Type1
+18.35,LF,0.015301418,Hard Drinks,2.022402799,9,Small,Tier 2,Supermarket Type1
+12.1,LF,0,Hard Drinks,2.254949077,11,Small,Tier 2,Supermarket Type1
+11.8,Regular,0.076876046,Snack Foods,1.520559511,11,Small,Tier 2,Supermarket Type1
+17.85,LF,0.011258035,Snack Foods,2.325630584,11,Small,Tier 2,Supermarket Type1
+6.8,LF,0.062762374,Baking Goods,1.702459833,15,Small,Tier 3,Grocery Store
+7.5,LF,0.05074138,Canned,2.090636088,9,Small,Tier 2,Supermarket Type1
+19.6,LF,0.047897663,Health and Hygiene,1.650084003,16,Small,Tier 1,Supermarket Type1
+6.59,LF,0,Household,2.075947495,6,Small,Tier 2,Supermarket Type1
+17.6,Regular,0.026827052,Breads,1.679792987,15,Small,Tier 3,Grocery Store
+20.35,Regular,0.014822802,Fruits and Vegetables,2.369393622,9,Small,Tier 2,Supermarket Type1
+5.34,Regular,0.005962753,Snack Foods,2.010451764,9,Small,Tier 2,Supermarket Type1
+12.6,Regular,0.047358246,Dairy,2.090524686,28,Medium,Tier 3,Supermarket Type3
+9.8,LF,0.026882496,Meat,2.101410228,14,Medium,Tier 1,Supermarket Type1
+12.6,LF,0.085538477,Snack Foods,2.228609755,28,Medium,Tier 3,Supermarket Type3
+15.5,LF,0,Snack Foods,2.150900669,6,Small,Tier 2,Supermarket Type1
+12.6,Regular,0.129668578,Fruits and Vegetables,2.315684498,28,Small,Tier 1,Grocery Store
+12.6,Regular,0.070017381,Meat,1.951101362,28,Small,Tier 1,Grocery Store
+9.6,Regular,0,Snack Foods,2.281231597,6,Small,Tier 2,Supermarket Type1
+6.04,Regular,0.066051758,Baking Goods,2.2735198,4,Medium,Tier 3,Supermarket Type2
+11.6,LF,0.037793818,Health and Hygiene,1.996967617,6,Small,Tier 2,Supermarket Type1
+18.85,Regular,0.138585859,Snack Foods,2.402213908,11,Small,Tier 2,Supermarket Type1
+9.8,Regular,0.073289899,Snack Foods,2.082102165,6,Small,Tier 2,Supermarket Type1
+21.1,LF,0.029054046,Household,2.160404298,14,Medium,Tier 1,Supermarket Type1
+12.6,LF,0.006665667,Household,2.215157274,28,Medium,Tier 3,Supermarket Type3
+17,Regular,0.140311123,Canned,2.424372593,6,Small,Tier 2,Supermarket Type1
+8.71,Regular,0.072141818,Canned,2.263381334,9,Small,Tier 2,Supermarket Type1
+12.6,LF,0.052964982,Fruits and Vegetables,1.761875239,28,Medium,Tier 3,Supermarket Type3
+9.1,Regular,0.081652352,Breads,2.247986516,9,Small,Tier 2,Supermarket Type1
+16.1,LF,0.065183228,Dairy,2.170484674,16,Small,Tier 1,Supermarket Type1
+16.5,Regular,0.066383907,Breakfast,2.256306824,11,Small,Tier 2,Supermarket Type1
+12.15,Regular,0.042681522,Meat,2.265513553,16,Small,Tier 1,Supermarket Type1
+12.6,Regular,0.043690499,Frozen Foods,1.779736424,28,Medium,Tier 3,Supermarket Type3
+16.85,LF,0.044414056,Fruits and Vegetables,2.261088164,16,Small,Tier 1,Supermarket Type1
+17.85,LF,0.052471995,Snack Foods,2.092394977,6,Small,Tier 2,Supermarket Type1
+12.6,LF,0.255929096,Meat,2.014372669,28,Small,Tier 1,Grocery Store
+15.85,Regular,0.110653377,Frozen Foods,1.567621495,6,Small,Tier 2,Supermarket Type1
+20.1,LF,0,Health and Hygiene,1.787840051,15,Small,Tier 3,Grocery Store
+12.6,LF,0.185306514,Breads,2.099005545,28,Small,Tier 1,Grocery Store
+12.85,Regular,0,Fruits and Vegetables,2.401983001,16,Small,Tier 1,Supermarket Type1
+13.5,Regular,0.017887238,Snack Foods,1.900345277,14,Medium,Tier 1,Supermarket Type1
+15.6,LF,0.045076878,Dairy,2.382710999,11,Small,Tier 2,Supermarket Type1
+12.6,LF,0.030347404,Health and Hygiene,2.284467281,28,Medium,Tier 3,Supermarket Type3
+12.3,LF,0.052492122,Household,2.281153862,9,Small,Tier 2,Supermarket Type1
+15,Regular,0.077999504,Meat,2.376622209,9,Small,Tier 2,Supermarket Type1
+8.27,Regular,0.128126825,Soft Drinks,2.264091188,14,Medium,Tier 1,Supermarket Type1
+18.7,LF,0.105104552,Frozen Foods,2.085316271,4,Medium,Tier 3,Supermarket Type2
+8.06,LF,0.035780177,Breakfast,2.362166818,15,Small,Tier 3,Grocery Store
+16.35,Regular,0.104463896,Fruits and Vegetables,2.356228991,15,Small,Tier 3,Grocery Store
+6.46,Regular,0.049162885,Fruits and Vegetables,2.16705195,16,Small,Tier 1,Supermarket Type1
+16.2,LF,0.050442528,Household,2.280615243,11,Small,Tier 2,Supermarket Type1
+6.06,LF,0.031151714,Fruits and Vegetables,2.200735072,14,Medium,Tier 1,Supermarket Type1
+16.25,LF,0.057396092,Fruits and Vegetables,2.099696521,16,Small,Tier 1,Supermarket Type1
+12.6,Regular,0.071806046,Canned,2.270893951,28,Medium,Tier 3,Supermarket Type3
+13.5,LF,0,Baking Goods,1.944749089,26,High,Tier 3,Supermarket Type1
+17.75,Regular,0.156831826,Dairy,2.382113982,16,Small,Tier 1,Supermarket Type1
+14,LF,0,Fruits and Vegetables,2.336297994,6,Small,Tier 2,Supermarket Type1
+16,LF,0.057292529,Dairy,2.35090749,4,Medium,Tier 3,Supermarket Type2
+12.6,Regular,0.041641933,Fruits and Vegetables,2.083169963,11,Small,Tier 2,Supermarket Type1
+12.6,Regular,0.144338493,Fruits and Vegetables,2.235801058,28,Medium,Tier 3,Supermarket Type3
+16.7,Regular,0.03858813,Snack Foods,2.160198927,14,Medium,Tier 1,Supermarket Type1
+18.25,LF,0.054234197,Snack Foods,2.152335441,16,Small,Tier 1,Supermarket Type1
+12.6,LF,0.134564284,Snack Foods,2.203640909,28,Small,Tier 1,Grocery Store
+10.9,LF,0.035893143,Fruits and Vegetables,2.118358653,4,Medium,Tier 3,Supermarket Type2
+10.7,Regular,0.011472001,Snack Foods,1.876239786,4,Medium,Tier 3,Supermarket Type2
+16.6,LF,0.103146658,Fruits and Vegetables,2.069100258,14,Medium,Tier 1,Supermarket Type1
+12.6,LF,0.072317217,Household,2.206264437,28,Medium,Tier 3,Supermarket Type3
+6.7,LF,0,Frozen Foods,2.341326877,16,Small,Tier 1,Supermarket Type1
+12.6,LF,0.134418705,Household,1.998564458,28,Medium,Tier 3,Supermarket Type3
+11.4,LF,0.021639678,Health and Hygiene,2.176585494,14,Medium,Tier 1,Supermarket Type1
+20.2,Regular,0.121748174,Snack Foods,1.986660684,4,Medium,Tier 3,Supermarket Type2
+6.14,Regular,0.079327367,Baking Goods,2.184227368,16,Small,Tier 1,Supermarket Type1
+12.15,LF,0.131921819,Frozen Foods,2.391545515,6,Small,Tier 2,Supermarket Type1
+12.6,Regular,0.046544984,Fruits and Vegetables,2.235634987,28,Medium,Tier 3,Supermarket Type3
+17.5,LF,0.052740763,Snack Foods,2.01619317,6,Small,Tier 2,Supermarket Type1
+7.15,LF,0.017822936,Frozen Foods,2.207789964,11,Small,Tier 2,Supermarket Type1
+12.6,Regular,0.007006883,Starchy Foods,2.239484171,28,Medium,Tier 3,Supermarket Type3
+17.5,LF,0.026195131,Snack Foods,2.402494549,11,Small,Tier 2,Supermarket Type1
+18.25,LF,0.060589424,Starchy Foods,2.21099392,6,Small,Tier 2,Supermarket Type1
+7.58,LF,0.055476238,Dairy,2.294194542,14,Medium,Tier 1,Supermarket Type1
+9.2,Regular,0.078060601,Meat,2.026776695,16,Small,Tier 1,Supermarket Type1
+12.6,LF,0.026740767,Frozen Foods,2.417124451,28,Medium,Tier 3,Supermarket Type3
+16.5,Regular,0.068403271,Canned,2.008595914,4,Medium,Tier 3,Supermarket Type2
+8.98,Regular,0.009051307,Canned,2.013254453,26,High,Tier 3,Supermarket Type1
+14.65,Regular,0.099333217,Snack Foods,1.71068082,11,Small,Tier 2,Supermarket Type1
+5.95,LF,0.093170838,Household,2.105050782,14,Medium,Tier 1,Supermarket Type1
+12.6,Regular,0.05436436,Starchy Foods,1.804935023,28,Medium,Tier 3,Supermarket Type3
+15.7,LF,0.055943697,Health and Hygiene,2.177831893,26,High,Tier 3,Supermarket Type1
+16,Regular,0.065165046,Dairy,1.899812845,14,Medium,Tier 1,Supermarket Type1
+11.4,Regular,0.069728296,Meat,2.369144583,11,Small,Tier 2,Supermarket Type1
+19.35,Regular,0.082250863,Baking Goods,1.687559281,9,Small,Tier 2,Supermarket Type1
+19.2,LF,0.100482186,Frozen Foods,2.04878584,4,Medium,Tier 3,Supermarket Type2
+5.59,Regular,0.056602818,Snack Foods,1.800832508,16,Small,Tier 1,Supermarket Type1
+11,Regular,0.057047756,Fruits and Vegetables,2.381026949,9,Small,Tier 2,Supermarket Type1
+6.22,Regular,0.083056555,Baking Goods,2.351034852,15,Small,Tier 3,Grocery Store
+12.6,Regular,0.039031927,Snack Foods,1.980644108,28,Medium,Tier 3,Supermarket Type3
+7.51,LF,0.104400238,Snack Foods,2.055203967,6,Small,Tier 2,Supermarket Type1
+7.22,Regular,0.03828933,Baking Goods,1.81124648,26,High,Tier 3,Supermarket Type1
+19.25,Regular,0.034753686,Canned,2.150908646,14,Medium,Tier 1,Supermarket Type1
+16.5,LF,0.028476451,Snack Foods,1.959111065,11,Small,Tier 2,Supermarket Type1
+13.5,Regular,0.067872402,Dairy,1.762349906,16,Small,Tier 1,Supermarket Type1
+12.6,Regular,0.02974207,Dairy,1.949152788,28,Medium,Tier 3,Supermarket Type3
+14.5,Regular,0.058918844,Fruits and Vegetables,2.229796479,14,Medium,Tier 1,Supermarket Type1
+12.6,Regular,0.2004264,Baking Goods,1.948664275,28,Small,Tier 1,Grocery Store
+19.85,LF,0.005235143,Dairy,2.424699391,16,Small,Tier 1,Supermarket Type1
+15.1,LF,0.127334766,Baking Goods,1.945877083,15,Small,Tier 3,Grocery Store
+13.35,Regular,0.014656564,Canned,2.319238931,11,Small,Tier 2,Supermarket Type1
+10.6,LF,0.056884225,Dairy,2.365420964,14,Medium,Tier 1,Supermarket Type1
+18.1,LF,0.022380952,Fruits and Vegetables,1.971319462,26,High,Tier 3,Supermarket Type1
+18.6,LF,0.01575657,Snack Foods,2.185079,26,High,Tier 3,Supermarket Type1
+15.6,LF,0.195688803,Frozen Foods,1.888555757,15,Small,Tier 3,Grocery Store
+7.24,LF,0,Snack Foods,2.295006443,9,Small,Tier 2,Supermarket Type1
+12.6,LF,0.024190156,Dairy,1.537660454,9,Small,Tier 2,Supermarket Type1
+14.6,LF,0.150872868,Soft Drinks,1.677325848,11,Small,Tier 2,Supermarket Type1
+10.85,LF,0.163160327,Snack Foods,2.031255727,6,Small,Tier 2,Supermarket Type1
+19.35,Regular,0.109667698,Meat,2.22032152,15,Small,Tier 3,Grocery Store
+19.5,LF,0.082483516,Canned,2.25333849,26,High,Tier 3,Supermarket Type1
+12.6,Regular,0.058545606,Meat,2.192654972,28,Small,Tier 1,Grocery Store
+19.5,LF,0.014274292,Household,1.745554126,16,Small,Tier 1,Supermarket Type1
+17.75,LF,0.073349552,Seafood,1.534300311,26,High,Tier 3,Supermarket Type1
+17.85,LF,0.087824967,Breads,2.292431969,4,Medium,Tier 3,Supermarket Type2
+12.15,LF,0.132952286,Health and Hygiene,1.575771902,15,Small,Tier 3,Grocery Store
+20.2,Regular,0.059790095,Fruits and Vegetables,2.10540049,9,Small,Tier 2,Supermarket Type1
+6.83,LF,0.059846975,Health and Hygiene,2.419166697,16,Small,Tier 1,Supermarket Type1
+12.6,Regular,0.102226474,Canned,1.960527855,28,Medium,Tier 3,Supermarket Type3
+14.5,Regular,0.06904249,Canned,1.617476335,15,Small,Tier 3,Grocery Store
+12.6,Regular,0.052791124,Baking Goods,1.993605506,28,Small,Tier 1,Grocery Store
+8.99,LF,0.184440421,Fruits and Vegetables,1.998564458,6,Small,Tier 2,Supermarket Type1
+16.35,LF,0.091074449,Household,2.294049368,6,Small,Tier 2,Supermarket Type1
+5.66,LF,0,Soft Drinks,2.168822052,16,Small,Tier 1,Supermarket Type1
+5.78,Regular,0.074087369,Snack Foods,2.42317507,26,High,Tier 3,Supermarket Type1
+10.8,LF,0.029107004,Snack Foods,2.381155168,6,Small,Tier 2,Supermarket Type1
+14.3,LF,0.12826315,Frozen Foods,1.92128268,6,Small,Tier 2,Supermarket Type1
+19.1,LF,0.045400017,Dairy,1.588986164,11,Small,Tier 2,Supermarket Type1
+20.85,LF,0.02137305,Fruits and Vegetables,2.014228951,11,Small,Tier 2,Supermarket Type1
+4.79,LF,0.09297084,Breads,2.086394715,4,Medium,Tier 3,Supermarket Type2
+18.25,LF,0.077709902,Snack Foods,2.414465595,9,Small,Tier 2,Supermarket Type1
+6.87,LF,0.014021626,Soft Drinks,2.104368279,11,Small,Tier 2,Supermarket Type1
+11.35,Regular,0.023358738,Dairy,2.265904088,14,Medium,Tier 1,Supermarket Type1
+12.6,LF,0.111777297,Household,2.095534075,28,Medium,Tier 3,Supermarket Type3
+6.38,LF,0.031962866,Dairy,2.250503925,11,Small,Tier 2,Supermarket Type1
+12.6,Regular,0.074806196,Dairy,2.052761639,28,Medium,Tier 3,Supermarket Type3
+12.15,LF,0.006754117,Others,2.086975238,26,High,Tier 3,Supermarket Type1
+13.35,LF,0,Snack Foods,2.377955022,4,Medium,Tier 3,Supermarket Type2
+17,LF,0.052209303,Health and Hygiene,2.087685607,16,Small,Tier 1,Supermarket Type1
+17.35,Regular,0.041538713,Frozen Foods,1.96932457,14,Medium,Tier 1,Supermarket Type1
+12.6,LF,0.02426524,Health and Hygiene,2.057092243,28,Medium,Tier 3,Supermarket Type3
+12.8,Regular,0.114318263,Breads,2.153155455,4,Medium,Tier 3,Supermarket Type2
+5.79,Regular,0.053930934,Fruits and Vegetables,1.941439872,14,Medium,Tier 1,Supermarket Type1
+20.75,Regular,0.083536989,Frozen Foods,2.256072318,26,High,Tier 3,Supermarket Type1
+18.85,LF,0.168531813,Household,2.284461415,6,Small,Tier 2,Supermarket Type1
+10.1,LF,0.030269774,Health and Hygiene,2.183171867,11,Small,Tier 2,Supermarket Type1
+21.1,LF,0.010593469,Household,2.369764503,26,High,Tier 3,Supermarket Type1
+13.8,Regular,0.107469819,Fruits and Vegetables,1.890986296,15,Small,Tier 3,Grocery Store
+7.24,LF,0.058083831,Snack Foods,2.055697054,26,High,Tier 3,Supermarket Type1
+17.25,LF,0.107021498,Frozen Foods,1.608335587,9,Small,Tier 2,Supermarket Type1
+12.6,LF,0.106907604,Breakfast,2.211794697,28,Small,Tier 1,Grocery Store
+13.65,Regular,0.080968973,Frozen Foods,2.414628448,4,Medium,Tier 3,Supermarket Type2
+7.72,Regular,0.074669288,Breads,1.8830854,26,High,Tier 3,Supermarket Type1
+12.15,LF,0.02176755,Breads,2.216478376,11,Small,Tier 2,Supermarket Type1
+7.97,LF,0,Soft Drinks,2.235634987,4,Medium,Tier 3,Supermarket Type2
+13.65,Regular,0,Meat,1.564111897,6,Small,Tier 2,Supermarket Type1
+12.6,Regular,0.159081735,Frozen Foods,2.286788239,28,Medium,Tier 3,Supermarket Type3
+9,LF,0.019616991,Household,2.229547208,6,Small,Tier 2,Supermarket Type1
+19.35,Regular,0.082266419,Baking Goods,1.688450079,16,Small,Tier 1,Supermarket Type1
+12.6,Regular,0.019227816,Snack Foods,2.214802005,28,Small,Tier 1,Grocery Store
+11.15,LF,0.057021156,Baking Goods,2.028824111,14,Medium,Tier 1,Supermarket Type1
+13.85,LF,0.034765901,Hard Drinks,2.057853168,6,Small,Tier 2,Supermarket Type1
+21.2,LF,0.071076055,Snack Foods,2.242633346,6,Small,Tier 2,Supermarket Type1
+6.11,Regular,0.151925271,Soft Drinks,1.668466058,9,Small,Tier 2,Supermarket Type1
+12.6,LF,0.045900448,Snack Foods,2.075227145,28,Medium,Tier 3,Supermarket Type3
+12.6,LF,0.172641213,Snack Foods,2.290281755,28,Medium,Tier 3,Supermarket Type3
+7.68,LF,0.071010513,Fruits and Vegetables,2.280842782,14,Medium,Tier 1,Supermarket Type1
+14.7,LF,0.072444983,Fruits and Vegetables,1.686666651,11,Small,Tier 2,Supermarket Type1
+11.8,LF,0.058975504,Health and Hygiene,1.912550444,4,Medium,Tier 3,Supermarket Type2
+12.6,Regular,0,Snack Foods,1.769072918,28,Small,Tier 1,Grocery Store
+16.2,LF,0.033568871,Soft Drinks,1.874885194,6,Small,Tier 2,Supermarket Type1
+12.6,Regular,0.063079544,Frozen Foods,2.244947718,28,Small,Tier 1,Grocery Store
+12.6,LF,0.064208126,Frozen Foods,2.255749002,28,Small,Tier 1,Grocery Store
+19.7,LF,0.041974489,Frozen Foods,2.036194384,6,Small,Tier 2,Supermarket Type1
+11.8,Regular,0.170141787,Canned,2.067381115,26,High,Tier 3,Supermarket Type1
+12.3,LF,0.009463757,Baking Goods,1.868279925,6,Small,Tier 2,Supermarket Type1
+19,LF,0.128090139,Snack Foods,2.029636163,16,Small,Tier 1,Supermarket Type1
+12.6,LF,0.038340116,Snack Foods,2.380494165,28,Medium,Tier 3,Supermarket Type3
+12.6,LF,0.049080853,Fruits and Vegetables,2.169596266,28,Medium,Tier 3,Supermarket Type3
+7.35,LF,0.028711412,Fruits and Vegetables,1.601466774,4,Medium,Tier 3,Supermarket Type2
+20.35,Regular,0,Meat,1.911837028,16,Small,Tier 1,Supermarket Type1
+17.85,LF,0.037826873,Soft Drinks,2.278110369,16,Small,Tier 1,Supermarket Type1
+11.65,LF,0.040597054,Fruits and Vegetables,2.272593423,11,Small,Tier 2,Supermarket Type1
+12.6,LF,0.041556697,Baking Goods,2.018838586,28,Small,Tier 1,Grocery Store
+15.5,Regular,0.126791761,Baking Goods,2.418561127,15,Small,Tier 3,Grocery Store
+15.1,Regular,0.106097275,Fruits and Vegetables,1.636283238,4,Medium,Tier 3,Supermarket Type2
+5.1,Regular,0.129395895,Snack Foods,2.147316994,26,High,Tier 3,Supermarket Type1
+12.1,LF,0.011557563,Dairy,2.218411028,14,Medium,Tier 1,Supermarket Type1
+15,LF,0.077622622,Breads,2.085794881,15,Small,Tier 3,Grocery Store
+10.65,Regular,0.085135953,Snack Foods,2.366174077,16,Small,Tier 1,Supermarket Type1
+9.6,Regular,0.014234595,Snack Foods,2.279409576,14,Medium,Tier 1,Supermarket Type1
+8.91,LF,0.143712172,Frozen Foods,1.780229436,4,Medium,Tier 3,Supermarket Type2
+8.85,LF,0.053822086,Fruits and Vegetables,2.264414497,26,High,Tier 3,Supermarket Type1
+17.5,Regular,0.007570599,Dairy,2.160198927,4,Medium,Tier 3,Supermarket Type2
+5.77,LF,0.081996785,Baking Goods,1.603321953,9,Small,Tier 2,Supermarket Type1
+5.04,Regular,0.080362549,Breads,2.35984231,6,Small,Tier 2,Supermarket Type1
+7.96,LF,0.028357839,Canned,2.212957993,9,Small,Tier 2,Supermarket Type1
+16.85,LF,0.233356571,Snack Foods,2.166062866,15,Small,Tier 3,Grocery Store
+11.8,Regular,0.107662745,Dairy,2.35059144,6,Small,Tier 2,Supermarket Type1
+5.64,LF,0.103481775,Baking Goods,2.176105735,11,Small,Tier 2,Supermarket Type1
+11.35,LF,0.030981392,Snack Foods,1.715174052,6,Small,Tier 2,Supermarket Type1
+17.7,Regular,0.041098734,Fruits and Vegetables,1.908096661,4,Medium,Tier 3,Supermarket Type2
+5.78,Regular,0.074451126,Snack Foods,2.422518929,4,Medium,Tier 3,Supermarket Type2
+20.25,LF,0.058935522,Household,2.392074077,16,Small,Tier 1,Supermarket Type1
+9.3,LF,0.066727717,Frozen Foods,2.25918567,26,High,Tier 3,Supermarket Type1
+10.5,LF,0.071548187,Frozen Foods,2.079939875,4,Medium,Tier 3,Supermarket Type2
+17.75,LF,0.014609738,Fruits and Vegetables,2.205275297,11,Small,Tier 2,Supermarket Type1
+16.7,Regular,0.062297249,Snack Foods,1.782875199,4,Medium,Tier 3,Supermarket Type2
+13.85,LF,0.031402114,Others,1.604744304,11,Small,Tier 2,Supermarket Type1
+16.35,LF,0.013363902,Others,2.02582998,9,Small,Tier 2,Supermarket Type1
+20.25,Regular,0.022976493,Baking Goods,2.380850993,14,Medium,Tier 1,Supermarket Type1
+12.6,Regular,0.045068892,Snack Foods,2.280776808,28,Small,Tier 1,Grocery Store
+11.1,LF,0.033176087,Household,2.079587845,11,Small,Tier 2,Supermarket Type1
+9.8,Regular,0.056375879,Breads,1.927836235,9,Small,Tier 2,Supermarket Type1
+14.3,Regular,0.034605882,Baking Goods,1.98214726,6,Small,Tier 2,Supermarket Type1
+19.75,LF,0.033942546,Snack Foods,2.329581322,14,Medium,Tier 1,Supermarket Type1
+12.6,LF,0.015375557,Health and Hygiene,2.195790097,28,Medium,Tier 3,Supermarket Type3
+10.85,LF,0.162571649,Snack Foods,2.031255727,11,Small,Tier 2,Supermarket Type1
+18.35,LF,0,Dairy,2.181654972,26,High,Tier 3,Supermarket Type1
+15.2,LF,0.09698132,Health and Hygiene,2.065763401,26,High,Tier 3,Supermarket Type1
+12.6,LF,0.079419801,Household,2.236311995,28,Medium,Tier 3,Supermarket Type3
+8.71,Regular,0.072301795,Canned,2.268794129,11,Small,Tier 2,Supermarket Type1
+11.8,LF,0,Fruits and Vegetables,1.655524516,4,Medium,Tier 3,Supermarket Type2
+7.24,LF,0,Snack Foods,2.061389894,11,Small,Tier 2,Supermarket Type1
+10.8,LF,0.098814721,Meat,2.002184211,4,Medium,Tier 3,Supermarket Type2
+12.85,LF,0.022639195,Fruits and Vegetables,2.254624924,14,Medium,Tier 1,Supermarket Type1
+12.6,LF,0.016531033,Frozen Foods,2.087816188,28,Medium,Tier 3,Supermarket Type3
+12.6,LF,0.035863436,Meat,1.766087004,28,Medium,Tier 3,Supermarket Type3
+16,Regular,0.193477995,Fruits and Vegetables,1.747602886,15,Small,Tier 3,Grocery Store
+6.87,LF,0.056945936,Snack Foods,2.331673833,11,Small,Tier 2,Supermarket Type1
+12.6,LF,0.124448295,Soft Drinks,2.049418837,28,Small,Tier 1,Grocery Store
+8.21,LF,0.010808272,Hard Drinks,2.177649604,4,Medium,Tier 3,Supermarket Type2
+18.5,LF,0,Snack Foods,2.078501768,6,Small,Tier 2,Supermarket Type1
+6.85,LF,0.022878953,Frozen Foods,2.418896629,9,Small,Tier 2,Supermarket Type1
+9.3,LF,0.026818196,Dairy,2.396040949,15,Small,Tier 3,Grocery Store
+12.1,LF,0.030102335,Canned,1.873709955,26,High,Tier 3,Supermarket Type1
+5.66,LF,0.175793413,Soft Drinks,2.16705195,4,Medium,Tier 3,Supermarket Type2
+7.39,LF,0.120180894,Others,2.150593741,26,High,Tier 3,Supermarket Type1
+20.6,LF,0.039255412,Fruits and Vegetables,1.975329772,15,Small,Tier 3,Grocery Store
+5.11,LF,0,Household,2.21674897,4,Medium,Tier 3,Supermarket Type2
+12.6,Regular,0.029023048,Canned,2.250022123,28,Medium,Tier 3,Supermarket Type3
+19.5,LF,0.128405328,Breads,2.194323932,14,Medium,Tier 1,Supermarket Type1
+12.6,LF,0.126760908,Breakfast,2.247818659,28,Small,Tier 1,Grocery Store
+9.2,LF,0.015856295,Baking Goods,1.912005121,9,Small,Tier 2,Supermarket Type1
+8.93,LF,0.028411899,Dairy,2.182796846,9,Small,Tier 2,Supermarket Type1
+20.75,LF,0.02128304,Soft Drinks,2.18611517,14,Medium,Tier 1,Supermarket Type1
+16.2,LF,0.074019393,Frozen Foods,1.620608627,15,Small,Tier 3,Grocery Store
+12.15,LF,0.018407033,Frozen Foods,2.406147946,9,Small,Tier 2,Supermarket Type1
+6.75,Regular,0,Dairy,1.985764078,14,Medium,Tier 1,Supermarket Type1
+9.2,Regular,0.0471117,Frozen Foods,1.716559219,9,Small,Tier 2,Supermarket Type1
+9.6,Regular,0.027454997,Snack Foods,2.411839154,4,Medium,Tier 3,Supermarket Type2
+13.65,Regular,0.031418984,Canned,1.996818022,26,High,Tier 3,Supermarket Type1
+19.25,LF,0.102188428,Dairy,1.735563772,4,Medium,Tier 3,Supermarket Type2
+9.9,LF,0.16817143,Soft Drinks,2.376132216,11,Small,Tier 2,Supermarket Type1
+12.6,Regular,0.191500528,Baking Goods,2.083537735,28,Small,Tier 1,Grocery Store
+8.42,LF,0.11227101,Health and Hygiene,1.800832508,16,Small,Tier 1,Supermarket Type1
+15.1,Regular,0.067212845,Snack Foods,2.415358029,11,Small,Tier 2,Supermarket Type1
+9.6,LF,0.036490369,Fruits and Vegetables,2.148650153,6,Small,Tier 2,Supermarket Type1
+11,Regular,0.088025298,Frozen Foods,2.19883022,11,Small,Tier 2,Supermarket Type1
+16.6,LF,0.084176826,Canned,2.071927643,15,Small,Tier 3,Grocery Store
+5.19,LF,0.042707323,Frozen Foods,2.296250438,11,Small,Tier 2,Supermarket Type1
+18.6,LF,0.19780911,Others,1.745533839,15,Small,Tier 3,Grocery Store
+19,LF,0.026963909,Household,2.113387099,26,High,Tier 3,Supermarket Type1
+8.9,Regular,0.039261947,Baking Goods,2.31687073,6,Small,Tier 2,Supermarket Type1
+20.6,LF,0.023548476,Fruits and Vegetables,1.970243638,4,Medium,Tier 3,Supermarket Type2
+17.6,Regular,0.127412338,Meat,2.046573978,15,Small,Tier 3,Grocery Store
+12.6,LF,0.075192072,Hard Drinks,1.748663939,28,Medium,Tier 3,Supermarket Type3
+9.6,LF,0.035651291,Snack Foods,2.389018931,11,Small,Tier 2,Supermarket Type1
+12.85,LF,0.169405699,Frozen Foods,1.663757446,6,Small,Tier 2,Supermarket Type1
+16.1,LF,0.039463564,Soft Drinks,2.278718399,15,Small,Tier 3,Grocery Store
+7.65,Regular,0,Snack Foods,1.621292632,16,Small,Tier 1,Supermarket Type1
+8.97,LF,0.093159233,Household,1.746599952,14,Medium,Tier 1,Supermarket Type1
+10.2,Regular,0.017658634,Starchy Foods,2.380489463,14,Medium,Tier 1,Supermarket Type1
+12.6,Regular,0.037516862,Dairy,2.094717031,28,Medium,Tier 3,Supermarket Type3
+16.85,Regular,0.023154399,Snack Foods,1.642887726,16,Small,Tier 1,Supermarket Type1
+7.94,LF,0.031866022,Household,2.417124451,4,Medium,Tier 3,Supermarket Type2
+18.7,LF,0.104591027,Frozen Foods,2.084244443,26,High,Tier 3,Supermarket Type1
+6.7,LF,0.03408026,Frozen Foods,2.344088751,4,Medium,Tier 3,Supermarket Type2
+5.59,Regular,0.056555715,Snack Foods,1.796690869,26,High,Tier 3,Supermarket Type1
+12.6,Regular,0.044764726,Snack Foods,2.010306742,28,Medium,Tier 3,Supermarket Type3
+12.6,LF,0.110735739,Baking Goods,1.54761966,28,Medium,Tier 3,Supermarket Type3
+12.35,Regular,0.038657256,Fruits and Vegetables,2.042406172,4,Medium,Tier 3,Supermarket Type2
+12.6,Regular,0.007503372,Dairy,2.166460309,28,Medium,Tier 3,Supermarket Type3
+12.6,LF,0.064607378,Canned,1.941609809,28,Medium,Tier 3,Supermarket Type3
+13.5,LF,0.055075504,Health and Hygiene,1.5235826,14,Medium,Tier 1,Supermarket Type1
+9.6,Regular,0.014209811,Snack Foods,2.274590081,9,Small,Tier 2,Supermarket Type1
+11.6,Regular,0.132111921,Frozen Foods,1.915017615,15,Small,Tier 3,Grocery Store
+18.25,LF,0.054223942,Snack Foods,2.152335441,9,Small,Tier 2,Supermarket Type1
+12.6,Regular,0.145591438,Seafood,2.172325571,28,Medium,Tier 3,Supermarket Type3
+10.2,Regular,0.146635206,Frozen Foods,2.143276548,9,Small,Tier 2,Supermarket Type1
+19.1,LF,0.177545624,Household,2.236643555,14,Medium,Tier 1,Supermarket Type1
+8.95,Regular,0.146701312,Dairy,2.418783389,15,Small,Tier 3,Grocery Store
+6.39,Regular,0.124410284,Snack Foods,1.53639934,6,Small,Tier 2,Supermarket Type1
+20.1,Regular,0.054763518,Frozen Foods,2.178794563,6,Small,Tier 2,Supermarket Type1
+5.18,LF,0.030330202,Health and Hygiene,1.550074182,26,High,Tier 3,Supermarket Type1
+16.75,Regular,0.008601441,Meat,1.86748988,4,Medium,Tier 3,Supermarket Type2
+5.88,LF,0.08644044,Frozen Foods,2.191450456,9,Small,Tier 2,Supermarket Type1
+6.37,LF,0,Frozen Foods,1.776364076,6,Small,Tier 2,Supermarket Type1
+5.92,Regular,0.019184026,Soft Drinks,1.702165053,26,High,Tier 3,Supermarket Type1
+17.6,LF,0.008001018,Dairy,2.231577131,16,Small,Tier 1,Supermarket Type1
+16.1,LF,0.034376537,Fruits and Vegetables,2.408469945,11,Small,Tier 2,Supermarket Type1
+19.2,LF,0.041291929,Household,2.114380767,14,Medium,Tier 1,Supermarket Type1
+16.2,LF,0.019362306,Soft Drinks,2.189482453,26,High,Tier 3,Supermarket Type1
+20.6,Regular,0.030504756,Dairy,2.327613101,9,Small,Tier 2,Supermarket Type1
+9.5,LF,0,Hard Drinks,2.276432391,6,Small,Tier 2,Supermarket Type1
+12.6,LF,0.162248011,Household,2.20536787,28,Small,Tier 1,Grocery Store
+8.76,LF,0.050011058,Health and Hygiene,2.102891772,26,High,Tier 3,Supermarket Type1
+19.75,LF,0.012437935,Fruits and Vegetables,2.278724342,26,High,Tier 3,Supermarket Type1
+6.96,LF,0.077350112,Soft Drinks,1.961015563,11,Small,Tier 2,Supermarket Type1
+12.65,LF,0,Meat,2.032996489,16,Small,Tier 1,Supermarket Type1
+15.35,LF,0.096943078,Soft Drinks,2.293532261,6,Small,Tier 2,Supermarket Type1
+14.5,Regular,0.128235818,Baking Goods,2.017589214,9,Small,Tier 2,Supermarket Type1
+13,LF,0.099242622,Household,1.665637267,26,High,Tier 3,Supermarket Type1
+10.9,Regular,0.032454046,Frozen Foods,2.160799153,16,Small,Tier 1,Supermarket Type1
+14.65,LF,0.171355643,Fruits and Vegetables,1.678237864,9,Small,Tier 2,Supermarket Type1
+12.15,LF,0.006770252,Others,2.095075157,14,Medium,Tier 1,Supermarket Type1
+16.1,Regular,0.159698192,Frozen Foods,1.50590662,9,Small,Tier 2,Supermarket Type1
+13.6,LF,0.117613212,Snack Foods,2.288279639,9,Small,Tier 2,Supermarket Type1
+12.6,LF,0.00994477,Household,2.250022123,28,Medium,Tier 3,Supermarket Type3
+12.6,LF,0.198316649,Baking Goods,1.735563772,28,Small,Tier 1,Grocery Store
+14,LF,0.023783007,Baking Goods,2.017171957,11,Small,Tier 2,Supermarket Type1
+10.2,LF,0.211539389,Canned,2.045278373,15,Small,Tier 3,Grocery Store
+19,Regular,0.065621523,Fruits and Vegetables,2.270728667,9,Small,Tier 2,Supermarket Type1
+17.6,LF,0.018943666,Health and Hygiene,2.375405704,11,Small,Tier 2,Supermarket Type1
+21.25,LF,0.01001904,Meat,2.266374713,11,Small,Tier 2,Supermarket Type1
+9.8,Regular,0.063764099,Fruits and Vegetables,2.056329983,26,High,Tier 3,Supermarket Type1
+7.93,LF,0,Frozen Foods,2.085794881,16,Small,Tier 1,Supermarket Type1
+6.55,Regular,0.034575546,Breads,2.194594256,26,High,Tier 3,Supermarket Type1
+12.6,Regular,0.015016891,Meat,2.395572394,28,Medium,Tier 3,Supermarket Type3
+19.5,LF,0.082536604,Canned,2.248464208,9,Small,Tier 2,Supermarket Type1
+12.6,LF,0.120663214,Canned,1.980811181,28,Medium,Tier 3,Supermarket Type3
+15.2,LF,0,Meat,2.408295945,15,Small,Tier 3,Grocery Store
+17.6,Regular,0.039381633,Snack Foods,1.991407732,4,Medium,Tier 3,Supermarket Type2
+12.6,Regular,0.056338482,Canned,2.266288156,28,Small,Tier 1,Grocery Store
+7.86,Regular,0.161516894,Baking Goods,1.569195941,9,Small,Tier 2,Supermarket Type1
+12.6,Regular,0.184359831,Snack Foods,2.237232986,28,Small,Tier 1,Grocery Store
+18.2,LF,0.058707159,Household,2.343498398,4,Medium,Tier 3,Supermarket Type2
+8.66,Regular,0.088693595,Snack Foods,2.088404028,6,Small,Tier 2,Supermarket Type1
+15.5,Regular,0.156797787,Snack Foods,2.172140956,26,High,Tier 3,Supermarket Type1
+17.7,LF,0.116520447,Snack Foods,2.269575049,9,Small,Tier 2,Supermarket Type1
+7.6,Regular,0.142292265,Starchy Foods,2.233870929,26,High,Tier 3,Supermarket Type1
+13.65,Regular,0.080573371,Frozen Foods,2.41529661,26,High,Tier 3,Supermarket Type1
+12.85,LF,0.121972274,Snack Foods,1.634908328,11,Small,Tier 2,Supermarket Type1
+14.1,LF,0.067011609,Snack Foods,2.294705133,11,Small,Tier 2,Supermarket Type1
+8.27,LF,0.031490111,Health and Hygiene,2.378557779,15,Small,Tier 3,Grocery Store
+18.2,Regular,0.012229464,Fruits and Vegetables,1.755038987,11,Small,Tier 2,Supermarket Type1
+17.85,LF,0.052176861,Snack Foods,2.08922383,16,Small,Tier 1,Supermarket Type1
+7.95,LF,0.01596609,Snack Foods,2.213573534,6,Small,Tier 2,Supermarket Type1
+20.7,LF,0.170500183,Canned,2.265116534,4,Medium,Tier 3,Supermarket Type2
+10.6,LF,0.011134397,Breads,1.631904202,4,Medium,Tier 3,Supermarket Type2
+19.85,LF,0.175849067,Fruits and Vegetables,2.346503973,26,High,Tier 3,Supermarket Type1
+8.37,LF,0.071992202,Hard Drinks,1.583772163,11,Small,Tier 2,Supermarket Type1
+8.38,Regular,0.046848322,Baking Goods,2.043586245,26,High,Tier 3,Supermarket Type1
+18.7,LF,0.046348967,Health and Hygiene,2.186584004,6,Small,Tier 2,Supermarket Type1
+12.6,LF,0.077849833,Snack Foods,2.10449394,28,Small,Tier 1,Grocery Store
+7.73,LF,0.029236727,Household,2.092865853,6,Small,Tier 2,Supermarket Type1
+19.6,Regular,0.127929521,Snack Foods,2.223967101,26,High,Tier 3,Supermarket Type1
+18.7,Regular,0.091560606,Meat,2.260856226,9,Small,Tier 2,Supermarket Type1
+8.42,Regular,0.030816999,Canned,2.363302035,26,High,Tier 3,Supermarket Type1
+17.75,Regular,0.029821648,Fruits and Vegetables,2.146077779,6,Small,Tier 2,Supermarket Type1
+8.27,Regular,0.089735804,Snack Foods,2.172517698,11,Small,Tier 2,Supermarket Type1
+20.7,Regular,0.04745185,Dairy,2.331806961,26,High,Tier 3,Supermarket Type1
+20.25,Regular,0.018789455,Fruits and Vegetables,2.346503973,26,High,Tier 3,Supermarket Type1
+18.7,Regular,0.070979698,Frozen Foods,2.360784582,4,Medium,Tier 3,Supermarket Type2
+12.6,LF,0.018847114,Hard Drinks,2.17037673,28,Small,Tier 1,Grocery Store
+12.6,LF,0.01724183,Soft Drinks,2.294635502,28,Medium,Tier 3,Supermarket Type3
+18.7,LF,0.089777214,Snack Foods,2.40903183,6,Small,Tier 2,Supermarket Type1
+16.5,LF,0.028418817,Snack Foods,1.967616297,16,Small,Tier 1,Supermarket Type1
+9.6,LF,0.035780385,Snack Foods,2.382587918,6,Small,Tier 2,Supermarket Type1
+12.6,Regular,0.073462632,Snack Foods,1.719032814,28,Small,Tier 1,Grocery Store
+15.1,LF,0.095140088,Baking Goods,2.204012481,9,Small,Tier 2,Supermarket Type1
+13,Regular,0.044976367,Soft Drinks,2.246019214,9,Small,Tier 2,Supermarket Type1
+12.6,LF,0.212293753,Canned,1.965097232,28,Small,Tier 1,Grocery Store
+12.6,LF,0.025354072,Health and Hygiene,2.159795709,28,Medium,Tier 3,Supermarket Type3
+10.3,LF,0.195721125,Health and Hygiene,2.194411653,15,Small,Tier 3,Grocery Store
+6.96,LF,0.077508015,Soft Drinks,1.965270392,4,Medium,Tier 3,Supermarket Type2
+12.6,Regular,0.037962696,Dairy,1.989327878,28,Medium,Tier 3,Supermarket Type3
+18.85,LF,0.141615436,Canned,2.227920625,9,Small,Tier 2,Supermarket Type1
+6.98,LF,0.041189152,Canned,1.918519953,11,Small,Tier 2,Supermarket Type1
+15.7,LF,0.055979703,Health and Hygiene,2.181564636,9,Small,Tier 2,Supermarket Type1
+17.5,LF,0.026182758,Snack Foods,2.404210211,14,Medium,Tier 1,Supermarket Type1
+12.6,Regular,0,Fruits and Vegetables,2.274747904,28,Medium,Tier 3,Supermarket Type3
+8.38,Regular,0.04688734,Baking Goods,2.033250808,16,Small,Tier 1,Supermarket Type1
+12.85,LF,0,Starchy Foods,2.406035765,9,Small,Tier 2,Supermarket Type1
+10.7,Regular,0.087272074,Snack Foods,2.186948429,6,Small,Tier 2,Supermarket Type1
+16.75,LF,0.032637373,Health and Hygiene,2.282432223,14,Medium,Tier 1,Supermarket Type1
+10.4,Regular,0.091096531,Baking Goods,1.718508332,26,High,Tier 3,Supermarket Type1
+13.15,LF,0.024790707,Household,2.249366171,6,Small,Tier 2,Supermarket Type1
+6.62,Regular,0.092158377,Canned,2.399917273,11,Small,Tier 2,Supermarket Type1
+15,LF,0.046469277,Breads,2.092865853,11,Small,Tier 2,Supermarket Type1
+8.35,Regular,0.126869718,Frozen Foods,1.871779527,16,Small,Tier 1,Supermarket Type1
+6.4,LF,0.084885375,Frozen Foods,1.594167057,14,Medium,Tier 1,Supermarket Type1
+17.7,LF,0.029999653,Snack Foods,2.229890622,11,Small,Tier 2,Supermarket Type1
+15.6,LF,0.037901015,Snack Foods,2.09401808,6,Small,Tier 2,Supermarket Type1
+6.89,Regular,0.136314863,Snack Foods,2.290217199,26,High,Tier 3,Supermarket Type1
+7.24,LF,0.076975118,Household,2.066881765,14,Medium,Tier 1,Supermarket Type1
+17,Regular,0.01599013,Snack Foods,2.35952283,14,Medium,Tier 1,Supermarket Type1
+8.18,Regular,0.082568705,Frozen Foods,1.749417819,11,Small,Tier 2,Supermarket Type1
+12.6,LF,0.057969482,Household,2.076685582,28,Small,Tier 1,Grocery Store
+12.6,Regular,0.302478871,Snack Foods,2.191722573,28,Small,Tier 1,Grocery Store
+14.3,LF,0.123264522,Dairy,2.090867965,6,Small,Tier 2,Supermarket Type1
+6.3,LF,0.127647181,Canned,2.317910888,14,Medium,Tier 1,Supermarket Type1
+11.8,Regular,0.107223632,Dairy,2.349427513,14,Medium,Tier 1,Supermarket Type1
+12.6,Regular,0.028842332,Fruits and Vegetables,1.911136293,28,Medium,Tier 3,Supermarket Type3
+18.2,Regular,0.066297055,Fruits and Vegetables,2.392888915,16,Small,Tier 1,Supermarket Type1
+19.6,LF,0.024264569,Dairy,1.668123024,14,Medium,Tier 1,Supermarket Type1
+6.11,Regular,0.151827552,Soft Drinks,1.633555306,26,High,Tier 3,Supermarket Type1
+11.8,Regular,0.057538034,Meat,2.17561791,11,Small,Tier 2,Supermarket Type1
+12.35,LF,0.100322104,Fruits and Vegetables,2.055958278,6,Small,Tier 2,Supermarket Type1
+7.44,LF,0.123338082,Starchy Foods,2.314212411,4,Medium,Tier 3,Supermarket Type2
+20.6,Regular,0.051068365,Dairy,2.328429351,15,Small,Tier 3,Grocery Store
+7.52,LF,0.055213208,Fruits and Vegetables,2.112602991,14,Medium,Tier 1,Supermarket Type1
+12.5,LF,0.00676387,Household,1.610779365,9,Small,Tier 2,Supermarket Type1
+11.3,LF,0.094460314,Baking Goods,2.389718439,15,Small,Tier 3,Grocery Store
+15.35,LF,0.013812772,Frozen Foods,1.811017035,16,Small,Tier 1,Supermarket Type1
+12.6,LF,0.016876708,Fruits and Vegetables,2.322340467,28,Medium,Tier 3,Supermarket Type3
+13.8,LF,0.141352562,Dairy,2.421913745,16,Small,Tier 1,Supermarket Type1
+12.6,LF,0.013951504,Frozen Foods,1.564890845,28,Medium,Tier 3,Supermarket Type3
+19,Regular,0.097294728,Frozen Foods,1.679171605,9,Small,Tier 2,Supermarket Type1
+12.6,LF,0.095746519,Snack Foods,2.319441701,28,Medium,Tier 3,Supermarket Type3
+12.6,Regular,0.022829734,Baking Goods,2.382113982,28,Medium,Tier 3,Supermarket Type3
+20.6,LF,0.071103348,Household,1.877772048,14,Medium,Tier 1,Supermarket Type1
+11.6,LF,0.062903297,Health and Hygiene,2.00175188,15,Small,Tier 3,Grocery Store
+11.5,LF,0.171779865,Snack Foods,2.100613131,4,Medium,Tier 3,Supermarket Type2
+16,LF,0.041112694,Snack Foods,2.145971662,4,Medium,Tier 3,Supermarket Type2
+12.6,LF,0.064362554,Fruits and Vegetables,2.287307607,28,Medium,Tier 3,Supermarket Type3
+15.6,LF,0.081562686,Baking Goods,2.052133498,6,Small,Tier 2,Supermarket Type1
+7.32,LF,0.015364173,Snack Foods,2.188461612,4,Medium,Tier 3,Supermarket Type2
+12.6,LF,0.067824456,Household,2.224751062,28,Small,Tier 1,Grocery Store
+12.6,Regular,0.06292013,Dairy,1.949319733,28,Medium,Tier 3,Supermarket Type3
+15.35,LF,0.020409765,Soft Drinks,2.339154787,4,Medium,Tier 3,Supermarket Type2
+13.15,LF,0.056418354,Soft Drinks,2.153757564,9,Small,Tier 2,Supermarket Type1
+12.6,Regular,0.127108578,Dairy,2.081865559,28,Medium,Tier 3,Supermarket Type3
+8.16,LF,0.119351235,Meat,2.279103182,26,High,Tier 3,Supermarket Type1
+17.7,Regular,0.226122963,Starchy Foods,2.269027945,15,Small,Tier 3,Grocery Store
+13.5,Regular,0.159720671,Fruits and Vegetables,2.169116369,16,Small,Tier 1,Supermarket Type1
+17.6,Regular,0.016092971,Breads,1.661246504,4,Medium,Tier 3,Supermarket Type2
+12.6,LF,0.026491715,Household,2.393184777,28,Medium,Tier 3,Supermarket Type3
+12.6,LF,0.066298469,Fruits and Vegetables,2.271432666,28,Medium,Tier 3,Supermarket Type3
+7.73,LF,0.047782959,Canned,2.396389767,16,Small,Tier 1,Supermarket Type1
+12.6,LF,0.008519718,Health and Hygiene,2.067997255,28,Medium,Tier 3,Supermarket Type3
+12.1,LF,0.148612263,Fruits and Vegetables,2.019232641,14,Medium,Tier 1,Supermarket Type1
+15.2,LF,0.033599041,Household,2.032583307,16,Small,Tier 1,Supermarket Type1
+12.6,LF,0.049623924,Dairy,1.920253804,28,Medium,Tier 3,Supermarket Type3
+12.6,LF,0.040636926,Hard Drinks,2.351426768,28,Medium,Tier 3,Supermarket Type3
+21.25,LF,0.019407069,Snack Foods,2.076915567,26,High,Tier 3,Supermarket Type1
+20.1,Regular,0.054445198,Frozen Foods,2.181090348,9,Small,Tier 2,Supermarket Type1
+17.75,Regular,0.038042233,Baking Goods,2.188269093,4,Medium,Tier 3,Supermarket Type2
+12.6,LF,0.078576075,Soft Drinks,1.894687049,28,Small,Tier 1,Grocery Store
+9.5,LF,0.085075063,Hard Drinks,2.276662131,9,Small,Tier 2,Supermarket Type1
+12.6,LF,0.081651443,Meat,2.183464022,28,Small,Tier 1,Grocery Store
+20.6,LF,0.023585598,Fruits and Vegetables,1.976706624,6,Small,Tier 2,Supermarket Type1
+12.65,LF,0.063146492,Soft Drinks,2.203190141,4,Medium,Tier 3,Supermarket Type2
+7,LF,0.151712642,Canned,2.0204773,11,Small,Tier 2,Supermarket Type1
+20.25,LF,0.02593166,Household,2.261495065,26,High,Tier 3,Supermarket Type1
+12.6,LF,0.019671473,Snack Foods,2.331945306,28,Small,Tier 1,Grocery Store
+14.15,LF,0.184254826,Soft Drinks,1.916072655,4,Medium,Tier 3,Supermarket Type2
+6.14,Regular,0.079312367,Baking Goods,2.181090348,9,Small,Tier 2,Supermarket Type1
+12.6,LF,0.072295507,Household,1.953041232,28,Small,Tier 1,Grocery Store
+12.6,Regular,0,Starchy Foods,1.777357214,28,Medium,Tier 3,Supermarket Type3
+11,LF,0.1062679,Breads,2.090626923,4,Medium,Tier 3,Supermarket Type2
+11.6,LF,0.037549969,Health and Hygiene,2.005198536,26,High,Tier 3,Supermarket Type1
+13,LF,0.03525175,Household,1.681271999,4,Medium,Tier 3,Supermarket Type2
+12.6,Regular,0.106538757,Fruits and Vegetables,2.162799113,28,Medium,Tier 3,Supermarket Type3
+6.62,LF,0.093307668,Dairy,2.292128866,26,High,Tier 3,Supermarket Type1
+10.1,LF,0.056191301,Household,2.063517998,11,Small,Tier 2,Supermarket Type1
+12.3,LF,0.069742672,Soft Drinks,2.026507933,4,Medium,Tier 3,Supermarket Type2
+14.3,Regular,0.083147702,Meat,2.322547167,15,Small,Tier 3,Grocery Store
+6.12,Regular,0.011372972,Frozen Foods,1.952544481,16,Small,Tier 1,Supermarket Type1
+17,LF,0.119362409,Frozen Foods,2.396972017,9,Small,Tier 2,Supermarket Type1
+12.6,LF,0.20914265,Meat,2.280926486,28,Small,Tier 1,Grocery Store
+13.8,Regular,0.014720848,Canned,1.953842775,26,High,Tier 3,Supermarket Type1
+8.35,Regular,0.127066966,Frozen Foods,1.883862356,14,Medium,Tier 1,Supermarket Type1
+5.37,Regular,0.141033536,Seafood,2.239740808,6,Small,Tier 2,Supermarket Type1
+14.85,LF,0.060967038,Household,2.405465549,9,Small,Tier 2,Supermarket Type1
+20,LF,0.058719568,Health and Hygiene,2.04553577,4,Medium,Tier 3,Supermarket Type2
+6.61,Regular,0.029006239,Snack Foods,2.269722569,9,Small,Tier 2,Supermarket Type1
+5.94,LF,0.034880143,Canned,2.250259918,9,Small,Tier 2,Supermarket Type1
+11.15,LF,0.032306341,Health and Hygiene,2.221029593,14,Medium,Tier 1,Supermarket Type1
+8.18,LF,0.013130031,Household,2.154166424,16,Small,Tier 1,Supermarket Type1
+9.3,Regular,0.02346559,Snack Foods,2.295805402,15,Small,Tier 3,Grocery Store
+12.6,Regular,0.062547321,Baking Goods,1.946368739,28,Medium,Tier 3,Supermarket Type3
+14.85,Regular,0.019511288,Dairy,2.419279837,16,Small,Tier 1,Supermarket Type1
+11.8,Regular,0.02633607,Canned,1.608673626,26,High,Tier 3,Supermarket Type1
+8.19,LF,0.046578409,Fruits and Vegetables,1.687254208,11,Small,Tier 2,Supermarket Type1
+9.6,LF,0,Soft Drinks,2.221455448,14,Medium,Tier 1,Supermarket Type1
+12.6,LF,0.093002339,Fruits and Vegetables,2.249861404,28,Medium,Tier 3,Supermarket Type3
+6.83,Regular,0.046898544,Canned,2.186955771,6,Small,Tier 2,Supermarket Type1
+20.7,LF,0.039467795,Household,2.181090348,6,Small,Tier 2,Supermarket Type1
+9.6,Regular,0.014200671,Snack Foods,2.272276148,26,High,Tier 3,Supermarket Type1
+21,LF,0.049381666,Snack Foods,2.285664857,14,Medium,Tier 1,Supermarket Type1
+20.35,LF,0.021369722,Household,1.879857092,11,Small,Tier 2,Supermarket Type1
+13,Regular,0.030211742,Canned,1.773215785,4,Medium,Tier 3,Supermarket Type2
+7.5,LF,0.096413261,Household,1.743186667,16,Small,Tier 1,Supermarket Type1
+13.15,LF,0.056429024,Soft Drinks,2.159209746,16,Small,Tier 1,Supermarket Type1
+8.63,Regular,0.032976399,Snack Foods,2.059380877,11,Small,Tier 2,Supermarket Type1
+5.49,LF,0.042838514,Health and Hygiene,2.214272004,11,Small,Tier 2,Supermarket Type1
+6.55,Regular,0.034745307,Breads,2.200929255,4,Medium,Tier 3,Supermarket Type2
+15.7,Regular,0.027673055,Canned,2.228603085,11,Small,Tier 2,Supermarket Type1
+17.7,LF,0.117201696,Snack Foods,2.264880602,6,Small,Tier 2,Supermarket Type1
+18,LF,0.015450376,Health and Hygiene,2.201288947,16,Small,Tier 1,Supermarket Type1
+6.63,Regular,0.174110803,Baking Goods,2.222326211,15,Small,Tier 3,Grocery Store
+18.25,LF,0.07784544,Snack Foods,2.415968079,14,Medium,Tier 1,Supermarket Type1
+12.6,LF,0.074265816,Dairy,2.039504538,28,Medium,Tier 3,Supermarket Type3
+12,Regular,0.020411155,Meat,1.993895414,16,Small,Tier 1,Supermarket Type1
+12.15,Regular,0.04274788,Meat,2.264097335,14,Medium,Tier 1,Supermarket Type1
+5.91,LF,0.04572322,Canned,2.346637716,14,Medium,Tier 1,Supermarket Type1
+18.6,LF,0.012651172,Household,2.090404087,9,Small,Tier 2,Supermarket Type1
+12.6,LF,0,Starchy Foods,2.224055776,28,Medium,Tier 3,Supermarket Type3
+9.17,LF,0.103398309,Baking Goods,2.158202618,4,Medium,Tier 3,Supermarket Type2
+12.35,Regular,0.072689818,Dairy,1.688145632,4,Medium,Tier 3,Supermarket Type2
+15.6,Regular,0.105208448,Snack Foods,2.231918944,26,High,Tier 3,Supermarket Type1
+9.8,Regular,0.14118383,Baking Goods,1.703298258,4,Medium,Tier 3,Supermarket Type2
+12.6,LF,0.130544568,Frozen Foods,2.394532228,28,Medium,Tier 3,Supermarket Type3
+12.6,LF,0.121635591,Fruits and Vegetables,2.244212281,28,Medium,Tier 3,Supermarket Type3
+12.6,LF,0,Fruits and Vegetables,2.412290492,28,Small,Tier 1,Grocery Store
+15.35,LF,0.014007727,Frozen Foods,1.583414167,26,High,Tier 3,Supermarket Type1
+14.5,Regular,0.041214746,Canned,1.623718489,26,High,Tier 3,Supermarket Type1
+12.6,Regular,0.031663212,Baking Goods,2.238739416,4,Medium,Tier 3,Supermarket Type2
+18.85,LF,0.042716162,Canned,2.411338502,14,Medium,Tier 1,Supermarket Type1
+11.6,Regular,0.009761175,Snack Foods,2.355911816,9,Small,Tier 2,Supermarket Type1
+15.3,LF,0.02295878,Household,2.0070356,26,High,Tier 3,Supermarket Type1
+16.85,Regular,0.026627857,Canned,1.971795207,4,Medium,Tier 3,Supermarket Type2
+19,LF,0.112893408,Snack Foods,2.117478779,15,Small,Tier 3,Grocery Store
+12.6,Regular,0.017937483,Meat,2.014936154,28,Medium,Tier 3,Supermarket Type3
+17,LF,0.120060274,Frozen Foods,2.391893381,6,Small,Tier 2,Supermarket Type1
+11.65,Regular,0.010909704,Meat,2.044752936,26,High,Tier 3,Supermarket Type1
+17.75,Regular,0.029653914,Fruits and Vegetables,2.147935278,16,Small,Tier 1,Supermarket Type1
+11.3,LF,0.047912071,Household,2.254949077,4,Medium,Tier 3,Supermarket Type2
+13.5,Regular,0.129016487,Starchy Foods,1.99302511,14,Medium,Tier 1,Supermarket Type1
+15.85,LF,0.078874948,Canned,1.57345878,4,Medium,Tier 3,Supermarket Type2
+16.6,LF,0.135944247,Hard Drinks,2.235634987,14,Medium,Tier 1,Supermarket Type1
+5.32,LF,0.093261677,Health and Hygiene,2.004181173,4,Medium,Tier 3,Supermarket Type2
+12.6,LF,0.008722342,Fruits and Vegetables,2.091812519,28,Medium,Tier 3,Supermarket Type3
+12.5,LF,0.081260969,Meat,2.345921987,14,Medium,Tier 1,Supermarket Type1
+11.3,LF,0.06705851,Household,2.287908723,6,Small,Tier 2,Supermarket Type1
+18.6,LF,0.012643035,Household,2.078606874,26,High,Tier 3,Supermarket Type1
+12.6,LF,0.129983688,Household,1.968698641,28,Small,Tier 1,Grocery Store
+19.2,Regular,0.094300933,Frozen Foods,2.273050837,4,Medium,Tier 3,Supermarket Type2
+12.85,Regular,0.152001201,Fruits and Vegetables,2.401983001,26,High,Tier 3,Supermarket Type1
+6.13,LF,0.02848169,Household,2.04332769,6,Small,Tier 2,Supermarket Type1
+17.25,LF,0.037396492,Soft Drinks,2.219198257,6,Small,Tier 2,Supermarket Type1
+10.7,LF,0.05337973,Frozen Foods,1.754274928,14,Medium,Tier 1,Supermarket Type1
+12.8,LF,0.076369874,Fruits and Vegetables,1.987849416,4,Medium,Tier 3,Supermarket Type2
+14.35,Regular,0.090896452,Frozen Foods,2.364172629,9,Small,Tier 2,Supermarket Type1
+19.7,Regular,0,Baking Goods,2.296469933,11,Small,Tier 2,Supermarket Type1
+17.25,Regular,0.159165324,Fruits and Vegetables,1.802222129,9,Small,Tier 2,Supermarket Type1
+15.7,Regular,0.11454343,Canned,2.055837615,9,Small,Tier 2,Supermarket Type1
+12.6,LF,0.10818157,Dairy,2.174946108,28,Small,Tier 1,Grocery Store
+12.15,LF,0.037955309,Meat,1.79853049,14,Medium,Tier 1,Supermarket Type1
+9.7,Regular,0.128176489,Baking Goods,2.351874349,26,High,Tier 3,Supermarket Type1
+18,Regular,0.238831875,Fruits and Vegetables,1.945721604,15,Small,Tier 3,Grocery Store
+20.85,LF,0.021416681,Fruits and Vegetables,2.019658716,4,Medium,Tier 3,Supermarket Type2
+7.55,Regular,0.031007381,Fruits and Vegetables,2.091340499,11,Small,Tier 2,Supermarket Type1
+12.1,LF,0.029781363,Soft Drinks,2.16715304,16,Small,Tier 1,Supermarket Type1
+10,LF,0.038653608,Fruits and Vegetables,2.389900042,26,High,Tier 3,Supermarket Type1
+6.45,LF,0.029859711,Baking Goods,1.973790801,6,Small,Tier 2,Supermarket Type1
+12.6,LF,0.081197035,Breads,2.085438292,28,Small,Tier 1,Grocery Store
+11.65,LF,0.131394793,Baking Goods,2.181564636,26,High,Tier 3,Supermarket Type1
+12.6,LF,0.164006137,Snack Foods,2.054166275,28,Small,Tier 1,Grocery Store
+8.9,LF,0.026492726,Frozen Foods,2.319096478,6,Small,Tier 2,Supermarket Type1
+12.6,LF,0.023463124,Soft Drinks,2.28031562,28,Medium,Tier 3,Supermarket Type3
+18.2,LF,0.1630653,Health and Hygiene,1.636574145,9,Small,Tier 2,Supermarket Type1
+8.63,Regular,0.032960823,Snack Foods,2.060893418,14,Medium,Tier 1,Supermarket Type1
+18.75,LF,0.053025371,Snack Foods,2.284544425,4,Medium,Tier 3,Supermarket Type2
+11.8,LF,0.008578539,Health and Hygiene,2.070588978,11,Small,Tier 2,Supermarket Type1
+12.6,LF,0.083221904,Household,2.241808871,6,Small,Tier 2,Supermarket Type1
+13.8,Regular,0.064195136,Fruits and Vegetables,1.879676081,9,Small,Tier 2,Supermarket Type1
+6.26,Regular,0.009887927,Meat,2.178218715,11,Small,Tier 2,Supermarket Type1
+12.6,Regular,0.138846289,Canned,2.421255694,28,Medium,Tier 3,Supermarket Type3
+8.02,LF,0.033259081,Household,2.188358045,15,Small,Tier 3,Grocery Store
+12.6,LF,0.027610698,Snack Foods,2.174747502,28,Small,Tier 1,Grocery Store
+17,LF,0.126758324,Household,2.09529561,4,Medium,Tier 3,Supermarket Type2
+12.6,LF,0.014008751,Dairy,2.233864339,28,Small,Tier 1,Grocery Store
+18.7,LF,0.02442574,Soft Drinks,1.723721586,15,Small,Tier 3,Grocery Store
+15.5,LF,0.053589594,Soft Drinks,1.64519622,4,Medium,Tier 3,Supermarket Type2
+7.81,Regular,0.03412912,Snack Foods,2.217788633,4,Medium,Tier 3,Supermarket Type2
+12.6,LF,0.033737273,Soft Drinks,1.753287301,28,Medium,Tier 3,Supermarket Type3
+6.47,LF,0.208397715,Canned,2.42371826,15,Small,Tier 3,Grocery Store
+12.6,LF,0.039751236,Dairy,2.247734707,28,Small,Tier 1,Grocery Store
+8.21,LF,0.010781158,Hard Drinks,2.175915189,14,Medium,Tier 1,Supermarket Type1
+19.35,Regular,0.083079826,Fruits and Vegetables,1.905063707,15,Small,Tier 3,Grocery Store
+9.5,Regular,0.048676324,Starchy Foods,2.273671999,9,Small,Tier 2,Supermarket Type1
+14.85,Regular,0.035311852,Fruits and Vegetables,2.206712027,14,Medium,Tier 1,Supermarket Type1
+6.11,Regular,0.103080901,Fruits and Vegetables,2.118254141,14,Medium,Tier 1,Supermarket Type1
+6.79,Regular,0.022974812,Snack Foods,2.319715518,16,Small,Tier 1,Supermarket Type1
+12.6,LF,0.030062224,Health and Hygiene,2.188550525,28,Medium,Tier 3,Supermarket Type3
+11.5,LF,0.020960615,Health and Hygiene,2.124811252,26,High,Tier 3,Supermarket Type1
+12.6,LF,0,Soft Drinks,1.941452794,28,Medium,Tier 3,Supermarket Type3
+13.15,LF,0.020715913,Breads,1.92198076,16,Small,Tier 1,Supermarket Type1
+8.66,Regular,0.088373591,Snack Foods,2.076915567,11,Small,Tier 2,Supermarket Type1
+19.7,Regular,0.08073703,Baking Goods,2.294490475,16,Small,Tier 1,Supermarket Type1
+14.5,Regular,0,Fruits and Vegetables,2.229540552,9,Small,Tier 2,Supermarket Type1
+7.95,LF,0.015863075,Snack Foods,2.209034881,26,High,Tier 3,Supermarket Type1
+11.5,LF,0.017714096,Health and Hygiene,2.123729499,4,Medium,Tier 3,Supermarket Type2
+15.75,LF,0.166513779,Dairy,1.580361509,4,Medium,Tier 3,Supermarket Type2
+15.6,LF,0.143915417,Breakfast,2.105848632,6,Small,Tier 2,Supermarket Type1
+19.35,Regular,0.062882112,Baking Goods,2.215157274,6,Small,Tier 2,Supermarket Type1
+12.6,Regular,0.041726942,Fruits and Vegetables,2.08638546,4,Medium,Tier 3,Supermarket Type2
+12.65,LF,0.042211119,Household,2.036204772,16,Small,Tier 1,Supermarket Type1
+12.1,LF,0.015497337,Household,2.218936006,4,Medium,Tier 3,Supermarket Type2
+17.2,Regular,0.012030747,Canned,2.22172296,14,Medium,Tier 1,Supermarket Type1
+12.6,LF,0.097768728,Household,2.153661234,28,Small,Tier 1,Grocery Store
+12.6,Regular,0.185008985,Fruits and Vegetables,1.627156853,28,Small,Tier 1,Grocery Store
+16.75,LF,0,Fruits and Vegetables,2.407218852,16,Small,Tier 1,Supermarket Type1
+13.35,Regular,0.149974858,Snack Foods,2.254707555,4,Medium,Tier 3,Supermarket Type2
+14.1,LF,0.125675936,Fruits and Vegetables,1.939118718,26,High,Tier 3,Supermarket Type1
+14.3,Regular,0.109144085,Fruits and Vegetables,1.945889873,15,Small,Tier 3,Grocery Store
+13.65,Regular,0.078909166,Dairy,2.271200142,14,Medium,Tier 1,Supermarket Type1
+12.6,LF,0.094817105,Hard Drinks,1.891544148,28,Small,Tier 1,Grocery Store
+12.6,Regular,0,Seafood,2.265662459,28,Small,Tier 1,Grocery Store
+14.15,LF,0.095378221,Soft Drinks,2.231751383,16,Small,Tier 1,Supermarket Type1
+9.2,LF,0.015949001,Baking Goods,1.925101599,6,Small,Tier 2,Supermarket Type1
+16.7,Regular,0.038496166,Snack Foods,2.168822052,26,High,Tier 3,Supermarket Type1
+12.3,LF,0.111274591,Baking Goods,1.545151188,16,Small,Tier 1,Supermarket Type1
+14.15,LF,0.183472595,Soft Drinks,1.913960005,9,Small,Tier 2,Supermarket Type1
+8.43,LF,0,Soft Drinks,2.290872992,6,Small,Tier 2,Supermarket Type1
+12.6,LF,0.031743707,Dairy,2.253178993,28,Medium,Tier 3,Supermarket Type3
+18.85,LF,0.016132592,Health and Hygiene,2.114819742,14,Medium,Tier 1,Supermarket Type1
+13.1,LF,0.020903193,Dairy,2.076561077,14,Medium,Tier 1,Supermarket Type1
+19.35,Regular,0.039990314,Soft Drinks,2.217712349,14,Medium,Tier 1,Supermarket Type1
+12.6,Regular,0.170382726,Frozen Foods,1.655827762,28,Small,Tier 1,Grocery Store
+6.39,LF,0.083768522,Hard Drinks,2.040838013,26,High,Tier 3,Supermarket Type1
+7.05,Regular,0.055548003,Breads,2.352778155,9,Small,Tier 2,Supermarket Type1
+17.1,LF,0.128614205,Fruits and Vegetables,2.048008847,14,Medium,Tier 1,Supermarket Type1
+6.68,LF,0.021710275,Household,1.54391167,11,Small,Tier 2,Supermarket Type1
+11.5,Regular,0.042087749,Frozen Foods,2.284841146,11,Small,Tier 2,Supermarket Type1
+9.21,LF,0.008782561,Fruits and Vegetables,2.078606874,11,Small,Tier 2,Supermarket Type1
+20.6,Regular,0.046280998,Snack Foods,2.249037822,6,Small,Tier 2,Supermarket Type1
+11.4,LF,0.009898492,Health and Hygiene,1.688450079,11,Small,Tier 2,Supermarket Type1
+12.6,LF,0.075368868,Health and Hygiene,1.547198545,28,Medium,Tier 3,Supermarket Type3
+7.1,LF,0.110633958,Fruits and Vegetables,2.240069762,6,Small,Tier 2,Supermarket Type1
+14.5,Regular,0,Snack Foods,2.202287198,9,Small,Tier 2,Supermarket Type1
+7.05,Regular,0.05587277,Breads,2.346565766,6,Small,Tier 2,Supermarket Type1
+9.5,LF,0.041851461,Soft Drinks,1.498172661,26,High,Tier 3,Supermarket Type1
+18.85,LF,0.167552202,Household,2.28581286,9,Small,Tier 2,Supermarket Type1
+14.65,LF,0.011212719,Others,1.745554126,11,Small,Tier 2,Supermarket Type1
+13.3,LF,0.063925726,Frozen Foods,2.181474281,6,Small,Tier 2,Supermarket Type1
+7.08,LF,0.097660814,Dairy,2.151715432,15,Small,Tier 3,Grocery Store
+7.96,LF,0,Canned,2.206257415,6,Small,Tier 2,Supermarket Type1
+4.64,LF,0.140889111,Breads,2.1041435,16,Small,Tier 1,Supermarket Type1
+12.6,LF,0.058198141,Health and Hygiene,2.043183021,28,Medium,Tier 3,Supermarket Type3
+16.75,LF,0.081446638,Fruits and Vegetables,2.41010005,14,Medium,Tier 1,Supermarket Type1
+15.35,LF,0.015676231,Others,2.158504218,16,Small,Tier 1,Supermarket Type1
+9.3,LF,0.042283454,Hard Drinks,2.098431891,9,Small,Tier 2,Supermarket Type1
+5.7,Regular,0.06797671,Breads,2.410775209,4,Medium,Tier 3,Supermarket Type2
+9.2,LF,0.080442371,Household,2.032466449,15,Small,Tier 3,Grocery Store
+17.85,LF,0.03781972,Soft Drinks,2.282438116,9,Small,Tier 2,Supermarket Type1
+10.2,Regular,0.012483408,Meat,2.290949007,11,Small,Tier 2,Supermarket Type1
+10.9,LF,0.137584599,Dairy,2.418726758,6,Small,Tier 2,Supermarket Type1
+12.6,Regular,0.205484395,Baking Goods,2.296689317,28,Small,Tier 1,Grocery Store
+13.1,LF,0.037793818,Fruits and Vegetables,2.240063266,6,Small,Tier 2,Supermarket Type1
+15.5,Regular,0.075736746,Baking Goods,2.424157427,9,Small,Tier 2,Supermarket Type1
+14.15,LF,0.014719325,Household,2.294269978,15,Small,Tier 3,Grocery Store
+14.1,LF,0.11326743,Baking Goods,1.737157643,16,Small,Tier 1,Supermarket Type1
+12.6,Regular,0,Frozen Foods,2.115713665,28,Medium,Tier 3,Supermarket Type3
+7.9,Regular,0.094952408,Breakfast,2.004893749,4,Medium,Tier 3,Supermarket Type2
+15.75,LF,0.135836828,Household,2.001603924,6,Small,Tier 2,Supermarket Type1
+14.8,LF,0,Meat,2.277344661,26,High,Tier 3,Supermarket Type1
+20.1,Regular,0.022425236,Fruits and Vegetables,2.354691463,16,Small,Tier 1,Supermarket Type1
+12.6,LF,0.051924192,Snack Foods,2.082811212,28,Medium,Tier 3,Supermarket Type3
+12.6,LF,0.054806734,Fruits and Vegetables,2.161800284,28,Medium,Tier 3,Supermarket Type3
+8.62,LF,0.116722514,Fruits and Vegetables,1.979746812,4,Medium,Tier 3,Supermarket Type2
+12.6,LF,0.244338986,Dairy,2.025021432,28,Small,Tier 1,Grocery Store
+12.6,Regular,0.021471456,Snack Foods,2.117365438,28,Small,Tier 1,Grocery Store
+13.65,Regular,0.026067434,Snack Foods,1.896692628,6,Small,Tier 2,Supermarket Type1
+6.39,Regular,0.123710526,Snack Foods,1.570395815,16,Small,Tier 1,Supermarket Type1
+9.31,LF,0.038032068,Frozen Foods,1.787821646,11,Small,Tier 2,Supermarket Type1
+15,LF,0.064504433,Hard Drinks,1.674916227,6,Small,Tier 2,Supermarket Type1
+17.7,Regular,0.041163522,Fruits and Vegetables,1.907559684,6,Small,Tier 2,Supermarket Type1
+16.75,LF,0.060668416,Dairy,2.236563963,11,Small,Tier 2,Supermarket Type1
+15.1,LF,0.056067524,Household,2.145661229,4,Medium,Tier 3,Supermarket Type2
+21.25,LF,0.114066204,Health and Hygiene,2.367411835,4,Medium,Tier 3,Supermarket Type2
+17.6,LF,0.097135675,Dairy,1.95126756,26,High,Tier 3,Supermarket Type1
+13.15,Regular,0.165616415,Fruits and Vegetables,2.237232986,14,Medium,Tier 1,Supermarket Type1
+5.04,Regular,0,Breads,2.358322491,16,Small,Tier 1,Supermarket Type1
+12.6,Regular,0.030362777,Dairy,2.323302438,28,Medium,Tier 3,Supermarket Type3
+12.6,LF,0.145951533,Household,2.206705012,28,Small,Tier 1,Grocery Store
+5.26,Regular,0.02454694,Breads,1.980942796,14,Medium,Tier 1,Supermarket Type1
+6.24,LF,0.118674359,Household,2.417788787,16,Small,Tier 1,Supermarket Type1
+5.82,LF,0.080765853,Household,2.228346454,14,Medium,Tier 1,Supermarket Type1
+7.29,LF,0.050065211,Dairy,2.197084185,11,Small,Tier 2,Supermarket Type1
+7,LF,0.15202235,Canned,2.027871263,4,Medium,Tier 3,Supermarket Type2
+12.6,LF,0.087383304,Dairy,2.256306824,28,Medium,Tier 3,Supermarket Type3
+13.8,Regular,0,Fruits and Vegetables,1.870995828,11,Small,Tier 2,Supermarket Type1
+15.5,LF,0.053480419,Soft Drinks,1.627130208,11,Small,Tier 2,Supermarket Type1
+12.6,LF,0.044444956,Household,2.389662492,28,Medium,Tier 3,Supermarket Type3
+8.26,LF,0.034544435,Hard Drinks,2.06477012,4,Medium,Tier 3,Supermarket Type2
+15,LF,0.044978225,Health and Hygiene,2.148861057,14,Medium,Tier 1,Supermarket Type1
+8.79,LF,0.025967624,Fruits and Vegetables,2.078969114,16,Small,Tier 1,Supermarket Type1
+12.6,LF,0.058092551,Snack Foods,2.235634987,28,Small,Tier 1,Grocery Store
+12.6,LF,0.148742896,Baking Goods,2.029902997,28,Small,Tier 1,Grocery Store
+12.6,Regular,0.041273391,Frozen Foods,1.962276499,28,Medium,Tier 3,Supermarket Type3
+12.6,Regular,0.141997869,Fruits and Vegetables,1.956895169,28,Medium,Tier 3,Supermarket Type3
+8.98,Regular,0,Canned,1.929022259,4,Medium,Tier 3,Supermarket Type2
+7.79,LF,0.140342195,Dairy,2.023789747,6,Small,Tier 2,Supermarket Type1
+12.6,LF,0.008903212,Meat,2.082697785,28,Medium,Tier 3,Supermarket Type3
+20.7,LF,0.170072462,Canned,2.264408355,14,Medium,Tier 1,Supermarket Type1
+8.77,Regular,0,Fruits and Vegetables,2.23965528,26,High,Tier 3,Supermarket Type1
+20.25,LF,0.036399734,Dairy,2.341134075,11,Small,Tier 2,Supermarket Type1
+17.7,LF,0.012567811,Household,2.226464312,11,Small,Tier 2,Supermarket Type1
+8.32,Regular,0.035773394,Baking Goods,2.15939994,6,Small,Tier 2,Supermarket Type1
+18.1,LF,0.022434418,Fruits and Vegetables,1.983217506,14,Medium,Tier 1,Supermarket Type1
+12.15,LF,0,Health and Hygiene,1.592738422,6,Small,Tier 2,Supermarket Type1
+15.25,LF,0.089998959,Frozen Foods,2.332679174,11,Small,Tier 2,Supermarket Type1
+12.15,LF,0,Others,2.092625917,16,Small,Tier 1,Supermarket Type1
+9.3,LF,0.04774013,Baking Goods,2.2900649,15,Small,Tier 3,Grocery Store
+12.6,LF,0.01769927,Dairy,1.870410929,28,Medium,Tier 3,Supermarket Type3
+20.1,Regular,0.054816926,Fruits and Vegetables,2.288432566,4,Medium,Tier 3,Supermarket Type2
+11.8,LF,0.008554052,Health and Hygiene,2.067997255,26,High,Tier 3,Supermarket Type1
+17.7,LF,0.029914022,Snack Foods,2.220844195,26,High,Tier 3,Supermarket Type1
+12.6,LF,0.043551753,Snack Foods,2.265984601,28,Medium,Tier 3,Supermarket Type3
+14.65,Regular,0.099692906,Snack Foods,1.707285663,6,Small,Tier 2,Supermarket Type1
+10.9,LF,0.059834024,Fruits and Vegetables,2.125573645,15,Small,Tier 3,Grocery Store
+8.58,Regular,0.071832909,Dairy,2.288203155,9,Small,Tier 2,Supermarket Type1
+15.1,LF,0.055793586,Household,2.145350573,26,High,Tier 3,Supermarket Type1
+12.6,Regular,0.026949463,Meat,2.296030833,28,Medium,Tier 3,Supermarket Type3
+13,LF,0.041909345,Household,2.406542565,11,Small,Tier 2,Supermarket Type1
+20.1,LF,0.014925407,Health and Hygiene,2.156595789,26,High,Tier 3,Supermarket Type1
+12.85,LF,0.108102606,Fruits and Vegetables,2.368034232,26,High,Tier 3,Supermarket Type1
+16.7,Regular,0.091437584,Starchy Foods,1.808324429,15,Small,Tier 3,Grocery Store
+13.3,LF,0.009581155,Snack Foods,1.812585842,16,Small,Tier 1,Supermarket Type1
+12.6,LF,0.035997636,Others,1.89576388,28,Small,Tier 1,Grocery Store
+17,LF,0.126244059,Household,2.095644199,16,Small,Tier 1,Supermarket Type1
+17.6,Regular,0.053481818,Starchy Foods,1.679482407,6,Small,Tier 2,Supermarket Type1
+14.6,LF,0.043021542,Household,2.294264243,15,Small,Tier 3,Grocery Store
+8.9,Regular,0.08154715,Snack Foods,1.697236319,6,Small,Tier 2,Supermarket Type1
+12.6,Regular,0.1263349,Canned,2.26503586,28,Small,Tier 1,Grocery Store
+10.3,LF,0.078903499,Baking Goods,2.24953343,11,Small,Tier 2,Supermarket Type1
+12.6,LF,0.091411749,Health and Hygiene,2.084122087,28,Small,Tier 1,Grocery Store
+5.59,Regular,0.094741514,Snack Foods,1.800144972,15,Small,Tier 3,Grocery Store
+8.06,LF,0,Breakfast,2.366857221,4,Medium,Tier 3,Supermarket Type2
+11.35,Regular,0.063173691,Dairy,1.935434709,26,High,Tier 3,Supermarket Type1
+7.04,LF,0.021883368,Frozen Foods,2.421259974,14,Medium,Tier 1,Supermarket Type1
+13.15,Regular,0.165221717,Fruits and Vegetables,2.235721312,26,High,Tier 3,Supermarket Type1
+16.25,LF,0.057629899,Fruits and Vegetables,2.09308743,4,Medium,Tier 3,Supermarket Type2
+11.1,LF,0.010632752,Canned,1.916931673,26,High,Tier 3,Supermarket Type1
+5.59,Regular,0.05671761,Snack Foods,1.798766626,11,Small,Tier 2,Supermarket Type1
+6.55,LF,0.024505418,Breads,2.012555474,26,High,Tier 3,Supermarket Type1
+12.6,LF,0.088394115,Frozen Foods,2.289466762,28,Medium,Tier 3,Supermarket Type3
+13.65,LF,0.077219509,Health and Hygiene,1.751994638,9,Small,Tier 2,Supermarket Type1
+18.6,LF,0.076791671,Snack Foods,2.206889532,26,High,Tier 3,Supermarket Type1
+11.1,Regular,0,Fruits and Vegetables,2.218936006,4,Medium,Tier 3,Supermarket Type2
+10.2,Regular,0.012528611,Meat,2.290281755,6,Small,Tier 2,Supermarket Type1
+5.88,LF,0.003597678,Hard Drinks,2.187238055,14,Medium,Tier 1,Supermarket Type1
+12.6,LF,0.173527068,Fruits and Vegetables,1.964005864,28,Small,Tier 1,Grocery Store
+4.64,LF,0.141686037,Breads,2.103801669,6,Small,Tier 2,Supermarket Type1
+8.51,LF,0.052051256,Household,2.153043116,11,Small,Tier 2,Supermarket Type1
+17.25,Regular,0.047533568,Snack Foods,1.986354253,6,Small,Tier 2,Supermarket Type1
+6.62,LF,0.093913607,Dairy,2.298290967,6,Small,Tier 2,Supermarket Type1
+10.1,Regular,0.053667516,Fruits and Vegetables,2.348322001,14,Medium,Tier 1,Supermarket Type1
+8.68,LF,0.01478914,Frozen Foods,1.990065225,15,Small,Tier 3,Grocery Store
+18.5,LF,0.033938279,Others,2.122308955,9,Small,Tier 2,Supermarket Type1
+9.8,Regular,0.045522854,Baking Goods,1.545151188,6,Small,Tier 2,Supermarket Type1
+7.63,LF,0.061188147,Soft Drinks,1.973329246,11,Small,Tier 2,Supermarket Type1
+15.75,LF,0.054884821,Baking Goods,2.290802744,26,High,Tier 3,Supermarket Type1
+12.6,LF,0.19033746,Snack Foods,2.202645768,28,Small,Tier 1,Grocery Store
+9.5,Regular,0.010914988,Snack Foods,2.264489145,9,Small,Tier 2,Supermarket Type1
+15.7,LF,0.037383778,Soft Drinks,2.254701274,4,Medium,Tier 3,Supermarket Type2
+12.6,LF,0.042354152,Fruits and Vegetables,2.356545934,28,Medium,Tier 3,Supermarket Type3
+9.7,LF,0,Fruits and Vegetables,2.271353157,15,Small,Tier 3,Grocery Store
+12.6,LF,0.003574698,Hard Drinks,2.189489752,28,Medium,Tier 3,Supermarket Type3
+10.5,Regular,0.11733375,Baking Goods,2.215164154,6,Small,Tier 2,Supermarket Type1
+12.6,LF,0.079261744,Snack Foods,1.912886014,28,Small,Tier 1,Grocery Store
+17.75,LF,0.030410273,Dairy,2.408353953,26,High,Tier 3,Supermarket Type1
+7.16,Regular,0.169137707,Breads,1.54761966,6,Small,Tier 2,Supermarket Type1
+12.6,Regular,0,Meat,2.260216447,28,Medium,Tier 3,Supermarket Type3
+12.6,Regular,0.059110912,Meat,2.299600118,28,Small,Tier 1,Grocery Store
+5,LF,0,Soft Drinks,2.279787818,15,Small,Tier 3,Grocery Store
+12.6,LF,0.048857925,Breads,1.785467933,14,Medium,Tier 1,Supermarket Type1
+7.91,LF,0.064163983,Hard Drinks,2.361670052,14,Medium,Tier 1,Supermarket Type1
+12.6,LF,0,Dairy,1.709566741,28,Small,Tier 1,Grocery Store
+7.39,LF,0.120770963,Others,2.15669147,4,Medium,Tier 3,Supermarket Type2
+12.6,Regular,0.076944658,Fruits and Vegetables,2.410157817,28,Medium,Tier 3,Supermarket Type3
+8.63,Regular,0.055084019,Snack Foods,2.059759507,15,Small,Tier 3,Grocery Store
+15,Regular,0.162093059,Canned,2.261326164,4,Medium,Tier 3,Supermarket Type2
+8.98,Regular,0.052836076,Canned,1.937630212,11,Small,Tier 2,Supermarket Type1
+12.6,LF,0.036213953,Snack Foods,1.966370792,28,Medium,Tier 3,Supermarket Type3
+12.6,LF,0.050790917,Household,2.154663119,28,Small,Tier 1,Grocery Store
+14,LF,0.040725405,Household,1.6379438,15,Small,Tier 3,Grocery Store
+10.7,Regular,0.061008889,Breakfast,2.24937253,6,Small,Tier 2,Supermarket Type1
+13.65,Regular,0,Meat,1.579248399,11,Small,Tier 2,Supermarket Type1
+5.62,LF,0.210511558,Health and Hygiene,2.084122087,15,Small,Tier 3,Grocery Store
+18.25,Regular,0.183579854,Dairy,2.044763122,14,Medium,Tier 1,Supermarket Type1
+12.6,LF,0.078174543,Canned,1.601523306,28,Medium,Tier 3,Supermarket Type3
+15.5,LF,0.103422709,Snack Foods,2.160909505,9,Small,Tier 2,Supermarket Type1
+12.6,Regular,0.187443314,Fruits and Vegetables,2.163991587,28,Small,Tier 1,Grocery Store
+12.6,LF,0.034938717,Household,1.690226214,28,Medium,Tier 3,Supermarket Type3
+20.6,LF,0.045603215,Health and Hygiene,2.173882912,4,Medium,Tier 3,Supermarket Type2
+15.5,Regular,0.085834992,Frozen Foods,1.696087165,16,Small,Tier 1,Supermarket Type1
+6.36,LF,0.121225455,Fruits and Vegetables,1.661869452,6,Small,Tier 2,Supermarket Type1
+12.6,LF,0.114475357,Soft Drinks,2.20661974,28,Medium,Tier 3,Supermarket Type3
+15.5,Regular,0.076059648,Baking Goods,2.423502769,4,Medium,Tier 3,Supermarket Type2
+5.79,Regular,0.064871045,Fruits and Vegetables,2.418508775,15,Small,Tier 3,Grocery Store
+5.77,LF,0.081944045,Baking Goods,1.564860093,26,High,Tier 3,Supermarket Type1
+19.2,LF,0.100074524,Frozen Foods,2.042530624,16,Small,Tier 1,Supermarket Type1
+12.6,Regular,0.066336811,Baking Goods,2.187987477,28,Small,Tier 1,Grocery Store
+8.6,LF,0.032672263,Health and Hygiene,2.149882061,14,Medium,Tier 1,Supermarket Type1
+12.6,LF,0.130321652,Dairy,1.948007827,28,Medium,Tier 3,Supermarket Type3
+18.85,Regular,0.068059156,Dairy,2.080424442,14,Medium,Tier 1,Supermarket Type1
+12.5,LF,0.103442268,Household,2.232601765,16,Small,Tier 1,Supermarket Type1
+7.02,LF,0,Dairy,1.923373562,6,Small,Tier 2,Supermarket Type1
+7.86,Regular,0.162205516,Baking Goods,1.559724734,4,Medium,Tier 3,Supermarket Type2
+13.15,LF,0.056516756,Soft Drinks,2.156795,14,Medium,Tier 1,Supermarket Type1
+16.2,Regular,0.016639482,Frozen Foods,1.981694505,26,High,Tier 3,Supermarket Type1
+6.65,LF,0.053279839,Canned,2.169596266,9,Small,Tier 2,Supermarket Type1
+6.69,Regular,0.037060755,Meat,2.247573139,4,Medium,Tier 3,Supermarket Type2
+12.6,Regular,0.08234117,Meat,2.268954073,28,Small,Tier 1,Grocery Store
+6.36,LF,0.120443298,Fruits and Vegetables,1.657113245,26,High,Tier 3,Supermarket Type1
+14.85,LF,0.102065622,Household,2.405294781,15,Small,Tier 3,Grocery Store
+13.3,Regular,0.071597469,Fruits and Vegetables,1.784286275,11,Small,Tier 2,Supermarket Type1
+16.5,Regular,0.079837509,Fruits and Vegetables,2.009166939,14,Medium,Tier 1,Supermarket Type1
+18.5,Regular,0.045534457,Dairy,2.165274604,14,Medium,Tier 1,Supermarket Type1
+7.94,LF,0.031730739,Household,2.416791902,9,Small,Tier 2,Supermarket Type1
+12.6,Regular,0.056713056,Fruits and Vegetables,2.349877159,28,Medium,Tier 3,Supermarket Type3
+16.35,LF,0.032538896,Meat,2.219543138,16,Small,Tier 1,Supermarket Type1
+19.85,LF,0.005264755,Dairy,2.4225708,6,Small,Tier 2,Supermarket Type1
+6.72,Regular,0.121832956,Baking Goods,1.638942284,11,Small,Tier 2,Supermarket Type1
+17.85,LF,0.065797601,Frozen Foods,2.169689126,9,Small,Tier 2,Supermarket Type1
+20.75,LF,0.108930629,Snack Foods,2.206712027,11,Small,Tier 2,Supermarket Type1
+12.6,LF,0.03046847,Starchy Foods,2.406035765,28,Medium,Tier 3,Supermarket Type3
+20.6,Regular,0.077029195,Snack Foods,2.248548019,15,Small,Tier 3,Grocery Store
+12.6,LF,0.017344679,Fruits and Vegetables,2.363237686,28,Medium,Tier 3,Supermarket Type3
+18.85,LF,0,Hard Drinks,2.209669939,9,Small,Tier 2,Supermarket Type1
+14.1,LF,0.089817198,Canned,2.1545749,14,Medium,Tier 1,Supermarket Type1
+20.25,LF,0.148372897,Health and Hygiene,2.037003153,11,Small,Tier 2,Supermarket Type1
+5.15,Regular,0.061301149,Meat,2.086853649,11,Small,Tier 2,Supermarket Type1
+12.6,Regular,0.04152307,Fruits and Vegetables,2.094496284,26,High,Tier 3,Supermarket Type1
+15.25,Regular,0.066269294,Snack Foods,2.254465899,6,Small,Tier 2,Supermarket Type1
+7.29,LF,0.031278532,Household,2.245525993,4,Medium,Tier 3,Supermarket Type2
+12.6,LF,0.025842951,Household,1.686972137,28,Medium,Tier 3,Supermarket Type3
+20.75,LF,0.021293097,Soft Drinks,2.181564636,11,Small,Tier 2,Supermarket Type1
+12.6,Regular,0.124668026,Snack Foods,2.416791902,28,Medium,Tier 3,Supermarket Type3
+19,LF,0.127983545,Snack Foods,2.03206325,26,High,Tier 3,Supermarket Type1
+16.1,Regular,0.080010553,Frozen Foods,2.094248159,15,Small,Tier 3,Grocery Store
+11.1,LF,0.010658153,Canned,1.91955294,14,Medium,Tier 1,Supermarket Type1
+13,LF,0.041994899,Household,2.406031332,4,Medium,Tier 3,Supermarket Type2
+6.87,LF,0.09512291,Snack Foods,2.326994587,15,Small,Tier 3,Grocery Store
+7.5,LF,0.03269312,Frozen Foods,2.378017227,11,Small,Tier 2,Supermarket Type1
+15.25,LF,0.026663778,Snack Foods,1.939618081,11,Small,Tier 2,Supermarket Type1
+18.25,LF,0.075311837,Snack Foods,2.088506765,14,Medium,Tier 1,Supermarket Type1
+6.42,LF,0.053426165,Dairy,2.252125039,26,High,Tier 3,Supermarket Type1
+12.5,LF,0.10402738,Household,2.23614612,6,Small,Tier 2,Supermarket Type1
+16.85,Regular,0.023201357,Snack Foods,1.66221746,11,Small,Tier 2,Supermarket Type1
+9.2,Regular,0.04719387,Frozen Foods,1.723181381,14,Medium,Tier 1,Supermarket Type1
+17,LF,0.119871307,Frozen Foods,2.395052623,4,Medium,Tier 3,Supermarket Type2
+12.6,LF,0.092564193,Household,1.728318063,28,Medium,Tier 3,Supermarket Type3
+5.85,Regular,0.104998144,Frozen Foods,2.328831605,9,Small,Tier 2,Supermarket Type1
+12.6,LF,0.052300844,Frozen Foods,1.945877083,28,Medium,Tier 3,Supermarket Type3
+18.35,Regular,0.15783357,Fruits and Vegetables,1.942445601,15,Small,Tier 3,Grocery Store
+12.6,Regular,0.010928678,Snack Foods,2.222935384,28,Medium,Tier 3,Supermarket Type3
+12.35,LF,0.100164204,Fruits and Vegetables,2.055576318,4,Medium,Tier 3,Supermarket Type2
+13.8,Regular,0.057104066,Snack Foods,2.366793397,4,Medium,Tier 3,Supermarket Type2
+5.43,Regular,0.114472403,Baking Goods,1.946213436,16,Small,Tier 1,Supermarket Type1
+14.5,Regular,0.063810405,Breads,2.420383887,26,High,Tier 3,Supermarket Type1
+12.65,Regular,0.075981306,Frozen Foods,2.284170305,26,High,Tier 3,Supermarket Type1
+12.8,LF,0.116527666,Starchy Foods,2.417347449,15,Small,Tier 3,Grocery Store
+9.2,Regular,0.051827123,Baking Goods,1.889102161,4,Medium,Tier 3,Supermarket Type2
+17.35,LF,0.020555958,Others,1.900158399,9,Small,Tier 2,Supermarket Type1
+14.5,LF,0.061986574,Dairy,2.184974623,16,Small,Tier 1,Supermarket Type1
+7.91,LF,0.010032624,Snack Foods,2.395048076,11,Small,Tier 2,Supermarket Type1
+8.5,LF,0.097884718,Canned,1.720427242,16,Small,Tier 1,Supermarket Type1
+8.3,Regular,0.038204311,Dairy,1.943097633,9,Small,Tier 2,Supermarket Type1
+12.6,Regular,0.149288779,Frozen Foods,2.199834133,28,Medium,Tier 3,Supermarket Type3
+13.5,LF,0,Soft Drinks,2.27689175,9,Small,Tier 2,Supermarket Type1
+19.1,LF,0.045270426,Dairy,1.588986164,26,High,Tier 3,Supermarket Type1
+16.2,LF,0.050545502,Household,2.282432223,4,Medium,Tier 3,Supermarket Type2
+12.6,LF,0.102157958,Dairy,2.161406338,28,Small,Tier 1,Grocery Store
+12.3,LF,0.116261335,Soft Drinks,2.029764329,15,Small,Tier 3,Grocery Store
+15.85,LF,0.069100548,Breads,2.335691735,16,Small,Tier 1,Supermarket Type1
+15.25,LF,0.06153089,Household,2.12154934,6,Small,Tier 2,Supermarket Type1
+12.6,Regular,0.06627464,Snack Foods,1.733964029,28,Medium,Tier 3,Supermarket Type3
+7.32,LF,0.015332872,Snack Foods,2.187616593,11,Small,Tier 2,Supermarket Type1
+12.6,LF,0.009950343,Meat,2.268486236,28,Medium,Tier 3,Supermarket Type3
+12.6,LF,0.037160705,Hard Drinks,1.734238003,28,Small,Tier 1,Grocery Store
+12.35,LF,0.093824276,Snack Foods,2.078864095,6,Small,Tier 2,Supermarket Type1
+17.85,LF,0.110152524,Frozen Foods,2.17668439,15,Small,Tier 3,Grocery Store
+10.1,LF,0.046848053,Hard Drinks,1.783101394,6,Small,Tier 2,Supermarket Type1
+14.15,LF,0.034868095,Snack Foods,2.387003061,9,Small,Tier 2,Supermarket Type1
+7.44,LF,0.122735471,Starchy Foods,2.312312365,26,High,Tier 3,Supermarket Type1
+11.3,LF,0.056434817,Baking Goods,2.394121982,16,Small,Tier 1,Supermarket Type1
+11.5,Regular,0.125602951,Frozen Foods,2.003614748,16,Small,Tier 1,Supermarket Type1
+12.6,LF,0.116762173,Canned,2.298802442,28,Medium,Tier 3,Supermarket Type3
+7.55,Regular,0.030918873,Fruits and Vegetables,2.093096543,26,High,Tier 3,Supermarket Type1
+6.68,LF,0.021666335,Household,1.5235826,16,Small,Tier 1,Supermarket Type1
+15.7,Regular,0.115031783,Canned,2.057362524,4,Medium,Tier 3,Supermarket Type2
+12.6,LF,0.022457694,Frozen Foods,1.993906865,28,Medium,Tier 3,Supermarket Type3
+12.6,LF,0.080203852,Baking Goods,1.892072331,28,Medium,Tier 3,Supermarket Type3
+18.1,LF,0.178694026,Dairy,2.201202604,4,Medium,Tier 3,Supermarket Type2
+5.31,Regular,0.04710181,Meat,2.259739097,14,Medium,Tier 1,Supermarket Type1
+12.6,Regular,0.047704151,Fruits and Vegetables,2.272434814,28,Medium,Tier 3,Supermarket Type3
+12.6,LF,0.06981517,Dairy,2.331194396,28,Medium,Tier 3,Supermarket Type3
+9.3,LF,0.042357203,Hard Drinks,2.090747461,14,Medium,Tier 1,Supermarket Type1
+11.35,Regular,0.023454399,Dairy,2.259977838,6,Small,Tier 2,Supermarket Type1
+19.35,Regular,0.018600249,Snack Foods,2.04239593,11,Small,Tier 2,Supermarket Type1
+13,Regular,0.083683243,Canned,2.297853705,11,Small,Tier 2,Supermarket Type1
+7.24,LF,0.167316771,Snack Foods,2.295666482,15,Small,Tier 3,Grocery Store
+12.6,LF,0.039576776,Fruits and Vegetables,2.255107925,28,Small,Tier 1,Grocery Store
+10,LF,0.038904624,Fruits and Vegetables,2.389900042,6,Small,Tier 2,Supermarket Type1
+19.75,LF,0.01438222,Household,2.009591955,6,Small,Tier 2,Supermarket Type1
+8.42,Regular,0.030968306,Canned,2.357620822,4,Medium,Tier 3,Supermarket Type2
+18.85,LF,0.016107549,Health and Hygiene,2.113149539,16,Small,Tier 1,Supermarket Type1
+5.03,LF,0.008664064,Household,2.076915567,11,Small,Tier 2,Supermarket Type1
+17.6,Regular,0.047330801,Snack Foods,2.082347984,14,Medium,Tier 1,Supermarket Type1
+18.6,LF,0.015769693,Snack Foods,2.182233706,16,Small,Tier 1,Supermarket Type1
+10.2,LF,0.04217956,Snack Foods,1.645842604,6,Small,Tier 2,Supermarket Type1
+6.78,Regular,0.140163038,Baking Goods,1.974106223,16,Small,Tier 1,Supermarket Type1
+7.16,Regular,0.168154574,Breads,1.528754773,9,Small,Tier 2,Supermarket Type1
+10.8,LF,0.097805615,Hard Drinks,1.868867699,15,Small,Tier 3,Grocery Store
+9.2,LF,0.107870997,Snack Foods,2.258310122,9,Small,Tier 2,Supermarket Type1
+9.8,Regular,0.045358609,Baking Goods,1.558557381,11,Small,Tier 2,Supermarket Type1
+12.6,LF,0.119698523,Others,2.155478754,28,Medium,Tier 3,Supermarket Type3
+12.6,LF,0.023339367,Fruits and Vegetables,1.977164606,28,Medium,Tier 3,Supermarket Type3
+13.6,LF,0.009991273,Household,2.244368672,9,Small,Tier 2,Supermarket Type1
+7.22,Regular,0.064141866,Baking Goods,1.787113184,15,Small,Tier 3,Grocery Store
+20.5,LF,0.032954044,Household,1.595299973,6,Small,Tier 2,Supermarket Type1
+6.06,LF,0,Fruits and Vegetables,2.210473158,9,Small,Tier 2,Supermarket Type1
+17.2,LF,0.156935553,Meat,2.205901816,4,Medium,Tier 3,Supermarket Type2
+13.15,LF,0.044011225,Snack Foods,2.258385827,6,Small,Tier 2,Supermarket Type1
+16.5,Regular,0.068112874,Canned,2.019527533,9,Small,Tier 2,Supermarket Type1
+8.06,LF,0.021372636,Breakfast,2.364987134,9,Small,Tier 2,Supermarket Type1
+12.6,Regular,0,Baking Goods,1.880429415,28,Medium,Tier 3,Supermarket Type3
+19.85,LF,0.054245722,Seafood,2.292426211,4,Medium,Tier 3,Supermarket Type2
+12.6,LF,0.041621987,Household,2.404151647,28,Medium,Tier 3,Supermarket Type3
+20.25,Regular,0.018805105,Fruits and Vegetables,2.343757465,16,Small,Tier 1,Supermarket Type1
+19.25,Regular,0.027190917,Meat,2.289613476,4,Medium,Tier 3,Supermarket Type2
+7.85,LF,0.163902159,Hard Drinks,2.156380731,6,Small,Tier 2,Supermarket Type1
+10,LF,0.067312613,Snack Foods,2.369881636,14,Medium,Tier 1,Supermarket Type1
+10,LF,0.021421289,Household,2.39510788,9,Small,Tier 2,Supermarket Type1
+5.18,LF,0.030479118,Health and Hygiene,1.522279875,4,Medium,Tier 3,Supermarket Type2
+12.6,LF,0.031024168,Health and Hygiene,2.323302438,28,Small,Tier 1,Grocery Store
+12.6,LF,0.015664229,Meat,2.087339803,28,Small,Tier 1,Grocery Store
+11.5,LF,0.014883661,Starchy Foods,2.241815341,14,Medium,Tier 1,Supermarket Type1
+13.65,LF,0.065618434,Frozen Foods,1.677973576,9,Small,Tier 2,Supermarket Type1
+17.35,LF,0.167722519,Household,2.24642767,11,Small,Tier 2,Supermarket Type1
+8.27,Regular,0.214125129,Soft Drinks,2.264799884,15,Small,Tier 3,Grocery Store
+9.9,LF,0.060055757,Household,2.369705925,9,Small,Tier 2,Supermarket Type1
+10.65,LF,0.048885018,Others,2.220507142,4,Medium,Tier 3,Supermarket Type2
+15.2,LF,0.097611115,Health and Hygiene,2.066509297,6,Small,Tier 2,Supermarket Type1
+15.1,LF,0,Meat,2.387836706,11,Small,Tier 2,Supermarket Type1
+12.6,LF,0.012481638,Household,2.226206413,28,Medium,Tier 3,Supermarket Type3
+11.6,LF,0.037734334,Health and Hygiene,1.991687601,4,Medium,Tier 3,Supermarket Type2
+16.7,Regular,0.062395455,Snack Foods,1.760846016,6,Small,Tier 2,Supermarket Type1
+16.7,Regular,0.054851438,Starchy Foods,1.808999147,4,Medium,Tier 3,Supermarket Type2
+12.6,LF,0.100493148,Fruits and Vegetables,2.090274281,28,Small,Tier 1,Grocery Store
+7.94,LF,0,Household,2.421095307,16,Small,Tier 1,Supermarket Type1
+10.2,LF,0.112399145,Hard Drinks,2.047998737,14,Medium,Tier 1,Supermarket Type1
+10.9,LF,0.064939211,Fruits and Vegetables,2.288203155,4,Medium,Tier 3,Supermarket Type2
+7.41,LF,0.159165324,Dairy,2.316242166,9,Small,Tier 2,Supermarket Type1
+19.75,Regular,0.018019662,Frozen Foods,2.259034526,9,Small,Tier 2,Supermarket Type1
+11.8,Regular,0.057410724,Meat,2.174747502,9,Small,Tier 2,Supermarket Type1
+7.72,Regular,0,Fruits and Vegetables,2.070948375,4,Medium,Tier 3,Supermarket Type2
+12.6,LF,0.173324207,Frozen Foods,1.601151366,28,Small,Tier 1,Grocery Store
+14.3,LF,0.123070513,Dairy,2.08340586,4,Medium,Tier 3,Supermarket Type2
+10.5,Regular,0.093954022,Snack Foods,2.325975985,11,Small,Tier 2,Supermarket Type1
+18,LF,0.073606829,Canned,2.195061236,6,Small,Tier 2,Supermarket Type1
+13.15,LF,0.036672107,Frozen Foods,2.261495065,16,Small,Tier 1,Supermarket Type1
+10.7,LF,0.057744249,Fruits and Vegetables,1.787131618,26,High,Tier 3,Supermarket Type1
+9.8,LF,0,Fruits and Vegetables,2.24362581,14,Medium,Tier 1,Supermarket Type1
+5.86,Regular,0.151087845,Meat,2.190699712,14,Medium,Tier 1,Supermarket Type1
+5.4,LF,0.048388423,Health and Hygiene,2.212327728,6,Small,Tier 2,Supermarket Type1
+8.4,LF,0.039553606,Snack Foods,1.99609206,14,Medium,Tier 1,Supermarket Type1
+20,Regular,0.051702257,Frozen Foods,2.099914641,4,Medium,Tier 3,Supermarket Type2
+6.87,LF,0,Soft Drinks,2.113827079,26,High,Tier 3,Supermarket Type1
+15.2,LF,0,Household,2.04332769,6,Small,Tier 2,Supermarket Type1
+9.7,LF,0.029567218,Snack Foods,2.205453389,9,Small,Tier 2,Supermarket Type1
+7.42,Regular,0.021695674,Seafood,2.268011803,6,Small,Tier 2,Supermarket Type1
+11.6,LF,0.037574137,Health and Hygiene,2.00001824,9,Small,Tier 2,Supermarket Type1
+11.35,Regular,0.04324563,Fruits and Vegetables,2.299886732,11,Small,Tier 2,Supermarket Type1
+20.7,LF,0.021518435,Baking Goods,2.197359965,4,Medium,Tier 3,Supermarket Type2
+18.6,LF,0.118661426,Others,1.769072918,4,Medium,Tier 3,Supermarket Type2
+14.8,LF,0.04487828,Soft Drinks,1.877757086,16,Small,Tier 1,Supermarket Type1

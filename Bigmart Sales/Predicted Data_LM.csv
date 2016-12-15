@@ -1,0 +1,1706 @@
+"Item_Weight","Item_Fat_Content","Item_Visibility","Item_Type","log_MRP","Establishment_Age","Outlet_Size","Outlet_Location_Type","Outlet_Type","predict"
+12.6,"LF",0.127469857,"Snack Foods",2.032466449,28,"Medium","Tier 3","Supermarket Type3",3.41051211149701
+11.8,"LF",0,"Fruits and Vegetables",1.658394934,14,"Medium","Tier 1","Supermarket Type1",2.82482278574999
+17.6,"Regular",0.047257328,"Snack Foods",2.078015049,16,"Small","Tier 1","Supermarket Type1",3.23209573303374
+9,"Regular",0.069088961,"Breakfast",1.750981772,16,"Small","Tier 1","Supermarket Type1",2.85663177318216
+13.35,"LF",0.10249212,"Dairy",2.362737246,9,"Small","Tier 2","Supermarket Type1",3.52006304361534
+18.6,"LF",0.080829372,"Health and Hygiene",1.984273413,4,"Medium","Tier 3","Supermarket Type2",3.07030571103541
+10,"LF",0.089291137,"Health and Hygiene",2.166460309,14,"Medium","Tier 1","Supermarket Type1",3.34882892182344
+19.6,"LF",0,"Health and Hygiene",2.185548954,11,"Small","Tier 2","Supermarket Type1",3.34527971335015
+15.85,"Regular",0.121632721,"Baking Goods",1.78263026,16,"Small","Tier 1","Supermarket Type1",2.93691540774793
+12.6,"Regular",0.255394896,"Dairy",2.294200277,28,"Small","Tier 1","Grocery Store",2.60463032165602
+10.9,"LF",0.065041581,"Fruits and Vegetables",2.293095929,6,"Small","Tier 2","Supermarket Type1",3.47842770630577
+9.2,"LF",0.048157338,"Household",2.02596991,11,"Small","Tier 2","Supermarket Type1",3.18000179204199
+12.6,"LF",0.026015519,"Snack Foods",2.407960977,28,"Medium","Tier 3","Supermarket Type3",3.79545015738025
+8.65,"LF",0.143422643,"Health and Hygiene",1.981551336,16,"Small","Tier 1","Supermarket Type1",3.1441063185675
+19,"LF",0.112556507,"Frozen Foods",2.021032925,6,"Small","Tier 2","Supermarket Type1",3.18289412532418
+11.8,"Regular",0.014087057,"Frozen Foods",2.256078579,16,"Small","Tier 1","Supermarket Type1",3.41501910191189
+12.6,"LF",0.293417759,"Household",2.289173186,28,"Small","Tier 1","Grocery Store",2.6042480238138
+12.6,"Regular",0.039057677,"Breakfast",2.19302158,28,"Medium","Tier 3","Supermarket Type3",3.53804426593746
+12.6,"LF",0.028459761,"Household",2.176006708,28,"Medium","Tier 3","Supermarket Type3",3.56584540428599
+8.75,"Regular",0.074627201,"Fruits and Vegetables",2.273824146,16,"Small","Tier 1","Supermarket Type1",3.44749261705993
+14.15,"LF",0.035913805,"Soft Drinks",1.617145082,26,"High","Tier 3","Supermarket Type1",2.75798296949219
+8.89,"LF",0.005505481,"Frozen Foods",2.010306742,6,"Small","Tier 2","Supermarket Type1",3.1767022537434
+12.6,"LF",0.033809913,"Canned",2.256711975,28,"Medium","Tier 3","Supermarket Type3",3.65620927732748
+16,"LF",0.060836524,"Starchy Foods",2.355720404,9,"Small","Tier 2","Supermarket Type1",3.53507172581274
+5.47,"Regular",0,"Baking Goods",2.122421013,4,"Medium","Tier 3","Supermarket Type2",3.21745987208775
+7.27,"LF",0.071077939,"Soft Drinks",2.057863051,16,"Small","Tier 1","Supermarket Type1",3.22419522068231
+17.7,"LF",0.291865402,"Fruits and Vegetables",2.061389894,15,"Small","Tier 3","Grocery Store",2.36663471319275
+14.6,"LF",0.059582996,"Others",2.378132155,14,"Medium","Tier 1","Supermarket Type1",3.56804043901978
+15.1,"LF",0.052339069,"Meat",2.385161385,16,"Small","Tier 1","Supermarket Type1",3.55314649254351
+12.6,"Regular",0.051643608,"Snack Foods",2.030851402,28,"Small","Tier 1","Grocery Store",2.33949793477309
+9.5,"LF",0.041878397,"Soft Drinks",1.518382316,9,"Small","Tier 2","Supermarket Type1",2.67632762878372
+5.78,"Regular",0,"Snack Foods",2.421203665,6,"Small","Tier 2","Supermarket Type1",3.60803242321368
+17.2,"LF",0.15616879,"Meat",2.205901816,26,"High","Tier 3","Supermarket Type1",3.35634952820849
+12.6,"LF",0.049754975,"Dairy",2.182226284,28,"Small","Tier 1","Grocery Store",2.48365616665346
+7.55,"LF",0.027164679,"Canned",2.182796846,9,"Small","Tier 2","Supermarket Type1",3.35816416601594
+13,"LF",0.099325278,"Household",1.657113245,16,"Small","Tier 1","Supermarket Type1",2.80382541699726
+12.6,"Regular",0.082741482,"Snack Foods",2.07473674,28,"Small","Tier 1","Grocery Store",2.38434083557075
+12.6,"LF",0.084554569,"Snack Foods",2.040962916,28,"Medium","Tier 3","Supermarket Type3",3.41936044889738
+15.85,"LF",0.020603511,"Household",1.630541773,6,"Small","Tier 2","Supermarket Type1",2.79472150458501
+12.6,"LF",0.058153409,"Dairy",2.181940722,28,"Small","Tier 1","Grocery Store",2.48333511389319
+7.79,"LF",0.088846306,"Fruits and Vegetables",1.788528955,14,"Medium","Tier 1","Supermarket Type1",2.9595648574629
+11.8,"Regular",0.09357779,"Snack Foods",2.100268508,26,"High","Tier 3","Supermarket Type1",3.24535181793656
+9.1,"LF",0.175103435,"Baking Goods",2.105633473,6,"Small","Tier 2","Supermarket Type1",3.28262675549187
+17.6,"LF",0.056245075,"Frozen Foods",1.636943015,26,"High","Tier 3","Supermarket Type1",2.75928974025849
+7.98,"LF",0.014618973,"Baking Goods",1.93056701,26,"High","Tier 3","Supermarket Type1",3.07334223795818
+17.6,"Regular",0.076552407,"Meat",2.043441662,6,"Small","Tier 2","Supermarket Type1",3.22804792840057
+7.79,"Regular",0.038288087,"Fruits and Vegetables",2.013664547,4,"Medium","Tier 3","Supermarket Type2",3.10913186628461
+12.6,"LF",0.031867464,"Household",2.004328254,28,"Medium","Tier 3","Supermarket Type3",3.38999552541282
+6.26,"Regular",0.009866049,"Meat",2.179369648,9,"Small","Tier 2","Supermarket Type1",3.35893571824725
+6.15,"LF",0.04627095,"Baking Goods",1.997117161,16,"Small","Tier 1","Supermarket Type1",3.15411957557493
+6.45,"LF",0.029691762,"Baking Goods",1.966815423,16,"Small","Tier 1","Supermarket Type1",3.12300856309887
+7.07,"LF",0.093861144,"Snack Foods",2.062895466,11,"Small","Tier 2","Supermarket Type1",3.21062174347302
+19,"Regular",0.173154079,"Fruits and Vegetables",2.358452644,15,"Small","Tier 3","Grocery Store",2.67771620017935
+12.6,"LF",0.094697274,"Baking Goods",2.199920748,28,"Medium","Tier 3","Supermarket Type3",3.58898333355165
+12.6,"LF",0.2047,"Frozen Foods",1.885739932,28,"Small","Tier 1","Grocery Store",2.18125407568973
+7.9,"Regular",0.095102092,"Breakfast",2.018838586,6,"Small","Tier 2","Supermarket Type1",3.15046476378057
+20.25,"LF",0.026005891,"Household",2.257672816,11,"Small","Tier 2","Supermarket Type1",3.41255238931294
+15.85,"LF",0.107765165,"Soft Drinks",1.775176301,14,"Medium","Tier 1","Supermarket Type1",2.94651506172581
+6.17,"LF",0.010647477,"Meat",1.822054258,14,"Medium","Tier 1","Supermarket Type1",2.99619048489629
+19.2,"LF",0.077628053,"Household",2.295811116,14,"Medium","Tier 1","Supermarket Type1",3.4710968639656
+14.5,"Regular",0.063993068,"Breads",2.415740036,11,"Small","Tier 2","Supermarket Type1",3.59975272032562
+11.6,"Regular",0.078929571,"Frozen Foods",1.902696773,16,"Small","Tier 1","Supermarket Type1",3.05294176734001
+8.05,"Regular",0.07838564,"Fruits and Vegetables",2.409027428,9,"Small","Tier 2","Supermarket Type1",3.59182863416875
+16.5,"LF",0.036715907,"Household",2.255349224,11,"Small","Tier 2","Supermarket Type1",3.41177924392724
+12.6,"Regular",0.014753811,"Fruits and Vegetables",2.365105563,28,"Medium","Tier 3","Supermarket Type3",3.76963969177531
+6.64,"Regular",0.046350909,"Frozen Foods",1.57345878,6,"Small","Tier 2","Supermarket Type1",2.73710283796517
+10.2,"LF",0.159936948,"Frozen Foods",2.15598972,16,"Small","Tier 1","Supermarket Type1",3.30572338472368
+7.61,"LF",0.129503146,"Fruits and Vegetables",2.214899455,11,"Small","Tier 2","Supermarket Type1",3.37700943215786
+18.35,"LF",0.089163056,"Household",2.281829374,11,"Small","Tier 2","Supermarket Type1",3.43791195512658
+12.6,"LF",0.026916794,"Others",1.707285663,28,"Medium","Tier 3","Supermarket Type3",3.09632316500185
+10.6,"LF",0.035264298,"Health and Hygiene",1.935116124,11,"Small","Tier 2","Supermarket Type1",3.09260247551372
+10.2,"Regular",0.017627888,"Starchy Foods",2.37958432,9,"Small","Tier 2","Supermarket Type1",3.56918890491198
+12.6,"LF",0.0194158,"Breads",1.619567038,28,"Small","Tier 1","Grocery Store",1.93527541871358
+17.5,"LF",0.015623754,"Fruits and Vegetables",2.261564034,4,"Medium","Tier 3","Supermarket Type2",3.35187382424593
+15.5,"Regular",0.15717236,"Snack Foods",2.17359938,14,"Medium","Tier 1","Supermarket Type1",3.34628296775075
+20.7,"Regular",0.047565208,"Dairy",2.329372655,14,"Medium","Tier 1","Supermarket Type1",3.50002065650663
+12.85,"LF",0.022604051,"Fruits and Vegetables",2.258713409,16,"Small","Tier 1","Supermarket Type1",3.42340959830839
+20.85,"Regular",0.056580228,"Breads",2.023930335,11,"Small","Tier 2","Supermarket Type1",3.19569208761278
+12.35,"LF",0.164196823,"Household",2.081031735,14,"Medium","Tier 1","Supermarket Type1",3.25382034142706
+12.6,"Regular",0.141975462,"Snack Foods",1.695488681,28,"Small","Tier 1","Grocery Store",1.99570194299351
+8.78,"LF",0,"Dairy",1.66221746,26,"High","Tier 3","Supermarket Type1",2.7874373507138
+18.25,"LF",0.089004389,"Frozen Foods",2.293904146,11,"Small","Tier 2","Supermarket Type1",3.44023648478815
+15,"LF",0.044871033,"Health and Hygiene",2.147316994,26,"High","Tier 3","Supermarket Type1",3.29952089586582
+12.6,"LF",0.13121032,"Dairy",1.869439427,28,"Small","Tier 1","Grocery Store",2.16301325823315
+20.75,"LF",0.149404057,"Breakfast",2.285214689,15,"Small","Tier 3","Grocery Store",2.53977195972064
+9.8,"LF",0.0268952,"Meat",2.108571788,11,"Small","Tier 2","Supermarket Type1",3.26880696620154
+12.6,"LF",0.059776237,"Household",2.365046352,28,"Medium","Tier 3","Supermarket Type3",3.75935900943314
+18.1,"LF",0.297883712,"Dairy",2.195148808,15,"Small","Tier 3","Grocery Store",2.48847608195674
+8.6,"LF",0.032754431,"Health and Hygiene",2.147723924,4,"Medium","Tier 3","Supermarket Type2",3.24226206178169
+19,"Regular",0.104035148,"Fruits and Vegetables",2.357500335,6,"Small","Tier 2","Supermarket Type1",3.54769730042786
+12.6,"Regular",0.062648111,"Frozen Foods",2.020771348,26,"High","Tier 3","Supermarket Type1",3.16157408127419
+15.6,"LF",0.111685868,"Others",2.266684106,15,"Small","Tier 3","Grocery Store",2.58590698062068
+16.6,"LF",0,"Fruits and Vegetables",2.238983468,16,"Small","Tier 1","Supermarket Type1",3.40163530903639
+15.35,"LF",0.015673267,"Others",2.161508751,9,"Small","Tier 2","Supermarket Type1",3.33581107477695
+11.8,"Regular",0.076705948,"Snack Foods",1.541027289,9,"Small","Tier 2","Supermarket Type1",2.69010060447924
+14.1,"LF",0.089677773,"Canned",2.145661229,16,"Small","Tier 1","Supermarket Type1",3.31148320708368
+20.7,"Regular",0.100330684,"Fruits and Vegetables",2.091451691,14,"Medium","Tier 1","Supermarket Type1",3.27111809762744
+6.92,"Regular",0.131128467,"Breakfast",1.96932457,14,"Medium","Tier 1","Supermarket Type1",3.09670606653015
+8.68,"LF",0.008871687,"Frozen Foods",1.998862397,4,"Medium","Tier 3","Supermarket Type2",3.07352710041016
+15.35,"LF",0.073269336,"Soft Drinks",1.964316212,9,"Small","Tier 2","Supermarket Type1",3.1303965080783
+6.26,"LF",0.031470832,"Household",2.042271439,14,"Medium","Tier 1","Supermarket Type1",3.21724093347963
+17.1,"LF",0.067141355,"Household",2.059131559,9,"Small","Tier 2","Supermarket Type1",3.21946049310225
+18.75,"LF",0.034501405,"Household",2.325765578,6,"Small","Tier 2","Supermarket Type1",3.50547282787361
+5,"LF",0.044004675,"Soft Drinks",2.276123888,16,"Small","Tier 1","Supermarket Type1",3.44883137485417
+14.3,"Regular",0.034404732,"Baking Goods",1.991990293,9,"Small","Tier 2","Supermarket Type1",3.15788701206054
+12.6,"LF",0.141106202,"Starchy Foods",1.944073848,28,"Medium","Tier 3","Supermarket Type3",3.33924198440587
+12.3,"Regular",0,"Snack Foods",1.75858037,26,"High","Tier 3","Supermarket Type1",2.89548371179571
+7.44,"LF",0.123086812,"Starchy Foods",2.31589439,11,"Small","Tier 2","Supermarket Type1",3.48880002079937
+20.35,"LF",0.039428167,"Household",2.107100704,4,"Medium","Tier 3","Supermarket Type2",3.18925769721284
+18.5,"LF",0.052025392,"Snack Foods",2.073397184,26,"High","Tier 3","Supermarket Type1",3.20804835337457
+20.2,"LF",0.074541867,"Household",1.973802795,4,"Medium","Tier 3","Supermarket Type2",3.0526762014936
+5.66,"LF",0.175352413,"Soft Drinks",2.168527535,14,"Medium","Tier 1","Supermarket Type1",3.35363248589937
+12.8,"LF",0.076060037,"Fruits and Vegetables",1.978367712,16,"Small","Tier 1","Supermarket Type1",3.13611107407156
+13.3,"LF",0.080131363,"Dairy",2.369271533,4,"Medium","Tier 3","Supermarket Type2",3.44884920051358
+8.98,"Regular",0.05268526,"Canned",1.920761771,26,"High","Tier 3","Supermarket Type1",3.07856981467903
+7.67,"LF",0.184689756,"Household",1.549268174,26,"High","Tier 3","Supermarket Type1",2.68349186334313
+20,"Regular",0.104245198,"Canned",2.02268483,14,"Medium","Tier 1","Supermarket Type1",3.20561939812721
+5.75,"Regular",0.075595405,"Dairy",2.059630053,6,"Small","Tier 2","Supermarket Type1",3.23354935422573
+7.89,"LF",0.036207786,"Dairy",2.083065956,11,"Small","Tier 2","Supermarket Type1",3.22721343358268
+16.35,"LF",0.034742632,"Household",2.105176246,11,"Small","Tier 2","Supermarket Type1",3.25803996006049
+14.6,"LF",0.059393919,"Household",2.259588146,9,"Small","Tier 2","Supermarket Type1",3.42589602919502
+7.67,"LF",0.185218446,"Household",1.560164971,11,"Small","Tier 2","Supermarket Type1",2.70311436540891
+17.35,"Regular",0.146895866,"Seafood",2.174946108,4,"Medium","Tier 3","Supermarket Type2",3.28090930944035
+14.3,"LF",0.026428924,"Frozen Foods",1.893374441,4,"Medium","Tier 3","Supermarket Type2",2.96296081834043
+12.6,"Regular",0.045243613,"Dairy",2.16675623,28,"Medium","Tier 3","Supermarket Type3",3.55141772985044
+12.6,"Regular",0.133673087,"Canned",1.618550123,28,"Medium","Tier 3","Supermarket Type3",3.00923137357193
+12.6,"LF",0.060252433,"Dairy",2.232260489,28,"Medium","Tier 3","Supermarket Type3",3.61147154250579
+12.35,"Regular",0.072541731,"Dairy",1.68636095,11,"Small","Tier 2","Supermarket Type1",2.82580479723566
+8.4,"LF",0.072088552,"Hard Drinks",2.404327315,14,"Medium","Tier 1","Supermarket Type1",3.58516844008447
+12.6,"LF",0.044391149,"Canned",2.215860072,28,"Medium","Tier 3","Supermarket Type3",3.61433152036054
+20.25,"Regular",0.022639471,"Dairy",2.395167676,6,"Small","Tier 2","Supermarket Type1",3.57104368976122
+8.95,"Regular",0,"Dairy",2.42290322,6,"Small","Tier 2","Supermarket Type1",3.60447975557957
+16.75,"Regular",0.008579863,"Meat",1.859161123,14,"Medium","Tier 1","Supermarket Type1",3.03655410672677
+15,"Regular",0.054367971,"Canned",1.767826463,9,"Small","Tier 2","Supermarket Type1",2.93676847333578
+13.15,"Regular",0.165328057,"Fruits and Vegetables",2.232173474,9,"Small","Tier 2","Supermarket Type1",3.40815893608977
+12.6,"Regular",0.013529884,"Fruits and Vegetables",2.026368177,28,"Medium","Tier 3","Supermarket Type3",3.42269873856616
+6.28,"LF",0.027699863,"Soft Drinks",1.944086691,9,"Small","Tier 2","Supermarket Type1",3.11380615919152
+5.93,"Regular",0.09646733,"Dairy",1.631531025,16,"Small","Tier 1","Supermarket Type1",2.77583504671216
+18.85,"LF",0.141642219,"Canned",2.225601815,16,"Small","Tier 1","Supermarket Type1",3.39110263375063
+16.1,"Regular",0.013584408,"Fruits and Vegetables",2.032455971,26,"High","Tier 3","Supermarket Type1",3.18534257201045
+7.57,"LF",0.054751689,"Health and Hygiene",1.738725079,11,"Small","Tier 2","Supermarket Type1",2.89271419971894
+12.6,"LF",0.014560297,"Baking Goods",1.910757767,28,"Medium","Tier 3","Supermarket Type3",3.29308645369025
+5.46,"Regular",0.03217132,"Canned",2.266758365,9,"Small","Tier 2","Supermarket Type1",3.45204545029516
+11.8,"LF",0.121848436,"Fruits and Vegetables",1.670618741,11,"Small","Tier 2","Supermarket Type1",2.81773065451171
+19.25,"LF",0.108470504,"Household",1.524471419,4,"Medium","Tier 3","Supermarket Type2",2.5927582094618
+14.3,"Regular",0.065207559,"Fruits and Vegetables",1.953690122,16,"Small","Tier 1","Supermarket Type1",3.11720176224792
+19.1,"LF",0.096733815,"Fruits and Vegetables",2.367720724,16,"Small","Tier 1","Supermarket Type1",3.53206737158037
+16.25,"LF",0.057485328,"Fruits and Vegetables",2.101075185,14,"Medium","Tier 1","Supermarket Type1",3.27608386508171
+12.6,"Regular",0.024776026,"Baking Goods",2.236391633,28,"Medium","Tier 3","Supermarket Type3",3.6335623721936
+5.15,"Regular",0.061165512,"Meat",2.09912378,9,"Small","Tier 2","Supermarket Type1",3.2770573249291
+18.85,"LF",0.091008572,"Hard Drinks",2.112717582,14,"Medium","Tier 1","Supermarket Type1",3.2818495254834
+12.65,"Regular",0.156286566,"Fruits and Vegetables",2.378313941,14,"Medium","Tier 1","Supermarket Type1",3.56826813051452
+19.35,"Regular",0.137697119,"Baking Goods",1.673052256,15,"Small","Tier 3","Grocery Store",1.97146506213015
+12.6,"LF",0.220225608,"Fruits and Vegetables",1.932574209,28,"Small","Tier 1","Grocery Store",2.24233781448842
+13.65,"LF",0.04929502,"Fruits and Vegetables",2.177550928,14,"Medium","Tier 1","Supermarket Type1",3.35557978076555
+20.35,"LF",0.054362695,"Snack Foods",2.071685426,6,"Small","Tier 2","Supermarket Type1",3.23648939268469
+13.85,"Regular",0.085274988,"Meat",2.077776205,16,"Small","Tier 1","Supermarket Type1",3.24573551529431
+12.35,"Regular",0.072334667,"Dairy",1.691693142,26,"High","Tier 3","Supermarket Type1",2.82280342434907
+6.38,"LF",0.032028115,"Dairy",2.251235125,4,"Medium","Tier 3","Supermarket Type2",3.33114859588794
+13,"Regular",0.070588037,"Snack Foods",1.819204263,4,"Medium","Tier 3","Supermarket Type2",2.89650846418366
+8.9,"Regular",0.088821765,"Snack Foods",2.097510661,6,"Small","Tier 2","Supermarket Type1",3.27482691852879
+16.2,"Regular",0.128682722,"Frozen Foods",2.251484913,11,"Small","Tier 2","Supermarket Type1",3.40453928467399
+7.48,"LF",0.013120028,"Household",2.337697209,16,"Small","Tier 1","Supermarket Type1",3.5036122165563
+10.8,"Regular",0.048339408,"Baking Goods",1.618192489,4,"Medium","Tier 3","Supermarket Type2",2.69851374377635
+14.3,"Regular",0.04975339,"Meat",2.322960272,14,"Medium","Tier 1","Supermarket Type1",3.5125247532894
+12.6,"LF",0.14453827,"Canned",2.256718227,28,"Small","Tier 1","Grocery Store",2.57923444663623
+12.6,"LF",0.172309903,"Meat",1.992130062,28,"Small","Tier 1","Grocery Store",2.30481184313051
+12.6,"Regular",0.05787008,"Breakfast",1.696363379,28,"Small","Tier 1","Grocery Store",1.95268331877033
+11.5,"LF",0.173516063,"Fruits and Vegetables",2.10777012,16,"Small","Tier 1","Supermarket Type1",3.26888704123846
+19.7,"LF",0.077899109,"Baking Goods",2.2498487,9,"Small","Tier 2","Supermarket Type1",3.41249269192508
+10.9,"LF",0.064621927,"Fruits and Vegetables",2.293758875,26,"High","Tier 3","Supermarket Type1",3.44809528081089
+13.65,"Regular",0.021343732,"Snack Foods",1.766106353,15,"Small","Tier 3","Grocery Store",2.0628194158839
+12.6,"Regular",0.061955439,"Frozen Foods",2.161792505,28,"Medium","Tier 3","Supermarket Type3",3.54807223558745
+13.15,"LF",0.024701262,"Household",2.247650738,11,"Small","Tier 2","Supermarket Type1",3.40540300531295
+15.25,"LF",0.02671821,"Snack Foods",1.930540511,4,"Medium","Tier 3","Supermarket Type2",3.0027191868417
+12.6,"LF",0.0514111,"Breads",1.519247672,28,"Medium","Tier 3","Supermarket Type3",2.90902096573636
+9.5,"LF",0,"Fruits and Vegetables",2.043058755,6,"Small","Tier 2","Supermarket Type1",3.22316676673067
+11.65,"LF",0.175033524,"Dairy",1.744526109,6,"Small","Tier 2","Supermarket Type1",2.90090018347089
+12.35,"LF",0.026676216,"Canned",1.756062248,9,"Small","Tier 2","Supermarket Type1",2.91898801905755
+12.6,"LF",0.029380407,"Household",2.059620209,28,"Medium","Tier 3","Supermarket Type3",3.44663568571977
+7,"LF",0.152261999,"Canned",2.024190017,6,"Small","Tier 2","Supermarket Type1",3.20905928973937
+9.3,"LF",0.174621343,"Snack Foods",2.018269318,14,"Medium","Tier 1","Supermarket Type1",3.18285999164265
+14.7,"LF",0.072410764,"Fruits and Vegetables",1.683077672,14,"Medium","Tier 1","Supermarket Type1",2.84858652533528
+7.68,"LF",0.118672537,"Fruits and Vegetables",2.283789987,15,"Small","Tier 3","Grocery Store",2.59940343097614
+16,"LF",0.090153756,"Dairy",2.15598972,11,"Small","Tier 2","Supermarket Type1",3.29816698443158
+12.6,"Regular",0.058446424,"Baking Goods",2.235887349,28,"Medium","Tier 3","Supermarket Type3",3.63293132244975
+13.5,"LF",0.054990009,"Health and Hygiene",1.54761966,16,"Small","Tier 1","Supermarket Type1",2.69783598289298
+12.6,"Regular",0.15528831,"Fruits and Vegetables",2.383373309,28,"Medium","Tier 3","Supermarket Type3",3.78787197332456
+8.21,"LF",0.010755465,"Hard Drinks",2.17851422,26,"High","Tier 3","Supermarket Type1",3.32651465370763
+12.6,"LF",0.039055756,"Household",2.182804258,28,"Medium","Tier 3","Supermarket Type3",3.57277161381878
+9.5,"Regular",0.104421237,"Canned",1.904152707,26,"High","Tier 3","Supermarket Type1",3.06115444628757
+12.6,"LF",0.034584356,"Dairy",2.39510788,28,"Medium","Tier 3","Supermarket Type3",3.77835210832034
+11.65,"LF",0.040144377,"Snack Foods",2.359777446,6,"Small","Tier 2","Supermarket Type1",3.53542254460053
+10.85,"LF",0.028738058,"Household",2.068856459,11,"Small","Tier 2","Supermarket Type1",3.22327056148792
+12.15,"LF",0.063430788,"Meat",1.816125915,15,"Small","Tier 3","Grocery Store",2.11994905097828
+16.35,"LF",0.029445361,"Household",2.411054756,16,"Small","Tier 1","Supermarket Type1",3.57480502806265
+6.24,"LF",0.118651919,"Household",2.421589121,9,"Small","Tier 2","Supermarket Type1",3.59528395532561
+20.2,"Regular",0.039215075,"Breakfast",2.197729786,26,"High","Tier 3","Supermarket Type1",3.2974781860844
+14.1,"LF",0.089859642,"Canned",2.146901631,11,"Small","Tier 2","Supermarket Type1",3.30929605748663
+13.65,"Regular",0.026643448,"Meat",1.579248399,14,"Medium","Tier 1","Supermarket Type1",2.75115590758999
+12.6,"LF",0.073879939,"Household",1.973341252,28,"Medium","Tier 3","Supermarket Type3",3.35811477047807
+12.6,"LF",0.077046505,"Soft Drinks",2.277501487,28,"Small","Tier 1","Grocery Store",2.60033241166089
+9.2,"Regular",0.064376263,"Frozen Foods",1.919896724,6,"Small","Tier 2","Supermarket Type1",3.09075203136314
+15.6,"Regular",0.04575559,"Snack Foods",2.223010755,9,"Small","Tier 2","Supermarket Type1",3.38704898027667
+11.5,"LF",0.014944614,"Starchy Foods",2.235043382,6,"Small","Tier 2","Supermarket Type1",3.42712823539833
+13.15,"LF",0.024646608,"Household",2.249121523,9,"Small","Tier 2","Supermarket Type1",3.41592937082476
+8.05,"Regular",0.078522357,"Fruits and Vegetables",2.410211186,14,"Medium","Tier 1","Supermarket Type1",3.60321844998038
+20.75,"LF",0.089260667,"Breakfast",2.286563795,16,"Small","Tier 1","Supermarket Type1",3.39298730026606
+13.5,"LF",0.05510153,"Health and Hygiene",1.569226388,11,"Small","Tier 2","Supermarket Type1",2.71650888216326
+18,"LF",0.047645037,"Household",2.237146962,6,"Small","Tier 2","Supermarket Type1",3.41499087238694
+12.6,"LF",0.122242847,"Starchy Foods",2.317151613,28,"Medium","Tier 3","Supermarket Type3",3.72142373355543
+16,"LF",0.076975118,"Fruits and Vegetables",1.664722811,14,"Medium","Tier 1","Supermarket Type1",2.82920175440567
+12.6,"Regular",0.098606543,"Breakfast",2.36685237,28,"Small","Tier 1","Grocery Store",2.63927991823442
+12.6,"LF",0.020614212,"Fruits and Vegetables",2.101762879,28,"Medium","Tier 3","Supermarket Type3",3.49290960241707
+8.65,"LF",0.143713508,"Health and Hygiene",1.985161415,11,"Small","Tier 2","Supermarket Type1",3.14434589330806
+12.6,"LF",0.099747488,"Fruits and Vegetables",1.876407226,28,"Medium","Tier 3","Supermarket Type3",3.26182428779662
+12.6,"LF",0,"Fruits and Vegetables",2.385580179,28,"Medium","Tier 3","Supermarket Type3",3.78367402920425
+10.5,"Regular",0.026520107,"Baking Goods",2.160806951,6,"Small","Tier 2","Supermarket Type1",3.34601571115305
+20.75,"Regular",0.083736551,"Frozen Foods",2.252201829,14,"Medium","Tier 1","Supermarket Type1",3.42263034629403
+12.6,"LF",0.012865901,"Frozen Foods",1.773447066,28,"Small","Tier 1","Grocery Store",2.06689293235864
+6.13,"LF",0.028365524,"Household",2.041752606,14,"Medium","Tier 1","Supermarket Type1",3.21677705692753
+9.1,"LF",0,"Household",2.058622627,16,"Small","Tier 1","Supermarket Type1",3.21711033419985
+14.75,"LF",0.089686322,"Snack Foods",2.062024376,4,"Medium","Tier 3","Supermarket Type2",3.13739382758971
+19.2,"LF",0.035185588,"Snack Foods",2.258473973,16,"Small","Tier 1","Supermarket Type1",3.40928064080257
+12.6,"LF",0.035574413,"Fruits and Vegetables",2.118689221,28,"Medium","Tier 3","Supermarket Type3",3.51019518125518
+11.65,"LF",0,"Baking Goods",2.183561364,9,"Small","Tier 2","Supermarket Type1",3.34839156984558
+17.75,"LF",0.03050705,"Others",2.256154674,16,"Small","Tier 1","Supermarket Type1",3.42608543247503
+6.42,"LF",0.053688479,"Dairy",2.25115183,4,"Medium","Tier 3","Supermarket Type2",3.33097206672857
+10.6,"LF",0.056911107,"Dairy",2.369149409,11,"Small","Tier 2","Supermarket Type1",3.51897088675101
+17.7,"Regular",0.016622448,"Fruits and Vegetables",1.700733131,14,"Medium","Tier 1","Supermarket Type1",2.87253160617211
+8.24,"LF",0.014482153,"Health and Hygiene",2.260774757,14,"Medium","Tier 1","Supermarket Type1",3.44645434460396
+11.6,"LF",0,"Soft Drinks",2.151110483,11,"Small","Tier 2","Supermarket Type1",3.3145895618206
+17.2,"Regular",0.025205909,"Canned",2.17359938,14,"Medium","Tier 1","Supermarket Type1",3.36168646521254
+19.6,"LF",0.039544237,"Snack Foods",2.213922909,26,"High","Tier 3","Supermarket Type1",3.35153952858625
+8.02,"LF",0.111613921,"Snack Foods",2.183838468,14,"Medium","Tier 1","Supermarket Type1",3.35321616753132
+13.8,"LF",0.097043739,"Dairy",1.759614971,9,"Small","Tier 2","Supermarket Type1",2.90214824821694
+12.6,"Regular",0.214139786,"Fruits and Vegetables",2.010306742,28,"Small","Tier 1","Grocery Store",2.32896111774388
+10,"LF",0.021468792,"Household",2.400840077,11,"Small","Tier 2","Supermarket Type1",3.56369544922996
+11.6,"LF",0.040911824,"Soft Drinks",2.153251898,26,"High","Tier 3","Supermarket Type1",3.30818021170309
+9.3,"LF",0.044843161,"Household",2.39125312,4,"Medium","Tier 3","Supermarket Type2",3.48511872290135
+8.26,"Regular",0.032435437,"Soft Drinks",2.096468546,9,"Small","Tier 2","Supermarket Type1",3.27598314953056
+10.9,"LF",0.020994339,"Health and Hygiene",2.407675015,11,"Small","Tier 2","Supermarket Type1",3.57652873337694
+15.5,"Regular",0.02536567,"Baking Goods",1.917995718,9,"Small","Tier 2","Supermarket Type1",3.08160445354474
+12.1,"LF",0.011604894,"Dairy",2.22024568,6,"Small","Tier 2","Supermarket Type1",3.38850541650609
+16,"LF",0.041028937,"Snack Foods",2.154270558,11,"Small","Tier 2","Supermarket Type1",3.30047765484264
+9.3,"LF",0.042930789,"Fruits and Vegetables",1.947027668,26,"High","Tier 3","Supermarket Type1",3.0937375345468
+12.6,"LF",0.046994717,"Meat",2.099687546,28,"Small","Tier 1","Grocery Store",2.41540180688788
+17.35,"LF",0.014689006,"Frozen Foods",1.872178424,9,"Small","Tier 2","Supermarket Type1",3.01795913603579
+19.7,"LF",0.064921764,"Canned",1.945073503,16,"Small","Tier 1","Supermarket Type1",3.10366556612127
+19.35,"LF",0.033060937,"Meat",2.236723132,26,"High","Tier 3","Supermarket Type1",3.38739437721247
+12.85,"LF",0.033172957,"Snack Foods",2.235634987,9,"Small","Tier 2","Supermarket Type1",3.39424033097526
+18.85,"LF",0.141524348,"Canned",2.226376128,26,"High","Tier 3","Supermarket Type1",3.37997565107719
+11.65,"LF",0.039980644,"Snack Foods",2.356732016,14,"Medium","Tier 1","Supermarket Type1",3.52895208438957
+10.9,"Regular",0.009636821,"Dairy",2.085907502,14,"Medium","Tier 1","Supermarket Type1",3.255079472524
+17.6,"Regular",0.039189221,"Snack Foods",1.988295804,26,"High","Tier 3","Supermarket Type1",3.12830954700171
+9.7,"Regular",0.129008866,"Baking Goods",2.355911816,6,"Small","Tier 2","Supermarket Type1",3.54584991742006
+13.85,"LF",0.030795085,"Soft Drinks",2.15629286,16,"Small","Tier 1","Supermarket Type1",3.32226382289381
+12.15,"Regular",0.13283066,"Fruits and Vegetables",2.280321542,6,"Small","Tier 2","Supermarket Type1",3.47155202330065
+11.8,"LF",0.008559557,"Health and Hygiene",2.069109888,9,"Small","Tier 2","Supermarket Type1",3.23842774527287
+14.35,"LF",0.017038777,"Health and Hygiene",2.051240531,16,"Small","Tier 1","Supermarket Type1",3.2134164273909
+20,"LF",0.0814536,"Others",1.566071989,14,"Medium","Tier 1","Supermarket Type1",2.73386316936229
+17.75,"LF",0.07607772,"Baking Goods",2.050976453,14,"Medium","Tier 1","Supermarket Type1",3.21984018936398
+6.13,"LF",0.076891526,"Dairy",1.789253458,11,"Small","Tier 2","Supermarket Type1",2.92691454574627
+20.25,"Regular",0.014793357,"Dairy",2.282205516,16,"Small","Tier 1","Supermarket Type1",3.43627870369354
+19.85,"Regular",0.020858779,"Snack Foods",1.798093784,26,"High","Tier 3","Supermarket Type1",2.93257531238897
+7.41,"LF",0,"Dairy",2.313296782,6,"Small","Tier 2","Supermarket Type1",3.48590573563161
+15.7,"Regular",0.03079807,"Snack Foods",2.403073141,6,"Small","Tier 2","Supermarket Type1",3.58501104654384
+20.1,"LF",0.077389797,"Health and Hygiene",1.784286275,26,"High","Tier 3","Supermarket Type1",2.92534845090699
+12.6,"Regular",0.136592891,"Meat",2.376622209,28,"Small","Tier 1","Grocery Store",2.70572846362602
+9.8,"Regular",0.072863893,"Snack Foods",2.074120574,9,"Small","Tier 2","Supermarket Type1",3.23700037041744
+12.6,"LF",0.244102315,"Snack Foods",2.170484674,28,"Small","Tier 1","Grocery Store",2.47487324873061
+20.35,"LF",0.141789197,"Snack Foods",2.086029356,9,"Small","Tier 2","Supermarket Type1",3.23735382086166
+12.6,"LF",0.035414528,"Breads",2.338887785,28,"Medium","Tier 3","Supermarket Type3",3.74857567944329
+6.85,"LF",0.022864238,"Frozen Foods",2.415072556,26,"High","Tier 3","Supermarket Type1",3.56109766653285
+20.35,"LF",0.054011943,"Snack Foods",2.066499608,26,"High","Tier 3","Supermarket Type1",3.20016625108976
+6.39,"Regular",0.123961415,"Snack Foods",1.522279875,11,"Small","Tier 2","Supermarket Type1",2.66408897985906
+20.5,"LF",0.060847634,"Frozen Foods",1.875464102,15,"Small","Tier 3","Grocery Store",2.16259541532678
+12.6,"LF",0,"Fruits and Vegetables",2.403181627,28,"Medium","Tier 3","Supermarket Type3",3.80170196674028
+8.42,"Regular",0.030890618,"Canned",2.359333003,14,"Medium","Tier 1","Supermarket Type1",3.55574838310222
+19.75,"LF",0.033883448,"Snack Foods",2.328970901,9,"Small","Tier 2","Supermarket Type1",3.4868119334733
+17.85,"LF",0.052166995,"Snack Foods",2.085316271,9,"Small","Tier 2","Supermarket Type1",3.23802380818139
+15,"Regular",0.161301097,"Canned",2.267468825,26,"High","Tier 3","Supermarket Type1",3.43067033898624
+13.8,"Regular",0.064307102,"Fruits and Vegetables",1.888186236,14,"Medium","Tier 1","Supermarket Type1",3.06607345626384
+18.7,"Regular",0.071091591,"Frozen Foods",2.359078126,6,"Small","Tier 2","Supermarket Type1",3.53638938236303
+5.79,"Regular",0.0901292,"Fruits and Vegetables",1.953690122,15,"Small","Tier 3","Grocery Store",2.26921697279646
+10.1,"Regular",0,"Fruits and Vegetables",2.352392473,26,"High","Tier 3","Supermarket Type1",3.51570656064501
+16.75,"LF",0.032580547,"Health and Hygiene",2.283563988,9,"Small","Tier 2","Supermarket Type1",3.45582742491547
+7.42,"LF",0.020391845,"Snack Foods",2.396040949,16,"Small","Tier 1","Supermarket Type1",3.55539303079048
+13.15,"LF",0.036879539,"Frozen Foods",2.258631537,6,"Small","Tier 2","Supermarket Type1",3.42907065836976
+10.9,"LF",0.137023446,"Dairy",2.421203665,14,"Medium","Tier 1","Supermarket Type1",3.59108003638762
+20.7,"Regular",0.122208091,"Frozen Foods",2.078263191,6,"Small","Tier 2","Supermarket Type1",3.24771993555481
+12.6,"LF",0.063800266,"Health and Hygiene",2.090051264,28,"Medium","Tier 3","Supermarket Type3",3.483912482977
+17.35,"Regular",0.063207198,"Baking Goods",1.951254927,6,"Small","Tier 2","Supermarket Type1",3.12825980655727
+17.7,"LF",0.011660463,"Frozen Foods",1.984711793,4,"Medium","Tier 3","Supermarket Type2",3.0550717303945
+16.5,"LF",0.028579565,"Snack Foods",1.955757963,6,"Small","Tier 2","Supermarket Type1",3.11952768084942
+9.6,"LF",0.011211251,"Household",2.222504213,15,"Small","Tier 3","Grocery Store",2.53307666196267
+6.06,"LF",0.031103357,"Fruits and Vegetables",2.204005422,16,"Small","Tier 1","Supermarket Type1",3.37032235983988
+6.87,"Regular",0.036042939,"Frozen Foods",2.388187554,6,"Small","Tier 2","Supermarket Type1",3.5715070745662
+6.06,"LF",0.031230059,"Fruits and Vegetables",2.205090089,4,"Medium","Tier 3","Supermarket Type2",3.29899120760131
+12.6,"Regular",0.22417463,"Snack Foods",2.227582335,28,"Small","Tier 1","Grocery Store",2.54040877951889
+15.7,"Regular",0.030672457,"Snack Foods",2.403416359,14,"Medium","Tier 1","Supermarket Type1",3.58201121283156
+9.2,"Regular",0.077995641,"Meat",2.030031084,26,"High","Tier 3","Supermarket Type1",3.18697536596494
+13.85,"Regular",0.056432784,"Breakfast",2.370938479,11,"Small","Tier 2","Supermarket Type1",3.48607114235767
+10.7,"LF",0.064022881,"Household",1.557324303,4,"Medium","Tier 3","Supermarket Type2",2.63030480037541
+6.55,"Regular",0.034658144,"Breads",2.192647726,14,"Medium","Tier 1","Supermarket Type1",3.39403574553025
+12.6,"LF",0.075691713,"Fruits and Vegetables",1.992292775,28,"Medium","Tier 3","Supermarket Type3",3.38059962391338
+7.33,"LF",0.093765794,"Fruits and Vegetables",1.955757963,4,"Medium","Tier 3","Supermarket Type2",3.04284843460775
+17.7,"Regular",0.016593506,"Fruits and Vegetables",1.671204326,9,"Small","Tier 2","Supermarket Type1",2.83210956583236
+17,"Regular",0.015965308,"Snack Foods",2.360660048,16,"Small","Tier 1","Supermarket Type1",3.52195868883623
+11.5,"LF",0.073029341,"Fruits and Vegetables",2.274049262,11,"Small","Tier 2","Supermarket Type1",3.4360800555359
+18.85,"LF",0.055347985,"Baking Goods",2.119019537,9,"Small","Tier 2","Supermarket Type1",3.27894266427094
+19.7,"LF",0.077849003,"Baking Goods",2.253255598,26,"High","Tier 3","Supermarket Type1",3.39849908356863
+5.18,"Regular",0.04937018,"Snack Foods",2.028417515,15,"Small","Tier 3","Grocery Store",2.33510253146062
+16.75,"LF",0.060792265,"Dairy",2.231496606,4,"Medium","Tier 3","Supermarket Type2",3.30628999927823
+11.15,"LF",0.119852889,"Dairy",1.652965378,26,"High","Tier 3","Supermarket Type1",2.77651485558897
+20.1,"LF",0.074778547,"Dairy",2.04423706,11,"Small","Tier 2","Supermarket Type1",3.18196227561524
+18.25,"LF",0.0793795,"Frozen Foods",2.354312471,11,"Small","Tier 2","Supermarket Type1",3.50214126953333
+19.5,"LF",0.01572192,"Household",2.268720217,9,"Small","Tier 2","Supermarket Type1",3.43325085261503
+7.51,"LF",0.01742908,"Fruits and Vegetables",2.360973775,16,"Small","Tier 1","Supermarket Type1",3.5305052691554
+12.5,"LF",0.081119484,"Meat",2.342580183,9,"Small","Tier 2","Supermarket Type1",3.51613766399142
+11,"Regular",0.133145617,"Canned",2.33941129,16,"Small","Tier 1","Supermarket Type1",3.51812496900289
+7.35,"LF",0.028652919,"Fruits and Vegetables",1.607941589,11,"Small","Tier 2","Supermarket Type1",2.75580177467166
+16.35,"LF",0,"Fruits and Vegetables",2.293014538,4,"Medium","Tier 3","Supermarket Type2",3.38464344716096
+16.75,"LF",0.104768536,"Snack Foods",2.190788168,26,"High","Tier 3","Supermarket Type1",3.32887115067626
+12.5,"LF",0.020680499,"Breads",2.295070291,26,"High","Tier 3","Supermarket Type1",3.46173276840515
+12.6,"Regular",0.123727659,"Dairy",2.403181627,15,"Small","Tier 3","Grocery Store",2.71153867274699
+13.35,"LF",0.065082452,"Baking Goods",1.968858241,11,"Small","Tier 2","Supermarket Type1",3.11850003404556
+6.61,"Regular",0.029129907,"Snack Foods",2.275287854,4,"Medium","Tier 3","Supermarket Type2",3.36658415323187
+12.6,"LF",0.079440262,"Soft Drinks",1.938460681,28,"Small","Tier 1","Grocery Store",2.25306837910612
+20,"Regular",0.060022526,"Baking Goods",2.227149063,11,"Small","Tier 2","Supermarket Type1",3.38713921747718
+12.6,"LF",0.054723717,"Health and Hygiene",1.564516935,28,"Medium","Tier 3","Supermarket Type3",2.94567514301219
+6.78,"LF",0.066724663,"Fruits and Vegetables",2.2735198,14,"Medium","Tier 1","Supermarket Type1",3.45682503037415
+15.2,"LF",0.112896669,"Soft Drinks",1.557324303,16,"Small","Tier 1","Supermarket Type1",2.70791118239556
+16.85,"LF",0,"Snack Foods",2.164578868,6,"Small","Tier 2","Supermarket Type1",3.33335225684313
+11.15,"LF",0.073516952,"Others",1.818978985,11,"Small","Tier 2","Supermarket Type1",2.97760551138962
+17,"LF",0.119285634,"Frozen Foods",2.393475874,26,"High","Tier 3","Supermarket Type1",3.53420211297794
+20.7,"LF",0.04875891,"Fruits and Vegetables",1.572297583,16,"Small","Tier 1","Supermarket Type1",2.7168329553993
+18.85,"Regular",0.067953506,"Dairy",2.075707511,16,"Small","Tier 1","Supermarket Type1",3.22520978063144
+6.18,"Regular",0.179077475,"Meat",1.974857885,16,"Small","Tier 1","Supermarket Type1",3.1433651886217
+14.5,"Regular",0.063863551,"Breads",2.418896629,16,"Small","Tier 1","Supermarket Type1",3.60644322762142
+16,"LF",0.040938155,"Snack Foods",2.149679652,9,"Small","Tier 2","Supermarket Type1",3.30479557526741
+16.7,"Regular",0.119439636,"Fruits and Vegetables",2.260542652,9,"Small","Tier 2","Supermarket Type1",3.4358160750288
+12.6,"LF",0.081014461,"Baking Goods",1.994925706,28,"Small","Tier 1","Grocery Store",2.30246319940891
+19.75,"Regular",0.030166924,"Frozen Foods",2.254707555,15,"Small","Tier 3","Grocery Store",2.55844766725303
+12.15,"LF",0.01544786,"Frozen Foods",2.324884698,26,"High","Tier 3","Supermarket Type1",3.4664273880641
+12.6,"LF",0.32111501,"Fruits and Vegetables",2.003331259,28,"Small","Tier 1","Grocery Store",2.3144661078061
+8.21,"LF",0.010762387,"Hard Drinks",2.174755053,9,"Small","Tier 2","Supermarket Type1",3.34014760436915
+17.5,"LF",0.02687089,"Frozen Foods",2.422410899,16,"Small","Tier 1","Supermarket Type1",3.57585400678503
+12.6,"LF",0.099681705,"Baking Goods",2.031255727,28,"Small","Tier 1","Grocery Store",2.3396100041334
+10.8,"LF",0.082534287,"Dairy",2.281375211,9,"Small","Tier 2","Supermarket Type1",3.43791483811791
+7.47,"Regular",0.152024355,"Frozen Foods",2.325970654,26,"High","Tier 3","Supermarket Type1",3.47611229532152
+19.85,"LF",0.045669236,"Fruits and Vegetables",2.101753946,16,"Small","Tier 1","Supermarket Type1",3.25950120614719
+8.39,"Regular",0.024342578,"Frozen Foods",2.055445611,6,"Small","Tier 2","Supermarket Type1",3.23007643990284
+17.35,"LF",0.168329848,"Household",2.24741151,6,"Small","Tier 2","Supermarket Type1",3.42537838268135
+12.6,"LF",0.248301532,"Snack Foods",2.093796978,28,"Small","Tier 1","Grocery Store",2.39631309600607
+16,"LF",0.090480206,"Dairy",2.153556954,6,"Small","Tier 2","Supermarket Type1",3.31822355333426
+16.2,"LF",0.044291251,"Frozen Foods",1.636943015,14,"Medium","Tier 1","Supermarket Type1",2.78760492963633
+12.6,"LF",0.070556945,"Fruits and Vegetables",2.281524683,28,"Medium","Tier 3","Supermarket Type3",3.6768571955391
+15,"Regular",0.054599767,"Canned",1.774446889,4,"Medium","Tier 3","Supermarket Type2",2.8655440873909
+15.2,"LF",0.021250528,"Canned",2.335623162,11,"Small","Tier 2","Supermarket Type1",3.50234178816433
+7.42,"LF",0.0204332,"Snack Foods",2.396040949,11,"Small","Tier 2","Supermarket Type1",3.55193590182725
+12.6,"Regular",0.055213281,"Baking Goods",2.236729679,28,"Small","Tier 1","Grocery Store",2.5572005254735
+5.44,"LF",0.025519534,"Dairy",2.377950293,14,"Medium","Tier 1","Supermarket Type1",3.54955043116515
+10.4,"Regular",0.091688111,"Baking Goods",1.69020317,6,"Small","Tier 2","Supermarket Type1",2.8638311446179
+12.6,"Regular",0.165101585,"Fruits and Vegetables",1.943436144,28,"Small","Tier 1","Grocery Store",2.26063704869865
+16.75,"Regular",0.024848788,"Soft Drinks",1.601866687,9,"Small","Tier 2","Supermarket Type1",2.76570254834953
+12.6,"Regular",0.076868664,"Frozen Foods",1.793227252,28,"Small","Tier 1","Grocery Store",2.09392124050778
+6.89,"Regular",0.140292495,"Canned",2.03552099,11,"Small","Tier 2","Supermarket Type1",3.20519092291106
+12.15,"LF",0.025916883,"Starchy Foods",2.080063415,11,"Small","Tier 2","Supermarket Type1",3.24552150852961
+7.44,"LF",0.122837694,"Starchy Foods",2.319655193,16,"Small","Tier 1","Supermarket Type1",3.49610978520775
+4.64,"LF",0.141174838,"Breads",2.1041435,11,"Small","Tier 2","Supermarket Type1",3.27767741241442
+8.96,"Regular",0.069078149,"Fruits and Vegetables",2.296175346,11,"Small","Tier 2","Supermarket Type1",3.46685526615838
+11.65,"Regular",0.058822142,"Baking Goods",2.239405099,14,"Medium","Tier 1","Supermarket Type1",3.42255272451977
+18.5,"Regular",0.076097035,"Dairy",2.163787906,15,"Small","Tier 3","Grocery Store",2.46392111809914
+13.1,"Regular",0.044281996,"Fruits and Vegetables",2.251715584,11,"Small","Tier 2","Supermarket Type1",3.41958850970128
+16.1,"LF",0.023613955,"Soft Drinks",2.285297555,14,"Medium","Tier 1","Supermarket Type1",3.46917347767397
+12.35,"LF",0.164274416,"Household",2.078501768,11,"Small","Tier 2","Supermarket Type1",3.23203121147575
+12.1,"LF",0.115107028,"Baking Goods",2.346375275,11,"Small","Tier 2","Supermarket Type1",3.5055419883033
+10.65,"LF",0.023971463,"Fruits and Vegetables",1.73261246,16,"Small","Tier 1","Supermarket Type1",2.88552037960048
+8.39,"Regular",0.024243294,"Frozen Foods",2.064523877,14,"Medium","Tier 1","Supermarket Type1",3.23602321803372
+10.9,"LF",0.044991876,"Frozen Foods",2.030308206,15,"Small","Tier 3","Grocery Store",2.32545194003887
+5.82,"Regular",0.077319079,"Fruits and Vegetables",2.407277004,16,"Small","Tier 1","Supermarket Type1",3.58545380306149
+17.6,"Regular",0.041373331,"Snack Foods",1.581141499,9,"Small","Tier 2","Supermarket Type1",2.72876554082618
+5.41,"Regular",0.053730029,"Canned",2.299014979,11,"Small","Tier 2","Supermarket Type1",3.47601246330112
+12.6,"LF",0.079146113,"Frozen Foods",2.258795266,28,"Small","Tier 1","Grocery Store",2.56377581171967
+5.99,"LF",0.096337184,"Frozen Foods",2.09783945,6,"Small","Tier 2","Supermarket Type1",3.2673176303604
+16.2,"LF",0,"Soft Drinks",1.866107675,26,"High","Tier 3","Supermarket Type1",3.01220192250027
+6.78,"Regular",0.08573655,"Fruits and Vegetables",2.360913999,26,"High","Tier 3","Supermarket Type1",3.52559765564705
+19.1,"LF",0.092437711,"Others",2.267783535,6,"Small","Tier 2","Supermarket Type1",3.45628623474361
+17.6,"LF",0.137807013,"Health and Hygiene",2.208957044,15,"Small","Tier 3","Grocery Store",2.52149058580232
+15.35,"LF",0.014098693,"Frozen Foods",1.5707647,6,"Small","Tier 2","Supermarket Type1",2.72365005524278
+9.8,"LF",0.106933748,"Fruits and Vegetables",2.243873572,11,"Small","Tier 2","Supermarket Type1",3.40580276454724
+13.1,"LF",0.012148836,"Others",2.281835275,4,"Medium","Tier 3","Supermarket Type2",3.38204661610848
+9.3,"Regular",0.014047825,"Snack Foods",2.29338112,11,"Small","Tier 2","Supermarket Type1",3.45297310640811
+6.78,"LF",0.066608487,"Fruits and Vegetables",2.266288156,9,"Small","Tier 2","Supermarket Type1",3.43924071618765
+12.6,"LF",0.024536199,"Household",2.160198927,28,"Medium","Tier 3","Supermarket Type3",3.54966794292411
+7.98,"LF",0.014653896,"Baking Goods",1.916058956,14,"Medium","Tier 1","Supermarket Type1",3.08614359692167
+16.7,"Regular",0.054618573,"Starchy Foods",1.816352677,9,"Small","Tier 2","Supermarket Type1",2.98933592549793
+8.75,"Regular",0.074743226,"Fruits and Vegetables",2.273361529,14,"Medium","Tier 1","Supermarket Type1",3.46275900464189
+9.7,"LF",0.070431235,"Hard Drinks",2.249282517,9,"Small","Tier 2","Supermarket Type1",3.41562501098764
+19.75,"LF",0.041330512,"Fruits and Vegetables",2.063883292,26,"High","Tier 3","Supermarket Type1",3.20885105233893
+11.8,"Regular",0.057746382,"Meat",2.183089254,6,"Small","Tier 2","Supermarket Type1",3.37368466816189
+9.8,"Regular",0.045337184,"Baking Goods",1.566878045,14,"Medium","Tier 1","Supermarket Type1",2.73458660661075
+12.6,"Regular",0.062797771,"Frozen Foods",2.017029163,14,"Medium","Tier 1","Supermarket Type1",3.18540177985378
+19.75,"Regular",0.018096488,"Frozen Foods",2.254224108,4,"Medium","Tier 3","Supermarket Type2",3.33718083701008
+13.1,"LF",0.037657459,"Fruits and Vegetables",2.245032211,11,"Small","Tier 2","Supermarket Type1",3.40577915429773
+12.6,"LF",0.041091215,"Household",1.95207238,28,"Medium","Tier 3","Supermarket Type3",3.33644209321549
+15,"LF",0.046336634,"Breads",2.079331052,26,"High","Tier 3","Supermarket Type1",3.2395833506254
+11.6,"Regular",0.241055611,"Dairy",2.377528806,15,"Small","Tier 3","Grocery Store",2.68530330686954
+7.66,"LF",0.05346916,"Canned",2.057472872,15,"Small","Tier 3","Grocery Store",2.37247415231627
+13.65,"LF",0.040049609,"Frozen Foods",1.537262338,6,"Small","Tier 2","Supermarket Type1",2.68999254356375
+12.6,"Regular",0.03941584,"Dairy",2.394117426,28,"Small","Tier 1","Grocery Store",2.70770326095343
+11.8,"LF",0.058725131,"Health and Hygiene",1.915725829,9,"Small","Tier 2","Supermarket Type1",3.08115647092988
+6.72,"Regular",0.122274118,"Baking Goods",1.605794026,6,"Small","Tier 2","Supermarket Type1",2.77888519330319
+19.1,"LF",0.067239404,"Household",1.598567285,26,"High","Tier 3","Supermarket Type1",2.72937665259385
+12.6,"LF",0.055566935,"Household",2.420930578,28,"Small","Tier 1","Grocery Store",2.74000711466478
+12.35,"LF",0.041973712,"Health and Hygiene",1.552930903,6,"Small","Tier 2","Supermarket Type1",2.72291651438477
+20.25,"LF",0.036474041,"Dairy",2.339149616,4,"Medium","Tier 3","Supermarket Type2",3.41510057378799
+18,"LF",0.039231652,"Snack Foods",2.161792505,6,"Small","Tier 2","Supermarket Type1",3.32986100345636
+12.35,"Regular",0.03382933,"Meat",2.294339667,11,"Small","Tier 2","Supermarket Type1",3.46492169274011
+10.1,"LF",0.032075379,"Canned",1.706724608,26,"High","Tier 3","Supermarket Type1",2.85193922494773
+10.3,"Regular",0.024875871,"Baking Goods",2.238152028,26,"High","Tier 3","Supermarket Type1",3.39431525528521
+12.6,"Regular",0.028139761,"Canned",2.239905316,28,"Medium","Tier 3","Supermarket Type3",3.64600125520174
+17.1,"Regular",0.073997843,"Fruits and Vegetables",2.31610418,26,"High","Tier 3","Supermarket Type1",3.47521997216038
+14.15,"LF",0.020798905,"Fruits and Vegetables",2.092034634,4,"Medium","Tier 3","Supermarket Type2",3.17968696955536
+6.22,"LF",0.012138795,"Fruits and Vegetables",1.594224546,26,"High","Tier 3","Supermarket Type1",2.73384021947828
+17.5,"LF",0,"Snack Foods",2.403181627,9,"Small","Tier 2","Supermarket Type1",3.56392199427382
+8.98,"Regular",0.009058845,"Canned",2.014516339,16,"Small","Tier 1","Supermarket Type1",3.18666496592797
+4.62,"Regular",0.101812521,"Canned",2.365918322,9,"Small","Tier 2","Supermarket Type1",3.55373924302336
+19.2,"LF",0.100055601,"Frozen Foods",2.051108512,9,"Small","Tier 2","Supermarket Type1",3.20012371108867
+12.65,"Regular",0.076198809,"Frozen Foods",2.281906989,11,"Small","Tier 2","Supermarket Type1",3.43743259623297
+11.1,"LF",0.010639596,"Canned",1.925264636,9,"Small","Tier 2","Supermarket Type1",3.09289252740852
+19.2,"LF",0.041220035,"Household",2.118036438,9,"Small","Tier 2","Supermarket Type1",3.27896066047587
+16.1,"Regular",0.024987903,"Fruits and Vegetables",1.988295804,14,"Medium","Tier 1","Supermarket Type1",3.1677346605049
+21.25,"LF",0.009996872,"Meat",2.268486236,9,"Small","Tier 2","Supermarket Type1",3.4366562577061
+9,"LF",0.079506434,"Canned",1.894118813,11,"Small","Tier 2","Supermarket Type1",3.05265817048286
+12.15,"LF",0.021811987,"Breads",2.213832141,4,"Medium","Tier 3","Supermarket Type2",3.31815449121598
+12.6,"LF",0.039631495,"Frozen Foods",1.504549694,28,"Medium","Tier 3","Supermarket Type3",2.86799355798136
+7.94,"LF",0.017141985,"Dairy",1.699273904,26,"High","Tier 3","Supermarket Type1",2.82570144199305
+17.6,"LF",0.056379439,"Frozen Foods",1.630889385,14,"Medium","Tier 1","Supermarket Type1",2.7807500387156
+13.35,"LF",0,"Dairy",1.889868437,16,"Small","Tier 1","Supermarket Type1",3.03052235980575
+9,"LF",0.082011521,"Frozen Foods",2.329099568,16,"Small","Tier 1","Supermarket Type1",3.48381866898646
+17.6,"LF",0.049144165,"Snack Foods",2.051991733,14,"Medium","Tier 1","Supermarket Type1",3.21418947369139
+9,"LF",0.03201648,"Household",1.998266315,9,"Small","Tier 2","Supermarket Type1",3.16078923338872
+12.6,"LF",0.055806016,"Seafood",1.720144413,28,"Medium","Tier 3","Supermarket Type3",3.11307113594078
+20.2,"Regular",0.117543713,"Baking Goods",2.295151298,14,"Medium","Tier 1","Supermarket Type1",3.47570344486099
+20.7,"LF",0.048718334,"Fruits and Vegetables",1.588278431,26,"High","Tier 3","Supermarket Type1",2.72128070468443
+12.6,"Regular",0.095587976,"Fruits and Vegetables",2.287761433,28,"Small","Tier 1","Grocery Store",2.61354195107679
+13.35,"LF",0.091189915,"Snack Foods",2.174265707,9,"Small","Tier 2","Supermarket Type1",3.33096758588196
+20.85,"Regular",0.062212713,"Baking Goods",1.945229214,9,"Small","Tier 2","Supermarket Type1",3.10702819816212
+5.62,"LF",0.126480422,"Health and Hygiene",2.084837134,6,"Small","Tier 2","Supermarket Type1",3.27037250314465
+20.5,"LF",0.144094079,"Household",1.541816294,6,"Small","Tier 2","Supermarket Type1",2.70138851190715
+12.65,"LF",0.035404052,"Baking Goods",2.362861186,9,"Small","Tier 2","Supermarket Type1",3.53147726530277
+6.43,"LF",0.105742544,"Breakfast",2.11581879,15,"Small","Tier 3","Grocery Store",2.3726948429741
+9.7,"Regular",0.029223424,"Canned",2.244121192,11,"Small","Tier 2","Supermarket Type1",3.41799214920753
+12.6,"Regular",0.021002171,"Canned",2.26762316,28,"Small","Tier 1","Grocery Store",2.59781045871576
+15.6,"LF",0.088215871,"Snack Foods",2.342777473,6,"Small","Tier 2","Supermarket Type1",3.5161162966575
+16.1,"Regular",0.063429818,"Dairy",2.253899414,14,"Medium","Tier 1","Supermarket Type1",3.42468033832568
+17.6,"LF",0.010037996,"Snack Foods",2.213664356,9,"Small","Tier 2","Supermarket Type1",3.36973468282822
+16.5,"Regular",0.093846532,"Baking Goods",1.980942796,9,"Small","Tier 2","Supermarket Type1",3.14540560800095
+11.65,"LF",0.040744057,"Fruits and Vegetables",2.269335454,6,"Small","Tier 2","Supermarket Type1",3.4538455297919
+17.6,"LF",0.015775777,"Household",2.253332189,6,"Small","Tier 2","Supermarket Type1",3.43185196556869
+6.24,"LF",0.118858866,"Household",2.420436014,14,"Medium","Tier 1","Supermarket Type1",3.60428004411922
+16.75,"LF",0.105448901,"Snack Foods",2.193578144,6,"Small","Tier 2","Supermarket Type1",3.3627392767974
+6.58,"Regular",0.075625152,"Breads",2.163591877,14,"Medium","Tier 1","Supermarket Type1",3.36412334735242
+12.6,"LF",0.198424841,"Soft Drinks",2.267857607,28,"Small","Tier 1","Grocery Store",2.59004192758523
+16.7,"Regular",0.120137953,"Fruits and Vegetables",2.258392055,6,"Small","Tier 2","Supermarket Type1",3.44714062797834
+8.18,"Regular",0.082867689,"Frozen Foods",1.767592168,6,"Small","Tier 2","Supermarket Type1",2.93514111822268
+12.35,"LF",0.093441604,"Snack Foods",2.075956975,14,"Medium","Tier 1","Supermarket Type1",3.24088515934976
+12.6,"Regular",0.011937183,"Canned",2.266684106,28,"Medium","Tier 3","Supermarket Type3",3.67348402629897
+6.59,"LF",0.026163192,"Household",2.084611306,26,"High","Tier 3","Supermarket Type1",3.23281910018245
+12.6,"Regular",0.015950066,"Breads",1.678884234,28,"Medium","Tier 3","Supermarket Type3",3.07963279715939
+12.6,"LF",0.143199389,"Breads",2.245110266,28,"Small","Tier 1","Grocery Store",2.57555467638762
+12.6,"LF",0.237651344,"Fruits and Vegetables",2.230986603,28,"Small","Tier 1","Grocery Store",2.54792156777729
+20.35,"Regular",0.031102571,"Dairy",2.41038442,6,"Small","Tier 2","Supermarket Type1",3.58655653133392
+12.6,"LF",0.142589751,"Household",1.555324237,28,"Medium","Tier 3","Supermarket Type3",2.92973529908961
+14.1,"LF",0.126292985,"Fruits and Vegetables",1.947530766,4,"Medium","Tier 3","Supermarket Type2",3.03134473792741
+17.25,"LF",0.05869048,"Dairy",1.961952364,15,"Small","Tier 3","Grocery Store",2.25081539342738
+10.5,"LF",0.071244438,"Frozen Foods",2.076311959,9,"Small","Tier 2","Supermarket Type1",3.22984804841752
+18.7,"LF",0.046088273,"Health and Hygiene",2.186584004,16,"Small","Tier 1","Supermarket Type1",3.35003440293523
+5.78,"LF",0.014584584,"Soft Drinks",2.165274604,11,"Small","Tier 2","Supermarket Type1",3.33159748882033
+12.8,"Regular",0.023530953,"Meat",2.349356024,16,"Small","Tier 1","Supermarket Type1",3.52456595757399
+8.31,"Regular",0.115911972,"Snack Foods",2.248715594,11,"Small","Tier 2","Supermarket Type1",3.40731257679125
+12.6,"LF",0.029084548,"Frozen Foods",2.086394715,28,"Small","Tier 1","Grocery Store",2.38736824172245
+11.3,"LF",0.066816565,"Household",2.283861379,11,"Small","Tier 2","Supermarket Type1",3.44315840431528
+15.7,"LF",0.122742389,"Canned",2.128057256,11,"Small","Tier 2","Supermarket Type1",3.28918211753925
+18.2,"LF",0.090084098,"Fruits and Vegetables",2.294931135,11,"Small","Tier 2","Supermarket Type1",3.45447406230041
+19.85,"Regular",0.020908608,"Snack Foods",1.802906387,14,"Medium","Tier 1","Supermarket Type1",2.96516542424241
+12.85,"LF",0.030678825,"Starchy Foods",2.400890117,11,"Small","Tier 2","Supermarket Type1",3.57379903136304
+10.5,"Regular",0.013493914,"Snack Foods",2.157503308,9,"Small","Tier 2","Supermarket Type1",3.32229874779884
+8.6,"Regular",0.040205535,"Canned",2.275893863,16,"Small","Tier 1","Supermarket Type1",3.45443631130281
+20.5,"LF",0.032819637,"Household",1.590866345,14,"Medium","Tier 1","Supermarket Type1",2.74865382413625
+15.1,"Regular",0.096249842,"Meat",2.128703556,14,"Medium","Tier 1","Supermarket Type1",3.31305239901378
+7.91,"LF",0.010003987,"Snack Foods",2.399225007,26,"High","Tier 3","Supermarket Type1",3.54655441131373
+19.85,"LF",0.054025644,"Seafood",2.295076015,16,"Small","Tier 1","Supermarket Type1",3.46862558861947
+12.6,"LF",0.06912336,"Soft Drinks",2.025690005,28,"Medium","Tier 3","Supermarket Type3",3.41905093581606
+11.65,"LF",0.033851785,"Seafood",2.049938663,9,"Small","Tier 2","Supermarket Type1",3.22677296368301
+7.24,"LF",0.058121214,"Snack Foods",2.064021229,9,"Small","Tier 2","Supermarket Type1",3.22084163736217
+8.84,"Regular",0.076547632,"Frozen Foods",2.039504538,9,"Small","Tier 2","Supermarket Type1",3.19984468975893
+18.85,"LF",0.16758389,"Household",2.289173186,16,"Small","Tier 1","Supermarket Type1",3.44840481968468
+8.42,"LF",0.070968081,"Household",2.334291262,6,"Small","Tier 2","Supermarket Type1",3.51860745569657
+12.6,"LF",0.011206632,"Canned",2.281984589,28,"Medium","Tier 3","Supermarket Type3",3.68217115243192
+9,"LF",0.039004193,"Soft Drinks",1.568424683,11,"Small","Tier 2","Supermarket Type1",2.71879165295103
+20.1,"Regular",0.054584207,"Fruits and Vegetables",2.286416047,9,"Small","Tier 2","Supermarket Type1",3.46104721037193
+20.25,"LF",0.014251461,"Household",2.172140956,11,"Small","Tier 2","Supermarket Type1",3.32498804959054
+20.35,"LF",0.090480214,"Snack Foods",2.077537229,15,"Small","Tier 3","Grocery Store",2.37163877383755
+12.6,"LF",0.294939214,"Frozen Foods",1.673076228,28,"Small","Tier 1","Grocery Store",1.9631304582231
+12.6,"LF",0.018632082,"Canned",1.919029951,28,"Small","Tier 1","Grocery Store",2.23379219303473
+9.2,"LF",0.114863923,"Frozen Foods",1.771033053,9,"Small","Tier 2","Supermarket Type1",2.91759336604845
+12.6,"LF",0.056191301,"Seafood",1.726712542,11,"Small","Tier 2","Supermarket Type1",2.88620292613553
+5.46,"Regular",0.032242661,"Canned",2.273288391,11,"Small","Tier 2","Supermarket Type1",3.449713701597
+12.3,"Regular",0.058234621,"Snack Foods",1.7690537,11,"Small","Tier 2","Supermarket Type1",2.91447617041442
+19.6,"LF",0.023931217,"Household",2.013664547,26,"High","Tier 3","Supermarket Type1",3.15446011677475
+11.1,"LF",0.11089655,"Fruits and Vegetables",2.282360597,11,"Small","Tier 2","Supermarket Type1",3.44463922582919
+9.27,"LF",0.103419257,"Dairy",2.17056972,15,"Small","Tier 3","Grocery Store",2.46783215172786
+13.35,"LF",0.032180494,"Meat",1.786889069,16,"Small","Tier 1","Supermarket Type1",2.94121321757929
+12.3,"LF",0.111500259,"Baking Goods",1.552514909,11,"Small","Tier 2","Supermarket Type1",2.69237072845932
+6.43,"LF",0.010497273,"Canned",2.073281271,6,"Small","Tier 2","Supermarket Type1",3.26007209058839
+5.19,"LF",0.042687151,"Frozen Foods",2.292058821,14,"Medium","Tier 1","Supermarket Type1",3.46342427590322
+10.8,"Regular",0.048218142,"Baking Goods",1.625454448,14,"Medium","Tier 1","Supermarket Type1",2.79413435400737
+11.8,"Regular",0.107036943,"Dairy",2.343166661,9,"Small","Tier 2","Supermarket Type1",3.50766855573786
+12.6,"LF",0.032381325,"Meat",2.220589731,28,"Medium","Tier 3","Supermarket Type3",3.61588774702817
+7.81,"Regular",0.034043503,"Snack Foods",2.227155756,14,"Medium","Tier 1","Supermarket Type1",3.4049255407993
+12.85,"LF",0,"Frozen Foods",1.583384698,9,"Small","Tier 2","Supermarket Type1",2.7241896245509
+9.3,"LF",0.016087659,"Dairy",2.397260588,4,"Medium","Tier 3","Supermarket Type2",3.47948704654425
+16.6,"LF",0,"Frozen Foods",1.737680751,6,"Small","Tier 2","Supermarket Type1",2.89411077924912
+14.5,"LF",0.089778187,"Health and Hygiene",2.199920748,16,"Small","Tier 1","Supermarket Type1",3.36538603358634
+5.47,"Regular",0,"Baking Goods",2.111136779,16,"Small","Tier 1","Supermarket Type1",3.27834388703929
+12.6,"LF",0.013066448,"Household",2.148958458,28,"Medium","Tier 3","Supermarket Type3",3.53819413335518
+12.6,"Regular",0.058542509,"Fruits and Vegetables",2.226972955,28,"Medium","Tier 3","Supermarket Type3",3.62801111082397
+20.35,"LF",0.089608321,"Dairy",2.418565434,14,"Medium","Tier 1","Supermarket Type1",3.58439836376974
+6.28,"LF",0.027748176,"Soft Drinks",1.937115507,14,"Medium","Tier 1","Supermarket Type1",3.11684373652025
+9.4,"LF",0.159201868,"Soft Drinks",2.354246776,26,"High","Tier 3","Supermarket Type1",3.51460684735104
+12.65,"LF",0.042175992,"Household",2.027324324,26,"High","Tier 3","Supermarket Type1",3.17143417334769
+12.6,"LF",0.057933643,"Meat",2.243469151,28,"Small","Tier 1","Grocery Store",2.5626300786265
+8.88,"LF",0.086916126,"Hard Drinks",2.185735321,14,"Medium","Tier 1","Supermarket Type1",3.36101911102025
+18.25,"LF",0.075347426,"Snack Foods",2.101419168,11,"Small","Tier 2","Supermarket Type1",3.24524299457136
+6.63,"Regular",0.010961483,"Snack Foods",1.765361535,11,"Small","Tier 2","Supermarket Type1",2.91333985980348
+12.6,"Regular",0.029157849,"Frozen Foods",1.987096662,28,"Small","Tier 1","Grocery Store",2.29265048964875
+4.64,"LF",0.141108156,"Breads",2.108224625,14,"Medium","Tier 1","Supermarket Type1",3.30105524837334
+20.2,"Regular",0.121500143,"Snack Foods",1.978067248,11,"Small","Tier 2","Supermarket Type1",3.12487732375474
+11.4,"Regular",0.069574013,"Meat",2.367097877,9,"Small","Tier 2","Supermarket Type1",3.54875728745186
+18.35,"Regular",0.092226754,"Frozen Foods",2.26582356,16,"Small","Tier 1","Supermarket Type1",3.42186428196385
+19.6,"LF",0.023999722,"Household",2.01743571,11,"Small","Tier 2","Supermarket Type1",3.16678589366738
+12.3,"LF",0.052608525,"Household",2.281608256,11,"Small","Tier 2","Supermarket Type1",3.44046084080624
+17.6,"LF",0.058042926,"Meat",2.189297688,26,"High","Tier 3","Supermarket Type1",3.33950162755981
+8.16,"LF",0.119692888,"Meat",2.275203055,11,"Small","Tier 2","Supermarket Type1",3.43987869092045
+8.4,"LF",0.039484739,"Snack Foods",1.990801323,9,"Small","Tier 2","Supermarket Type1",3.14540269606902
+10,"LF",0.021425341,"Household",2.398243908,16,"Small","Tier 1","Supermarket Type1",3.5644935101974
+12.6,"Regular",0.149305497,"Meat",2.077776205,28,"Small","Tier 1","Grocery Store",2.39959806311142
+11.1,"LF",0.033102681,"Household",2.066744734,9,"Small","Tier 2","Supermarket Type1",3.23000303150773
+7.08,"LF",0.058676973,"Dairy",2.15232749,6,"Small","Tier 2","Supermarket Type1",3.32098107967385
+14.1,"LF",0.067148407,"Snack Foods",2.301915921,4,"Medium","Tier 3","Supermarket Type2",3.38345952516531
+16.35,"LF",0.020579897,"Fruits and Vegetables",1.717107719,14,"Medium","Tier 1","Supermarket Type1",2.88289446077212
+15.2,"LF",0.03366718,"Household",2.040171788,11,"Small","Tier 2","Supermarket Type1",3.19196798854428
+11.5,"LF",0.173867958,"Fruits and Vegetables",2.110135652,11,"Small","Tier 2","Supermarket Type1",3.2678517055249
+19,"LF",0.111923422,"Frozen Foods",2.027603178,16,"Small","Tier 1","Supermarket Type1",3.1705333276942
+19.7,"LF",0.024756031,"Soft Drinks",1.923550715,4,"Medium","Tier 3","Supermarket Type2",3.00889775880795
+16.75,"LF",0.045138797,"Snack Foods",2.27405527,11,"Small","Tier 2","Supermarket Type1",3.42282217584543
+20.7,"LF",0.169776346,"Canned",2.26582356,9,"Small","Tier 2","Supermarket Type1",3.43695538542577
+15.6,"LF",0.116913245,"Frozen Foods",1.893023444,16,"Small","Tier 1","Supermarket Type1",3.03416552182077
+19.6,"LF",0.024222321,"Dairy",1.658696183,9,"Small","Tier 2","Supermarket Type1",2.79649044230524
+12.85,"LF",0.169139066,"Frozen Foods",1.666574136,4,"Medium","Tier 3","Supermarket Type2",2.73081492297743
+12.6,"LF",0.035769657,"Soft Drinks",1.611869818,28,"Medium","Tier 3","Supermarket Type3",2.99531720337934
+19,"Regular",0.10361083,"Fruits and Vegetables",2.358642855,14,"Medium","Tier 1","Supermarket Type1",3.54551715229097
+12.6,"LF",0,"Frozen Foods",1.992292775,28,"Small","Tier 1","Grocery Store",2.29108512291491
+9.8,"Regular",0.056386541,"Breads",1.927836235,16,"Small","Tier 1","Supermarket Type1",3.10556915387386
+12.6,"LF",0.090596378,"Others",2.028139183,28,"Medium","Tier 3","Supermarket Type3",3.42473444532003
+12.6,"Regular",0.057143515,"Meat",2.18137647,28,"Medium","Tier 3","Supermarket Type3",3.58262667183881
+7.64,"Regular",0.070645636,"Snack Foods",1.960051979,26,"High","Tier 3","Supermarket Type1",3.10363864461484
+12.6,"Regular",0.066006824,"Dairy",2.101301556,28,"Small","Tier 1","Grocery Store",2.4077018925275
+19.1,"LF",0.045492697,"Dairy",1.605453737,4,"Medium","Tier 3","Supermarket Type2",2.66410020288887
+19.1,"LF",0.03856376,"Fruits and Vegetables",2.320683315,16,"Small","Tier 1","Supermarket Type1",3.48408812355812
+12.6,"Regular",0.069909188,"Soft Drinks",2.212951078,28,"Small","Tier 1","Grocery Store",2.54122878227252
+18.85,"LF",0.036111038,"Meat",1.764596021,11,"Small","Tier 2","Supermarket Type1",2.91249963825857
+12.5,"LF",0.031225303,"Fruits and Vegetables",2.012411154,6,"Small","Tier 2","Supermarket Type1",3.1903557877103
+9.3,"LF",0.043777415,"Hard Drinks",2.285522654,9,"Small","Tier 2","Supermarket Type1",3.45300920905212
+16.35,"LF",0,"Fruits and Vegetables",2.297853705,16,"Small","Tier 1","Supermarket Type1",3.46204153902801
+5.82,"LF",0,"Household",2.228859564,26,"High","Tier 3","Supermarket Type1",3.38098895393472
+10.5,"LF",0.027271252,"Household",2.23454411,9,"Small","Tier 2","Supermarket Type1",3.40215099579487
+18.2,"LF",0.089884775,"Fruits and Vegetables",2.290281755,9,"Small","Tier 2","Supermarket Type1",3.45873246113542
+11.6,"Regular",0.143990173,"Dairy",2.379527051,9,"Small","Tier 2","Supermarket Type1",3.54487189281376
+12.6,"Regular",0.019107027,"Soft Drinks",1.685465852,28,"Medium","Tier 3","Supermarket Type3",3.07773976106883
+8.27,"LF",0.01889024,"Health and Hygiene",2.376919878,4,"Medium","Tier 3","Supermarket Type2",3.47720328390851
+12.85,"Regular",0.152364317,"Fruits and Vegetables",2.404899027,14,"Medium","Tier 1","Supermarket Type1",3.59542308993195
+8.99,"LF",0.183774965,"Fruits and Vegetables",2.007619775,11,"Small","Tier 2","Supermarket Type1",3.16391796514899
+10.3,"Regular",0.024891881,"Baking Goods",2.232849289,9,"Small","Tier 2","Supermarket Type1",3.40636720171406
+9.4,"Regular",0.100966837,"Baking Goods",1.938947805,6,"Small","Tier 2","Supermarket Type1",3.11900956933818
+12.1,"LF",0.030297819,"Canned",1.873709955,6,"Small","Tier 2","Supermarket Type1",3.05311323336795
+7.93,"LF",0.07113587,"Health and Hygiene",1.630515335,16,"Small","Tier 1","Supermarket Type1",2.78512599759617
+8.43,"LF",0.017322454,"Soft Drinks",2.294194542,9,"Small","Tier 2","Supermarket Type1",3.47149046377429
+12.6,"Regular",0.117442838,"Snack Foods",2.411165648,28,"Small","Tier 1","Grocery Store",2.72880348523509
+17.7,"LF",0.087791917,"Dairy",2.256787958,9,"Small","Tier 2","Supermarket Type1",3.40969048268485
+18.2,"LF",0.090267996,"Fruits and Vegetables",2.289390487,4,"Medium","Tier 3","Supermarket Type2",3.37981385494373
+19.35,"Regular",0.082394321,"Baking Goods",1.685772183,14,"Medium","Tier 1","Supermarket Type1",2.85205088381138
+7.48,"LF",0.01319424,"Household",2.337297893,6,"Small","Tier 2","Supermarket Type1",3.52229537653846
+6.64,"Regular",0.00636189,"Baking Goods",2.083179287,6,"Small","Tier 2","Supermarket Type1",3.26826706234279
+12.6,"LF",0.036150153,"Dairy",2.341529881,28,"Medium","Tier 3","Supermarket Type3",3.7234705679237
+20.85,"Regular",0.062321222,"Baking Goods",1.940772404,14,"Medium","Tier 1","Supermarket Type1",3.11264086890749
+6.16,"Regular",0.158441218,"Meat",2.329918314,15,"Small","Tier 3","Grocery Store",2.65547889289236
+8.91,"LF",0.143419394,"Frozen Foods",1.788788955,11,"Small","Tier 2","Supermarket Type1",2.92678967024059
+17.85,"LF",0.018052019,"Health and Hygiene",1.985019385,14,"Medium","Tier 1","Supermarket Type1",3.15979424235877
+14.85,"LF",0.15643727,"Baking Goods",2.152536616,15,"Small","Tier 3","Grocery Store",2.45748899167636
+16.5,"LF",0.035728302,"Health and Hygiene",1.978691688,11,"Small","Tier 2","Supermarket Type1",3.13464703733512
+12.15,"Regular",0.131973625,"Fruits and Vegetables",2.274128279,26,"High","Tier 3","Supermarket Type1",3.43419874831987
+8.9,"Regular",0.088681966,"Snack Foods",2.086263706,4,"Medium","Tier 3","Supermarket Type2",3.17177384718193
+15.7,"LF",0.122470805,"Canned",2.119896298,9,"Small","Tier 2","Supermarket Type1",3.28984409738437
+13.3,"LF",0.035607579,"Baking Goods",2.078864095,15,"Small","Tier 3","Grocery Store",2.38312160388123
+8.21,"LF",0.044925784,"Dairy",1.934598428,16,"Small","Tier 1","Supermarket Type1",3.07843559425974
+20.7,"LF",0.071699984,"Dairy",2.249449808,15,"Small","Tier 3","Grocery Store",2.54372301859983
+13.35,"LF",0.091723066,"Snack Foods",2.172809522,6,"Small","Tier 2","Supermarket Type1",3.3430039385838
+9.17,"LF",0.172365428,"Baking Goods",2.160909505,15,"Small","Tier 3","Grocery Store",2.46849944664007
+16.5,"Regular",0.094246644,"Baking Goods",1.995226151,4,"Medium","Tier 3","Supermarket Type2",3.08202925402288
+6.98,"LF",0.041071581,"Canned",1.916945344,26,"High","Tier 3","Supermarket Type1",3.0685902100822
+11,"LF",0.054939029,"Health and Hygiene",2.006191259,16,"Small","Tier 1","Supermarket Type1",3.16861456896861
+19.5,"Regular",0.030819397,"Canned",1.934771062,4,"Medium","Tier 3","Supermarket Type2",3.02786205441204
+19.2,"Regular",0,"Fruits and Vegetables",2.266219933,4,"Medium","Tier 3","Supermarket Type2",3.36293735804318
+8.06,"LF",0.021358889,"Breakfast",2.366110153,26,"High","Tier 3","Supermarket Type1",3.46833217237773
+12.6,"Regular",0.087221497,"Dairy",2.421589121,28,"Medium","Tier 3","Supermarket Type3",3.81228250635564
+5.18,"LF",0.050808821,"Health and Hygiene",1.527467493,15,"Small","Tier 3","Grocery Store",1.82922648529313
+6.15,"LF",0.046342889,"Baking Goods",1.988284203,14,"Medium","Tier 1","Supermarket Type1",3.16081295570736
+15.2,"LF",0,"Soft Drinks",1.985315079,16,"Small","Tier 1","Supermarket Type1",3.1466564064396
+6.62,"LF",0.093574769,"Dairy",2.299817927,11,"Small","Tier 2","Supermarket Type1",3.44957871320635
+20.2,"LF",0.011838464,"Household",2.190706991,14,"Medium","Tier 1","Supermarket Type1",3.36323166151018
+12.6,"Regular",0.086837543,"Frozen Foods",2.026249634,28,"Medium","Tier 3","Supermarket Type3",3.40916046218134
+5.1,"Regular",0.129705008,"Snack Foods",2.151932811,14,"Medium","Tier 1","Supermarket Type1",3.32874194966263
+11.6,"Regular",0.157149885,"Breakfast",2.225948362,11,"Small","Tier 2","Supermarket Type1",3.33821113207209
+14.3,"LF",0.12780038,"Frozen Foods",1.922322628,11,"Small","Tier 2","Supermarket Type1",3.06125024643955
+12.6,"LF",0.119959873,"Fruits and Vegetables",1.658068662,28,"Medium","Tier 3","Supermarket Type3",3.0381265377971
+12.3,"LF",0.069401919,"Soft Drinks",2.033398823,26,"High","Tier 3","Supermarket Type1",3.18501940180785
+13.65,"Regular",0.026579951,"Meat",1.5409948,26,"High","Tier 3","Supermarket Type1",2.68431455864581
+8.8,"LF",0.071369947,"Snack Foods",2.320481125,26,"High","Tier 3","Supermarket Type1",3.46530378684113
+6.72,"Regular",0.203510667,"Baking Goods",1.613264492,15,"Small","Tier 3","Grocery Store",1.91553896322835
+18,"LF",0.017979145,"Starchy Foods",2.251318404,4,"Medium","Tier 3","Supermarket Type2",3.34940502466682
+12.6,"Regular",0.073700837,"Fruits and Vegetables",2.316313869,28,"Medium","Tier 3","Supermarket Type3",3.71946521925339
+12.6,"LF",0.008499464,"Baking Goods",1.910420548,28,"Medium","Tier 3","Supermarket Type3",3.29276168271563
+7.27,"Regular",0.020865797,"Canned",1.955441436,4,"Medium","Tier 3","Supermarket Type2",3.05442611074624
+9.2,"Regular",0.122494876,"Fruits and Vegetables",2.000441019,14,"Medium","Tier 1","Supermarket Type1",3.18286589742332
+12.8,"LF",0.022980361,"Fruits and Vegetables",2.070957965,14,"Medium","Tier 1","Supermarket Type1",3.24686600867326
+13.5,"Regular",0.017895691,"Snack Foods",1.900345277,11,"Small","Tier 2","Supermarket Type1",3.04856040480978
+19.35,"Regular",0.082731751,"Baking Goods",1.691995114,6,"Small","Tier 2","Supermarket Type1",2.86177524611861
+8.49,"LF",0.058083831,"Health and Hygiene",2.013675489,26,"High","Tier 3","Supermarket Type1",3.16544882497633
+17,"Regular",0.139804885,"Canned",2.424536023,11,"Small","Tier 2","Supermarket Type1",3.59920356861458
+10.5,"Regular",0.0481669,"Dairy",1.688754313,26,"High","Tier 3","Supermarket Type1",2.82068624247445
+5.62,"LF",0.12566436,"Health and Hygiene",2.091572,26,"High","Tier 3","Supermarket Type1",3.24626047107751
+7.83,"Regular",0.150015234,"Frozen Foods",2.197359965,16,"Small","Tier 1","Supermarket Type1",3.35615487015774
+15.2,"LF",0.019142452,"Snack Foods",2.375708961,6,"Small","Tier 2","Supermarket Type1",3.55025598750014
+18.85,"LF",0.090850115,"Hard Drinks",2.102548953,9,"Small","Tier 2","Supermarket Type1",3.26125720591398
+9.2,"Regular",0.086396038,"Baking Goods",1.89798098,15,"Small","Tier 3","Grocery Store",2.20646596818756
+15.3,"LF",0.023071504,"Household",2.007889391,4,"Medium","Tier 3","Supermarket Type2",3.08991092371034
+13.5,"Regular",0.160624116,"Fruits and Vegetables",2.167347468,6,"Small","Tier 2","Supermarket Type1",3.35515444659826
+17.7,"LF",0.050929429,"Household",2.111154263,9,"Small","Tier 2","Supermarket Type1",3.27253596991443
+13.85,"Regular",0.026042966,"Frozen Foods",2.207421611,6,"Small","Tier 2","Supermarket Type1",3.38333661404536
+6.92,"LF",0.038610722,"Dairy",1.78877059,4,"Medium","Tier 3","Supermarket Type2",2.85721936323103
+11,"Regular",0.057290978,"Fruits and Vegetables",2.385161385,4,"Medium","Tier 3","Supermarket Type2",3.48815899579588
+12.6,"LF",0.087380432,"Fruits and Vegetables",2.040296882,26,"High","Tier 3","Supermarket Type1",3.1876694764525
+12.6,"Regular",0.030476541,"Snack Foods",2.401869739,28,"Medium","Tier 3","Supermarket Type3",3.79618272855946
+11.6,"Regular",0.078863888,"Frozen Foods",1.920267371,26,"High","Tier 3","Supermarket Type1",3.05901787226434
+7.44,"LF",0.205605116,"Starchy Foods",2.31756988,15,"Small","Tier 3","Grocery Store",2.64206343209723
+5.66,"LF",0.085622362,"Fruits and Vegetables",2.223366126,4,"Medium","Tier 3","Supermarket Type2",3.3177003098751
+20.35,"LF",0.142393712,"Snack Foods",2.088870046,4,"Medium","Tier 3","Supermarket Type2",3.16225684653747
+8.85,"LF",0.053976156,"Fruits and Vegetables",2.258946494,11,"Small","Tier 2","Supermarket Type1",3.42183734397711
+12.6,"LF",0.054363971,"Fruits and Vegetables",2.021598584,28,"Small","Tier 1","Grocery Store",2.3340835443253
+12.6,"LF",0.161039887,"Snack Foods",2.322759139,15,"Small","Tier 3","Grocery Store",2.62595836921291
+7.21,"Regular",0,"Snack Foods",2.013398493,6,"Small","Tier 2","Supermarket Type1",3.18971938175675
+11.85,"Regular",0.050085152,"Fruits and Vegetables",2.216832277,16,"Small","Tier 1","Supermarket Type1",3.38784494117849
+12.6,"LF",0.126924095,"Frozen Foods",1.940628032,28,"Medium","Tier 3","Supermarket Type3",3.31434126434483
+6.11,"Regular",0.103340142,"Fruits and Vegetables",2.118254141,4,"Medium","Tier 3","Supermarket Type2",3.2167705435159
+15.15,"Regular",0.012288171,"Snack Foods",2.11370409,11,"Small","Tier 2","Supermarket Type1",3.26638505605741
+10.5,"Regular",0.142827296,"Breads",2.202645768,11,"Small","Tier 2","Supermarket Type1",3.38297963508716
+11,"LF",0.037953762,"Health and Hygiene",1.584873753,14,"Medium","Tier 1","Supermarket Type1",2.75288677797318
+10.7,"Regular",0.128247408,"Dairy",2.085804148,4,"Medium","Tier 3","Supermarket Type2",3.16647545847992
+9.11,"LF",0.038699553,"Household",1.528788192,6,"Small","Tier 2","Supermarket Type1",2.69339418290289
+13.3,"LF",0.06355415,"Frozen Foods",2.174556359,9,"Small","Tier 2","Supermarket Type1",3.32927219819331
+12.15,"Regular",0.132083542,"Fruits and Vegetables",2.277809013,16,"Small","Tier 1","Supermarket Type1",3.44988875247442
+15.85,"LF",0.228469522,"Canned",1.969925397,15,"Small","Tier 3","Grocery Store",2.27862130537697
+7.09,"LF",0.007256127,"Baking Goods",1.702459833,6,"Small","Tier 2","Supermarket Type1",2.87113583369644
+6.55,"LF",0.024664556,"Breads",2.014239879,6,"Small","Tier 2","Supermarket Type1",3.20770422604785
+12.1,"LF",0.034427577,"Snack Foods",2.166351359,15,"Small","Tier 3","Grocery Store",2.46641059784372
+9.5,"Regular",0,"Snack Foods",2.260931489,15,"Small","Tier 3","Grocery Store",2.57152541421237
+16.1,"LF",0.100799828,"Fruits and Vegetables",1.894497719,6,"Small","Tier 2","Supermarket Type1",3.06777111804792
+13.85,"LF",0.030920531,"Soft Drinks",2.149266544,4,"Medium","Tier 3","Supermarket Type2",3.24262515983736
+18.85,"LF",0.039723999,"Snack Foods",1.613292002,11,"Small","Tier 2","Supermarket Type1",2.74514661002991
+13.8,"LF",0.05843112,"Dairy",2.386820242,6,"Small","Tier 2","Supermarket Type1",3.55821192838772
+9.4,"LF",0.103664897,"Snack Foods",2.368646075,26,"High","Tier 3","Supermarket Type1",3.51426301437607
+16.75,"LF",0.105282932,"Snack Foods",2.195797291,4,"Medium","Tier 3","Supermarket Type2",3.27347868506775
+7.72,"Regular",0.088543868,"Fruits and Vegetables",2.070210072,11,"Small","Tier 2","Supermarket Type1",3.23589189438149
+12.6,"LF",0.304859104,"Baking Goods",2.098422889,28,"Small","Tier 1","Grocery Store",2.407706637186
+12.6,"LF",0.090778148,"Household",2.184981999,28,"Small","Tier 1","Grocery Store",2.49822162650644
+8,"Regular",0.030311951,"Breads",2.393415845,14,"Medium","Tier 1","Supermarket Type1",3.59904797106928
+15.1,"Regular",0.067064128,"Snack Foods",2.411502532,9,"Small","Tier 2","Supermarket Type1",3.58025458157559
+20.2,"LF",0.065932087,"Household",1.811916677,16,"Small","Tier 1","Supermarket Type1",2.9593384840876
+12.6,"LF",0.158096128,"Household",1.936454425,28,"Small","Tier 1","Grocery Store",2.24344312240693
+12.6,"LF",0.096411426,"Household",2.285516803,28,"Medium","Tier 3","Supermarket Type3",3.67777779733074
+12.85,"LF",0.16871476,"Frozen Foods",1.674916227,14,"Medium","Tier 1","Supermarket Type1",2.82754286814533
+12.6,"LF",0.082353076,"Household",2.24774109,28,"Medium","Tier 3","Supermarket Type3",3.63913459149313
+10.3,"Regular",0,"Fruits and Vegetables",2.281381118,9,"Small","Tier 2","Supermarket Type1",3.46037016523342
+11.85,"Regular",0,"Baking Goods",1.709834516,9,"Small","Tier 2","Supermarket Type1",2.87008508875144
+18.35,"Regular",0.092150005,"Frozen Foods",2.266764474,26,"High","Tier 3","Supermarket Type1",3.41090779719659
+12.6,"LF",0.01938106,"Others",2.215693069,28,"Medium","Tier 3","Supermarket Type3",3.6170751053635
+7.86,"Regular",0.162461219,"Baking Goods",1.594224546,6,"Small","Tier 2","Supermarket Type1",2.76639913615609
+18.5,"LF",0.033944698,"Others",2.11370409,16,"Small","Tier 1","Supermarket Type1",3.27984288701216
+6.65,"LF",0.08816538,"Fruits and Vegetables",2.103351409,6,"Small","Tier 2","Supermarket Type1",3.28586921457697
+7.66,"LF",0.032009653,"Canned",2.069109888,11,"Small","Tier 2","Supermarket Type1",3.23263809177493
+8.1,"Regular",0.134870732,"Canned",1.622711259,4,"Medium","Tier 3","Supermarket Type2",2.71288222330395
+15.7,"LF",0.045295529,"Frozen Foods",2.258555875,11,"Small","Tier 2","Supermarket Type1",3.40529777469543
+7.36,"LF",0.052312034,"Frozen Foods",1.767592168,16,"Small","Tier 1","Supermarket Type1",2.90952539555994
+5.46,"Regular",0.107223632,"Fruits and Vegetables",2.161004241,14,"Medium","Tier 1","Supermarket Type1",3.34901037971214
+8.6,"Regular",0.054594957,"Breads",2.115713665,11,"Small","Tier 2","Supermarket Type1",3.29507384830949
+9.04,"Regular",0.173821519,"Meat",2.180328919,11,"Small","Tier 2","Supermarket Type1",3.3491225522252
+20.35,"Regular",0,"Fruits and Vegetables",2.370135069,11,"Small","Tier 2","Supermarket Type1",3.5378511680416
+15.6,"LF",0.081103929,"Baking Goods",2.050590085,16,"Small","Tier 1","Supermarket Type1",3.20462884360218
+15,"LF",0.119131749,"Snack Foods",2.35596731,11,"Small","Tier 2","Supermarket Type1",3.50723406944383
+6.89,"Regular",0,"Snack Foods",2.286640568,14,"Medium","Tier 1","Supermarket Type1",3.46637063536564
+12.15,"LF",0.036360676,"Breads",2.220156224,15,"Small","Tier 3","Grocery Store",2.54539504718843
+19.1,"LF",0.096653315,"Fruits and Vegetables",2.371429562,26,"High","Tier 3","Supermarket Type1",3.52394589138699
+8.91,"LF",0.143351652,"Frozen Foods",1.793006271,14,"Medium","Tier 1","Supermarket Type1",2.95030700076347
+6.38,"LF",0.015149955,"Household",2.158504218,26,"High","Tier 3","Supermarket Type1",3.30863194985662
+10,"Regular",0.063121982,"Frozen Foods",2.365051225,26,"High","Tier 3","Supermarket Type1",3.51533364772257
+14.5,"Regular",0.058946687,"Fruits and Vegetables",2.226972955,11,"Small","Tier 2","Supermarket Type1",3.39358301321712
+10.9,"Regular",0.009641375,"Dairy",2.094027174,11,"Small","Tier 2","Supermarket Type1",3.2441982747076
+17.85,"LF",0.0112259,"Snack Foods",2.326245715,26,"High","Tier 3","Supermarket Type1",3.46744711538924
+18.7,"LF",0.026355345,"Baking Goods",2.104152384,11,"Small","Tier 2","Supermarket Type1",3.25485987814563
+18,"LF",0.01548171,"Health and Hygiene",2.202380411,11,"Small","Tier 2","Supermarket Type1",3.36316742558243
+12.6,"LF",0.045465958,"Fruits and Vegetables",2.082215748,28,"Small","Tier 1","Grocery Store",2.39619975548247
+12.6,"LF",0.093217569,"Snack Foods",2.067381115,28,"Medium","Tier 3","Supermarket Type3",3.44638929899912
+8.43,"LF",0.177661246,"Household",2.231831861,9,"Small","Tier 2","Supermarket Type1",3.39976843830771
+11.35,"Regular",0.06321435,"Dairy",1.946381514,9,"Small","Tier 2","Supermarket Type1",3.1016154257787
+18.35,"LF",0.015301418,"Hard Drinks",2.022402799,9,"Small","Tier 2","Supermarket Type1",3.17964518918485
+12.1,"LF",0,"Hard Drinks",2.254949077,11,"Small","Tier 2","Supermarket Type1",3.41159708658814
+11.8,"Regular",0.076876046,"Snack Foods",1.520559511,11,"Small","Tier 2","Supermarket Type1",2.66011654912388
+17.85,"LF",0.011258035,"Snack Foods",2.325630584,11,"Small","Tier 2","Supermarket Type1",3.47528044050147
+6.8,"LF",0.062762374,"Baking Goods",1.702459833,15,"Small","Tier 3","Grocery Store",2.00035273289322
+7.5,"LF",0.05074138,"Canned",2.090636088,9,"Small","Tier 2","Supermarket Type1",3.26371202020557
+19.6,"LF",0.047897663,"Health and Hygiene",1.650084003,16,"Small","Tier 1","Supermarket Type1",2.80013429067108
+6.59,"LF",0,"Household",2.075947495,6,"Small","Tier 2","Supermarket Type1",3.25504723167843
+17.6,"Regular",0.026827052,"Breads",1.679792987,15,"Small","Tier 3","Grocery Store",1.99656952934058
+20.35,"Regular",0.014822802,"Fruits and Vegetables",2.369393622,9,"Small","Tier 2","Supermarket Type1",3.54606108522779
+5.34,"Regular",0.005962753,"Snack Foods",2.010451764,9,"Small","Tier 2","Supermarket Type1",3.17397073264322
+12.6,"Regular",0.047358246,"Dairy",2.090524686,28,"Medium","Tier 3","Supermarket Type3",3.47333187361474
+9.8,"LF",0.026882496,"Meat",2.101410228,14,"Medium","Tier 1","Supermarket Type1",3.28066951914916
+12.6,"LF",0.085538477,"Snack Foods",2.228609755,28,"Medium","Tier 3","Supermarket Type3",3.61155069232264
+15.5,"LF",0,"Snack Foods",2.150900669,6,"Small","Tier 2","Supermarket Type1",3.31993417616237
+12.6,"Regular",0.129668578,"Fruits and Vegetables",2.315684498,28,"Small","Tier 1","Grocery Store",2.64202565990314
+12.6,"Regular",0.070017381,"Meat",1.951101362,28,"Small","Tier 1","Grocery Store",2.27012358055945
+9.6,"Regular",0,"Snack Foods",2.281231597,6,"Small","Tier 2","Supermarket Type1",3.46299492435063
+6.04,"Regular",0.066051758,"Baking Goods",2.2735198,4,"Medium","Tier 3","Supermarket Type2",3.37174536596284
+11.6,"LF",0.037793818,"Health and Hygiene",1.996967617,6,"Small","Tier 2","Supermarket Type1",3.17805525743212
+18.85,"Regular",0.138585859,"Snack Foods",2.402213908,11,"Small","Tier 2","Supermarket Type1",3.55983463323361
+9.8,"Regular",0.073289899,"Snack Foods",2.082102165,6,"Small","Tier 2","Supermarket Type1",3.25870354439823
+21.1,"LF",0.029054046,"Household",2.160404298,14,"Medium","Tier 1","Supermarket Type1",3.33174179164748
+12.6,"LF",0.006665667,"Household",2.215157274,28,"Medium","Tier 3","Supermarket Type3",3.60601874639801
+17,"Regular",0.140311123,"Canned",2.424372593,6,"Small","Tier 2","Supermarket Type1",3.62158384872114
+8.71,"Regular",0.072141818,"Canned",2.263381334,9,"Small","Tier 2","Supermarket Type1",3.44702652043771
+12.6,"LF",0.052964982,"Fruits and Vegetables",1.761875239,28,"Medium","Tier 3","Supermarket Type3",3.1446763029492
+9.1,"Regular",0.081652352,"Breads",2.247986516,9,"Small","Tier 2","Supermarket Type1",3.43926033543189
+16.1,"LF",0.065183228,"Dairy",2.170484674,16,"Small","Tier 1","Supermarket Type1",3.31651127630719
+16.5,"Regular",0.066383907,"Breakfast",2.256306824,11,"Small","Tier 2","Supermarket Type1",3.36746688353124
+12.15,"Regular",0.042681522,"Meat",2.265513553,16,"Small","Tier 1","Supermarket Type1",3.43891162099091
+12.6,"Regular",0.043690499,"Frozen Foods",1.779736424,28,"Medium","Tier 3","Supermarket Type3",3.15682093308048
+16.85,"LF",0.044414056,"Fruits and Vegetables",2.261088164,16,"Small","Tier 1","Supermarket Type1",3.42401496764637
+17.85,"LF",0.052471995,"Snack Foods",2.092394977,6,"Small","Tier 2","Supermarket Type1",3.25880263159036
+12.6,"LF",0.255929096,"Meat",2.014372669,28,"Small","Tier 1","Grocery Store",2.32730892399729
+15.85,"Regular",0.110653377,"Frozen Foods",1.567621495,6,"Small","Tier 2","Supermarket Type1",2.72686969738369
+20.1,"LF",0,"Health and Hygiene",1.787840051,15,"Small","Tier 3","Grocery Store",2.08954313771034
+12.6,"LF",0.185306514,"Breads",2.099005545,28,"Small","Tier 1","Grocery Store",2.42576653593102
+12.85,"Regular",0,"Fruits and Vegetables",2.401983001,16,"Small","Tier 1","Supermarket Type1",3.57721414256928
+13.5,"Regular",0.017887238,"Snack Foods",1.900345277,14,"Medium","Tier 1","Supermarket Type1",3.06775803051903
+15.6,"LF",0.045076878,"Dairy",2.382710999,11,"Small","Tier 2","Supermarket Type1",3.53071042765685
+12.6,"LF",0.030347404,"Health and Hygiene",2.284467281,28,"Medium","Tier 3","Supermarket Type3",3.68315307802283
+12.3,"LF",0.052492122,"Household",2.281153862,9,"Small","Tier 2","Supermarket Type1",3.44901558959551
+15,"Regular",0.077999504,"Meat",2.376622209,9,"Small","Tier 2","Supermarket Type1",3.55690627771962
+8.27,"Regular",0.128126825,"Soft Drinks",2.264091188,14,"Medium","Tier 1","Supermarket Type1",3.45751526550742
+18.7,"LF",0.105104552,"Frozen Foods",2.085316271,4,"Medium","Tier 3","Supermarket Type2",3.15735781250878
+8.06,"LF",0.035780177,"Breakfast",2.362166818,15,"Small","Tier 3","Grocery Store",2.62453574894895
+16.35,"Regular",0.104463896,"Fruits and Vegetables",2.356228991,15,"Small","Tier 3","Grocery Store",2.67683353445836
+6.46,"Regular",0.049162885,"Fruits and Vegetables",2.16705195,16,"Small","Tier 1","Supermarket Type1",3.33922335871825
+16.2,"LF",0.050442528,"Household",2.280615243,11,"Small","Tier 2","Supermarket Type1",3.43774222452465
+6.06,"LF",0.031151714,"Fruits and Vegetables",2.200735072,14,"Medium","Tier 1","Supermarket Type1",3.38271321222887
+16.25,"LF",0.057396092,"Fruits and Vegetables",2.099696521,16,"Small","Tier 1","Supermarket Type1",3.25893149045005
+12.6,"Regular",0.071806046,"Canned",2.270893951,28,"Medium","Tier 3","Supermarket Type3",3.67759220340103
+13.5,"LF",0,"Baking Goods",1.944749089,26,"High","Tier 3","Supermarket Type1",3.08549892145245
+17.75,"Regular",0.156831826,"Dairy",2.382113982,16,"Small","Tier 1","Supermarket Type1",3.53922022903104
+14,"LF",0,"Fruits and Vegetables",2.336297994,6,"Small","Tier 2","Supermarket Type1",3.52153947965105
+16,"LF",0.057292529,"Dairy",2.35090749,4,"Medium","Tier 3","Supermarket Type2",3.42893479558947
+12.6,"Regular",0.041641933,"Fruits and Vegetables",2.083169963,11,"Small","Tier 2","Supermarket Type1",3.24718703917723
+12.6,"Regular",0.144338493,"Fruits and Vegetables",2.235801058,28,"Medium","Tier 3","Supermarket Type3",3.63676124389528
+16.7,"Regular",0.03858813,"Snack Foods",2.160198927,14,"Medium","Tier 1","Supermarket Type1",3.33243542188777
+18.25,"LF",0.054234197,"Snack Foods",2.152335441,16,"Small","Tier 1","Supermarket Type1",3.30092180304557
+12.6,"LF",0.134564284,"Snack Foods",2.203640909,28,"Small","Tier 1","Grocery Store",2.50920552004526
+10.9,"LF",0.035893143,"Fruits and Vegetables",2.118358653,4,"Medium","Tier 3","Supermarket Type2",3.20802157100612
+10.7,"Regular",0.011472001,"Snack Foods",1.876239786,4,"Medium","Tier 3","Supermarket Type2",2.95613491094743
+16.6,"LF",0.103146658,"Fruits and Vegetables",2.069100258,14,"Medium","Tier 1","Supermarket Type1",3.24302547014835
+12.6,"LF",0.072317217,"Household",2.206264437,28,"Medium","Tier 3","Supermarket Type3",3.59668708600092
+6.7,"LF",0,"Frozen Foods",2.341326877,16,"Small","Tier 1","Supermarket Type1",3.49762907278596
+12.6,"LF",0.134418705,"Household",1.998564458,28,"Medium","Tier 3","Supermarket Type3",3.38374319100736
+11.4,"LF",0.021639678,"Health and Hygiene",2.176585494,14,"Medium","Tier 1","Supermarket Type1",3.35881613894972
+20.2,"Regular",0.121748174,"Snack Foods",1.986660684,4,"Medium","Tier 3","Supermarket Type2",3.06469345625298
+6.14,"Regular",0.079327367,"Baking Goods",2.184227368,16,"Small","Tier 1","Supermarket Type1",3.35264203381046
+12.15,"LF",0.131921819,"Frozen Foods",2.391545515,6,"Small","Tier 2","Supermarket Type1",3.56532003904563
+12.6,"Regular",0.046544984,"Fruits and Vegetables",2.235634987,28,"Medium","Tier 3","Supermarket Type3",3.63692384263675
+17.5,"LF",0.052740763,"Snack Foods",2.01619317,6,"Small","Tier 2","Supermarket Type1",3.18090687633147
+7.15,"LF",0.017822936,"Frozen Foods",2.207789964,11,"Small","Tier 2","Supermarket Type1",3.35714170747545
+12.6,"Regular",0.007006883,"Starchy Foods",2.239484171,28,"Medium","Tier 3","Supermarket Type3",3.64925299245167
+17.5,"LF",0.026195131,"Snack Foods",2.402494549,11,"Small","Tier 2","Supermarket Type1",3.55410939531764
+18.25,"LF",0.060589424,"Starchy Foods",2.21099392,6,"Small","Tier 2","Supermarket Type1",3.3993830319193
+7.58,"LF",0.055476238,"Dairy",2.294194542,14,"Medium","Tier 1","Supermarket Type1",3.46272562475323
+9.2,"Regular",0.078060601,"Meat",2.026776695,16,"Small","Tier 1","Supermarket Type1",3.19556235949126
+12.6,"LF",0.026740767,"Frozen Foods",2.417124451,28,"Medium","Tier 3","Supermarket Type3",3.80272419008609
+16.5,"Regular",0.068403271,"Canned",2.008595914,4,"Medium","Tier 3","Supermarket Type2",3.10466239609839
+8.98,"Regular",0.009051307,"Canned",2.013254453,26,"High","Tier 3","Supermarket Type1",3.17345207105342
+14.65,"Regular",0.099333217,"Snack Foods",1.71068082,11,"Small","Tier 2","Supermarket Type1",2.85351934825076
+5.95,"LF",0.093170838,"Household",2.105050782,14,"Medium","Tier 1","Supermarket Type1",3.28146737594269
+12.6,"Regular",0.05436436,"Starchy Foods",1.804935023,28,"Medium","Tier 3","Supermarket Type3",3.20401344910561
+15.7,"LF",0.055943697,"Health and Hygiene",2.177831893,26,"High","Tier 3","Supermarket Type1",3.33043078522416
+16,"Regular",0.065165046,"Dairy",1.899812845,14,"Medium","Tier 1","Supermarket Type1",3.0620520369652
+11.4,"Regular",0.069728296,"Meat",2.369144583,11,"Small","Tier 2","Supermarket Type1",3.54183330409811
+19.35,"Regular",0.082250863,"Baking Goods",1.687559281,9,"Small","Tier 2","Supermarket Type1",2.84370393186236
+19.2,"LF",0.100482186,"Frozen Foods",2.04878584,4,"Medium","Tier 3","Supermarket Type2",3.11973886992904
+5.59,"Regular",0.056602818,"Snack Foods",1.800832508,16,"Small","Tier 1","Supermarket Type1",2.95342773342852
+11,"Regular",0.057047756,"Fruits and Vegetables",2.381026949,9,"Small","Tier 2","Supermarket Type1",3.56192964706085
+6.22,"Regular",0.083056555,"Baking Goods",2.351034852,15,"Small","Tier 3","Grocery Store",2.67181464570927
+12.6,"Regular",0.039031927,"Snack Foods",1.980644108,28,"Medium","Tier 3","Supermarket Type3",3.36472154070042
+7.51,"LF",0.104400238,"Snack Foods",2.055203967,6,"Small","Tier 2","Supermarket Type1",3.22506461470511
+7.22,"Regular",0.03828933,"Baking Goods",1.81124648,26,"High","Tier 3","Supermarket Type1",2.95836959824119
+19.25,"Regular",0.034753686,"Canned",2.150908646,14,"Medium","Tier 1","Supermarket Type1",3.3375151711576
+16.5,"LF",0.028476451,"Snack Foods",1.959111065,11,"Small","Tier 2","Supermarket Type1",3.10041298823583
+13.5,"Regular",0.067872402,"Dairy",1.762349906,16,"Small","Tier 1","Supermarket Type1",2.90660395719354
+12.6,"Regular",0.02974207,"Dairy",1.949152788,28,"Medium","Tier 3","Supermarket Type3",3.32859441297703
+14.5,"Regular",0.058918844,"Fruits and Vegetables",2.229796479,14,"Medium","Tier 1","Supermarket Type1",3.41567264391253
+12.6,"Regular",0.2004264,"Baking Goods",1.948664275,28,"Small","Tier 1","Grocery Store",2.26166117585208
+19.85,"LF",0.005235143,"Dairy",2.424699391,16,"Small","Tier 1","Supermarket Type1",3.57544646897445
+15.1,"LF",0.127334766,"Baking Goods",1.945877083,15,"Small","Tier 3","Grocery Store",2.24581148365108
+13.35,"Regular",0.014656564,"Canned",2.319238931,11,"Small","Tier 2","Supermarket Type1",3.49338020967411
+10.6,"LF",0.056884225,"Dairy",2.365420964,14,"Medium","Tier 1","Supermarket Type1",3.53434978856692
+18.1,"LF",0.022380952,"Fruits and Vegetables",1.971319462,26,"High","Tier 3","Supermarket Type1",3.11483183403376
+18.6,"LF",0.01575657,"Snack Foods",2.185079,26,"High","Tier 3","Supermarket Type1",3.32251582907987
+15.6,"LF",0.195688803,"Frozen Foods",1.888555757,15,"Small","Tier 3","Grocery Store",2.17769264924396
+7.24,"LF",0,"Snack Foods",2.295006443,9,"Small","Tier 2","Supermarket Type1",3.45762143623421
+12.6,"LF",0.024190156,"Dairy",1.537660454,9,"Small","Tier 2","Supermarket Type1",2.67558935870053
+14.6,"LF",0.150872868,"Soft Drinks",1.677325848,11,"Small","Tier 2","Supermarket Type1",2.82749713481273
+10.85,"LF",0.163160327,"Snack Foods",2.031255727,6,"Small","Tier 2","Supermarket Type1",3.19887266928377
+19.35,"Regular",0.109667698,"Meat",2.22032152,15,"Small","Tier 3","Grocery Store",2.53761283158285
+19.5,"LF",0.082483516,"Canned",2.25333849,26,"High","Tier 3","Supermarket Type1",3.40750735952267
+12.6,"Regular",0.058545606,"Meat",2.192654972,28,"Small","Tier 1","Grocery Store",2.51756915006018
+19.5,"LF",0.014274292,"Household",1.745554126,16,"Small","Tier 1","Supermarket Type1",2.89185041167548
+17.75,"LF",0.073349552,"Seafood",1.534300311,26,"High","Tier 3","Supermarket Type1",2.67834999476772
+17.85,"LF",0.087824967,"Breads",2.292431969,4,"Medium","Tier 3","Supermarket Type2",3.3959366065086
+12.15,"LF",0.132952286,"Health and Hygiene",1.575771902,15,"Small","Tier 3","Grocery Store",1.87536774502876
+20.2,"Regular",0.059790095,"Fruits and Vegetables",2.10540049,9,"Small","Tier 2","Supermarket Type1",3.27558405141302
+6.83,"LF",0.059846975,"Health and Hygiene",2.419166697,16,"Small","Tier 1","Supermarket Type1",3.59340707650397
+12.6,"Regular",0.102226474,"Canned",1.960527855,28,"Medium","Tier 3","Supermarket Type3",3.35960233279116
+14.5,"Regular",0.06904249,"Canned",1.617476335,15,"Small","Tier 3","Grocery Store",1.92575276910333
+12.6,"Regular",0.052791124,"Baking Goods",1.993605506,28,"Small","Tier 1","Grocery Store",2.30819360483862
+8.99,"LF",0.184440421,"Fruits and Vegetables",1.998564458,6,"Small","Tier 2","Supermarket Type1",3.1771903629147
+16.35,"LF",0.091074449,"Household",2.294049368,6,"Small","Tier 2","Supermarket Type1",3.47384729837913
+5.66,"LF",0,"Soft Drinks",2.168822052,16,"Small","Tier 1","Supermarket Type1",3.33879007971636
+5.78,"Regular",0.074087369,"Snack Foods",2.42317507,26,"High","Tier 3","Supermarket Type1",3.57878668812669
+10.8,"LF",0.029107004,"Snack Foods",2.381155168,6,"Small","Tier 2","Supermarket Type1",3.55772826075157
+14.3,"LF",0.12826315,"Frozen Foods",1.92128268,6,"Small","Tier 2","Supermarket Type1",3.08273291807194
+19.1,"LF",0.045400017,"Dairy",1.588986164,11,"Small","Tier 2","Supermarket Type1",2.71621861166083
+20.85,"LF",0.02137305,"Fruits and Vegetables",2.014228951,11,"Small","Tier 2","Supermarket Type1",3.16604293354552
+4.79,"LF",0.09297084,"Breads",2.086394715,4,"Medium","Tier 3","Supermarket Type2",3.19061214879387
+18.25,"LF",0.077709902,"Snack Foods",2.414465595,9,"Small","Tier 2","Supermarket Type1",3.57488637100147
+6.87,"LF",0.014021626,"Soft Drinks",2.104368279,11,"Small","Tier 2","Supermarket Type1",3.26873967772919
+11.35,"Regular",0.023358738,"Dairy",2.265904088,14,"Medium","Tier 1","Supermarket Type1",3.43919357775314
+12.6,"LF",0.111777297,"Household",2.095534075,28,"Medium","Tier 3","Supermarket Type3",3.4831394434798
+6.38,"LF",0.031962866,"Dairy",2.250503925,11,"Small","Tier 2","Supermarket Type1",3.3993845824248
+12.6,"Regular",0.074806196,"Dairy",2.052761639,28,"Medium","Tier 3","Supermarket Type3",3.43456043616782
+12.15,"LF",0.006754117,"Others",2.086975238,26,"High","Tier 3","Supermarket Type1",3.24342088653522
+13.35,"LF",0,"Snack Foods",2.377955022,4,"Medium","Tier 3","Supermarket Type2",3.46189815717774
+17,"LF",0.052209303,"Health and Hygiene",2.087685607,16,"Small","Tier 1","Supermarket Type1",3.24946374766999
+17.35,"Regular",0.041538713,"Frozen Foods",1.96932457,14,"Medium","Tier 1","Supermarket Type1",3.13453224455034
+12.6,"LF",0.02426524,"Health and Hygiene",2.057092243,28,"Medium","Tier 3","Supermarket Type3",3.45028935105185
+12.8,"Regular",0.114318263,"Breads",2.153155455,4,"Medium","Tier 3","Supermarket Type2",3.26239464037394
+5.79,"Regular",0.053930934,"Fruits and Vegetables",1.941439872,14,"Medium","Tier 1","Supermarket Type1",3.12416258728333
+20.75,"Regular",0.083536989,"Frozen Foods",2.256072318,26,"High","Tier 3","Supermarket Type1",3.39893423033408
+18.85,"LF",0.168531813,"Household",2.284461415,6,"Small","Tier 2","Supermarket Type1",3.46266805993519
+10.1,"LF",0.030269774,"Health and Hygiene",2.183171867,11,"Small","Tier 2","Supermarket Type1",3.3469047826059
+21.1,"LF",0.010593469,"Household",2.369764503,26,"High","Tier 3","Supermarket Type1",3.51857660682643
+13.8,"Regular",0.107469819,"Fruits and Vegetables",1.890986296,15,"Small","Tier 3","Grocery Store",2.20142497713427
+7.24,"LF",0.058083831,"Snack Foods",2.055697054,26,"High","Tier 3","Supermarket Type1",3.19483266452378
+17.25,"LF",0.107021498,"Frozen Foods",1.608335587,9,"Small","Tier 2","Supermarket Type1",2.74745299331273
+12.6,"LF",0.106907604,"Breakfast",2.211794697,28,"Small","Tier 1","Grocery Store",2.47345032224958
+13.65,"Regular",0.080968973,"Frozen Foods",2.414628448,4,"Medium","Tier 3","Supermarket Type2",3.50393085262486
+7.72,"Regular",0.074669288,"Breads",1.8830854,26,"High","Tier 3","Supermarket Type1",3.04866275240925
+12.15,"LF",0.02176755,"Breads",2.216478376,11,"Small","Tier 2","Supermarket Type1",3.38984967843827
+7.97,"LF",0,"Soft Drinks",2.235634987,4,"Medium","Tier 3","Supermarket Type2",3.33376804544712
+13.65,"Regular",0,"Meat",1.564111897,6,"Small","Tier 2","Supermarket Type1",2.73909507900534
+12.6,"Regular",0.159081735,"Frozen Foods",2.286788239,28,"Medium","Tier 3","Supermarket Type3",3.67576623819084
+9,"LF",0.019616991,"Household",2.229547208,6,"Small","Tier 2","Supermarket Type1",3.41124596565514
+19.35,"Regular",0.082266419,"Baking Goods",1.688450079,16,"Small","Tier 1","Supermarket Type1",2.83905349265707
+12.6,"Regular",0.019227816,"Snack Foods",2.214802005,28,"Small","Tier 1","Grocery Store",2.52801600688799
+11.15,"LF",0.057021156,"Baking Goods",2.028824111,14,"Medium","Tier 1","Supermarket Type1",3.20010792159198
+13.85,"LF",0.034765901,"Hard Drinks",2.057853168,6,"Small","Tier 2","Supermarket Type1",3.23138977110291
+21.2,"LF",0.071076055,"Snack Foods",2.242633346,6,"Small","Tier 2","Supermarket Type1",3.41115012960876
+6.11,"Regular",0.151925271,"Soft Drinks",1.668466058,9,"Small","Tier 2","Supermarket Type1",2.83814559166833
+12.6,"LF",0.045900448,"Snack Foods",2.075227145,28,"Medium","Tier 3","Supermarket Type3",3.45458641411679
+12.6,"LF",0.172641213,"Snack Foods",2.290281755,28,"Medium","Tier 3","Supermarket Type3",3.67442070381294
+7.68,"LF",0.071010513,"Fruits and Vegetables",2.280842782,14,"Medium","Tier 1","Supermarket Type1",3.46391650637935
+14.7,"LF",0.072444983,"Fruits and Vegetables",1.686666651,11,"Small","Tier 2","Supermarket Type1",2.83306475324659
+11.8,"LF",0.058975504,"Health and Hygiene",1.912550444,4,"Medium","Tier 3","Supermarket Type2",2.99989885469529
+12.6,"Regular",0,"Snack Foods",1.769072918,28,"Small","Tier 1","Grocery Store",2.07155215381525
+16.2,"LF",0.033568871,"Soft Drinks",1.874885194,6,"Small","Tier 2","Supermarket Type1",3.0520907852231
+12.6,"Regular",0.063079544,"Frozen Foods",2.244947718,28,"Small","Tier 1","Grocery Store",2.5566339695683
+12.6,"LF",0.064208126,"Frozen Foods",2.255749002,28,"Small","Tier 1","Grocery Store",2.56070655468653
+19.7,"LF",0.041974489,"Frozen Foods",2.036194384,6,"Small","Tier 2","Supermarket Type1",3.19835634458691
+11.8,"Regular",0.170141787,"Canned",2.067381115,26,"High","Tier 3","Supermarket Type1",3.22710653773024
+12.3,"LF",0.009463757,"Baking Goods",1.868279925,6,"Small","Tier 2","Supermarket Type1",3.03868336719677
+19,"LF",0.128090139,"Snack Foods",2.029636163,16,"Small","Tier 1","Supermarket Type1",3.17466958179657
+12.6,"LF",0.038340116,"Snack Foods",2.380494165,28,"Medium","Tier 3","Supermarket Type3",3.7672758861565
+12.6,"LF",0.049080853,"Fruits and Vegetables",2.169596266,28,"Medium","Tier 3","Supermarket Type3",3.56228977367869
+7.35,"LF",0.028711412,"Fruits and Vegetables",1.601466774,4,"Medium","Tier 3","Supermarket Type2",2.68018519173424
+20.35,"Regular",0,"Meat",1.911837028,16,"Small","Tier 1","Supermarket Type1",3.07321749199131
+17.85,"LF",0.037826873,"Soft Drinks",2.278110369,16,"Small","Tier 1","Supermarket Type1",3.44525636345956
+11.65,"LF",0.040597054,"Fruits and Vegetables",2.272593423,11,"Small","Tier 2","Supermarket Type1",3.43463354838132
+12.6,"LF",0.041556697,"Baking Goods",2.018838586,28,"Small","Tier 1","Grocery Store",2.32708973264324
+15.5,"Regular",0.126791761,"Baking Goods",2.418561127,15,"Small","Tier 3","Grocery Store",2.73676198817838
+15.1,"Regular",0.106097275,"Fruits and Vegetables",1.636283238,4,"Medium","Tier 3","Supermarket Type2",2.71917267031614
+5.1,"Regular",0.129395895,"Snack Foods",2.147316994,26,"High","Tier 3","Supermarket Type1",3.29635427409075
+12.1,"LF",0.011557563,"Dairy",2.218411028,14,"Medium","Tier 1","Supermarket Type1",3.38327467589001
+15,"LF",0.077622622,"Breads",2.085794881,15,"Small","Tier 3","Grocery Store",2.40638888685329
+10.65,"Regular",0.085135953,"Snack Foods",2.366174077,16,"Small","Tier 1","Supermarket Type1",3.53015346366843
+9.6,"Regular",0.014234595,"Snack Foods",2.279409576,14,"Medium","Tier 1","Supermarket Type1",3.45772853364903
+8.91,"LF",0.143712172,"Frozen Foods",1.780229436,4,"Medium","Tier 3","Supermarket Type2",2.84903707312319
+8.85,"LF",0.053822086,"Fruits and Vegetables",2.264414497,26,"High","Tier 3","Supermarket Type1",3.41897489255513
+17.5,"Regular",0.007570599,"Dairy",2.160198927,4,"Medium","Tier 3","Supermarket Type2",3.24010375338841
+5.77,"LF",0.081996785,"Baking Goods",1.603321953,9,"Small","Tier 2","Supermarket Type1",2.75639030391631
+5.04,"Regular",0.080362549,"Breads",2.35984231,6,"Small","Tier 2","Supermarket Type1",3.56913947971232
+7.96,"LF",0.028357839,"Canned",2.212957993,9,"Small","Tier 2","Supermarket Type1",3.38887241478963
+16.85,"LF",0.233356571,"Snack Foods",2.166062866,15,"Small","Tier 3","Grocery Store",2.4633569918519
+11.8,"Regular",0.107662745,"Dairy",2.35059144,6,"Small","Tier 2","Supermarket Type1",3.52880074625344
+5.64,"LF",0.103481775,"Baking Goods",2.176105735,11,"Small","Tier 2","Supermarket Type1",3.33401696168338
+11.35,"LF",0.030981392,"Snack Foods",1.715174052,6,"Small","Tier 2","Supermarket Type1",2.87536280129458
+17.7,"Regular",0.041098734,"Fruits and Vegetables",1.908096661,4,"Medium","Tier 3","Supermarket Type2",2.99665408337636
+5.78,"Regular",0.074451126,"Snack Foods",2.422518929,4,"Medium","Tier 3","Supermarket Type2",3.51759219956929
+20.25,"LF",0.058935522,"Household",2.392074077,16,"Small","Tier 1","Supermarket Type1",3.55355520373192
+9.3,"LF",0.066727717,"Frozen Foods",2.25918567,26,"High","Tier 3","Supermarket Type1",3.40021081389822
+10.5,"LF",0.071548187,"Frozen Foods",2.079939875,4,"Medium","Tier 3","Supermarket Type2",3.15555839807434
+17.75,"LF",0.014609738,"Fruits and Vegetables",2.205275297,11,"Small","Tier 2","Supermarket Type1",3.36309977643342
+16.7,"Regular",0.062297249,"Snack Foods",1.782875199,4,"Medium","Tier 3","Supermarket Type2",2.85770606444452
+13.85,"LF",0.031402114,"Others",1.604744304,11,"Small","Tier 2","Supermarket Type1",2.75714002812163
+16.35,"LF",0.013363902,"Others",2.02582998,9,"Small","Tier 2","Supermarket Type1",3.19641443160108
+20.25,"Regular",0.022976493,"Baking Goods",2.380850993,14,"Medium","Tier 1","Supermarket Type1",3.56377948362684
+12.6,"Regular",0.045068892,"Snack Foods",2.280776808,28,"Small","Tier 1","Grocery Store",2.5955014921552
+11.1,"LF",0.033176087,"Household",2.079587845,11,"Small","Tier 2","Supermarket Type1",3.23413732914775
+9.8,"Regular",0.056375879,"Breads",1.927836235,9,"Small","Tier 2","Supermarket Type1",3.11113195879177
+14.3,"Regular",0.034605882,"Baking Goods",1.98214726,6,"Small","Tier 2","Supermarket Type1",3.16133442982956
+19.75,"LF",0.033942546,"Snack Foods",2.329581322,14,"Medium","Tier 1","Supermarket Type1",3.49761478417927
+12.6,"LF",0.015375557,"Health and Hygiene",2.195790097,28,"Medium","Tier 3","Supermarket Type3",3.59237814760586
+10.85,"LF",0.162571649,"Snack Foods",2.031255727,11,"Small","Tier 2","Supermarket Type1",3.17632527966944
+18.35,"LF",0,"Dairy",2.181654972,26,"High","Tier 3","Supermarket Type1",3.31526761947124
+15.2,"LF",0.09698132,"Health and Hygiene",2.065763401,26,"High","Tier 3","Supermarket Type1",3.21572631366441
+12.6,"LF",0.079419801,"Household",2.236311995,28,"Medium","Tier 3","Supermarket Type3",3.62743854433958
+8.71,"Regular",0.072301795,"Canned",2.268794129,11,"Small","Tier 2","Supermarket Type1",3.44355016828311
+11.8,"LF",0,"Fruits and Vegetables",1.655524516,4,"Medium","Tier 3","Supermarket Type2",2.73370053771407
+7.24,"LF",0,"Snack Foods",2.061389894,11,"Small","Tier 2","Supermarket Type1",3.20932451571153
+10.8,"LF",0.098814721,"Meat",2.002184211,4,"Medium","Tier 3","Supermarket Type2",3.09017404477734
+12.85,"LF",0.022639195,"Fruits and Vegetables",2.254624924,14,"Medium","Tier 1","Supermarket Type1",3.43496253693714
+12.6,"LF",0.016531033,"Frozen Foods",2.087816188,28,"Medium","Tier 3","Supermarket Type3",3.46547140071546
+12.6,"LF",0.035863436,"Meat",1.766087004,28,"Medium","Tier 3","Supermarket Type3",3.15036040622804
+16,"Regular",0.193477995,"Fruits and Vegetables",1.747602886,15,"Small","Tier 3","Grocery Store",2.05331073353973
+6.87,"LF",0.056945936,"Snack Foods",2.331673833,11,"Small","Tier 2","Supermarket Type1",3.48612593087942
+12.6,"LF",0.124448295,"Soft Drinks",2.049418837,28,"Small","Tier 1","Grocery Store",2.36656197447909
+8.21,"LF",0.010808272,"Hard Drinks",2.177649604,4,"Medium","Tier 3","Supermarket Type2",3.26510769657705
+18.5,"LF",0,"Snack Foods",2.078501768,6,"Small","Tier 2","Supermarket Type1",3.2444664763809
+6.85,"LF",0.022878953,"Frozen Foods",2.418896629,9,"Small","Tier 2","Supermarket Type1",3.58249757536705
+9.3,"LF",0.026818196,"Dairy",2.396040949,15,"Small","Tier 3","Grocery Store",2.69901408272817
+12.1,"LF",0.030102335,"Canned",1.873709955,26,"High","Tier 3","Supermarket Type1",3.02210103582175
+5.66,"LF",0.175793413,"Soft Drinks",2.16705195,4,"Medium","Tier 3","Supermarket Type2",3.26393736789542
+7.39,"LF",0.120180894,"Others",2.150593741,26,"High","Tier 3","Supermarket Type1",3.31028075877894
+20.6,"LF",0.039255412,"Fruits and Vegetables",1.975329772,15,"Small","Tier 3","Grocery Store",2.27807797391273
+5.11,"LF",0,"Household",2.21674897,4,"Medium","Tier 3","Supermarket Type2",3.30837481371231
+12.6,"Regular",0.029023048,"Canned",2.250022123,28,"Medium","Tier 3","Supermarket Type3",3.65636019119915
+19.5,"LF",0.128405328,"Breads",2.194323932,14,"Medium","Tier 1","Supermarket Type1",3.38277259932434
+12.6,"LF",0.126760908,"Breakfast",2.247818659,28,"Small","Tier 1","Grocery Store",2.51027961707396
+9.2,"LF",0.015856295,"Baking Goods",1.912005121,9,"Small","Tier 2","Supermarket Type1",3.07127502302111
+8.93,"LF",0.028411899,"Dairy",2.182796846,9,"Small","Tier 2","Supermarket Type1",3.33795140855698
+20.75,"LF",0.02128304,"Soft Drinks",2.18611517,14,"Medium","Tier 1","Supermarket Type1",3.3655582492545
+16.2,"LF",0.074019393,"Frozen Foods",1.620608627,15,"Small","Tier 3","Grocery Store",1.90340407226846
+12.15,"LF",0.018407033,"Frozen Foods",2.406147946,9,"Small","Tier 2","Supermarket Type1",3.56713283443857
+6.75,"Regular",0,"Dairy",1.985764078,14,"Medium","Tier 1","Supermarket Type1",3.15436077765241
+9.2,"Regular",0.0471117,"Frozen Foods",1.716559219,9,"Small","Tier 2","Supermarket Type1",2.86901668279033
+9.6,"Regular",0.027454997,"Snack Foods",2.411839154,4,"Medium","Tier 3","Supermarket Type2",3.50513967427146
+13.65,"Regular",0.031418984,"Canned",1.996818022,26,"High","Tier 3","Supermarket Type1",3.15449497312346
+19.25,"LF",0.102188428,"Dairy",1.735563772,4,"Medium","Tier 3","Supermarket Type2",2.79710424539473
+9.9,"LF",0.16817143,"Soft Drinks",2.376132216,11,"Small","Tier 2","Supermarket Type1",3.5452364442556
+12.6,"Regular",0.191500528,"Baking Goods",2.083537735,28,"Small","Tier 1","Grocery Store",2.39983303505287
+8.42,"LF",0.11227101,"Health and Hygiene",1.800832508,16,"Small","Tier 1","Supermarket Type1",2.95921536697259
+15.1,"Regular",0.067212845,"Snack Foods",2.415358029,11,"Small","Tier 2","Supermarket Type1",3.57518323582624
+9.6,"LF",0.036490369,"Fruits and Vegetables",2.148650153,6,"Small","Tier 2","Supermarket Type1",3.33114872447022
+11,"Regular",0.088025298,"Frozen Foods",2.19883022,11,"Small","Tier 2","Supermarket Type1",3.35302561371594
+16.6,"LF",0.084176826,"Canned",2.071927643,15,"Small","Tier 3","Grocery Store",2.38325735048757
+5.19,"LF",0.042707323,"Frozen Foods",2.296250438,11,"Small","Tier 2","Supermarket Type1",3.44851979174206
+18.6,"LF",0.19780911,"Others",1.745533839,15,"Small","Tier 3","Grocery Store",2.05052151333997
+19,"LF",0.026963909,"Household",2.113387099,26,"High","Tier 3","Supermarket Type1",3.25685157490958
+8.9,"Regular",0.039261947,"Baking Goods",2.31687073,6,"Small","Tier 2","Supermarket Type1",3.5065187166194
+20.6,"LF",0.023548476,"Fruits and Vegetables",1.970243638,4,"Medium","Tier 3","Supermarket Type2",3.05210930325675
+17.6,"Regular",0.127412338,"Meat",2.046573978,15,"Small","Tier 3","Grocery Store",2.36036177467319
+12.6,"LF",0.075192072,"Hard Drinks",1.748663939,28,"Medium","Tier 3","Supermarket Type3",3.12616375565994
+9.6,"LF",0.035651291,"Snack Foods",2.389018931,11,"Small","Tier 2","Supermarket Type1",3.54373672838672
+12.85,"LF",0.169405699,"Frozen Foods",1.663757446,6,"Small","Tier 2","Supermarket Type1",2.81946315056206
+16.1,"LF",0.039463564,"Soft Drinks",2.278718399,15,"Small","Tier 3","Grocery Store",2.59501143994831
+7.65,"Regular",0,"Snack Foods",1.621292632,16,"Small","Tier 1","Supermarket Type1",2.76882744780365
+8.97,"LF",0.093159233,"Household",1.746599952,14,"Medium","Tier 1","Supermarket Type1",2.91300787991699
+10.2,"Regular",0.017658634,"Starchy Foods",2.380489463,14,"Medium","Tier 1","Supermarket Type1",3.58029371529358
+12.6,"Regular",0.037516862,"Dairy",2.094717031,28,"Medium","Tier 3","Supermarket Type3",3.47765928107759
+16.85,"Regular",0.023154399,"Snack Foods",1.642887726,16,"Small","Tier 1","Supermarket Type1",2.78683575045091
+7.94,"LF",0.031866022,"Household",2.417124451,4,"Medium","Tier 3","Supermarket Type2",3.51225700190188
+18.7,"LF",0.104591027,"Frozen Foods",2.084244443,26,"High","Tier 3","Supermarket Type1",3.21678297225503
+6.7,"LF",0.03408026,"Frozen Foods",2.344088751,4,"Medium","Tier 3","Supermarket Type2",3.42790025681914
+5.59,"Regular",0.056555715,"Snack Foods",1.796690869,26,"High","Tier 3","Supermarket Type1",2.93726544268354
+12.6,"Regular",0.044764726,"Snack Foods",2.010306742,28,"Medium","Tier 3","Supermarket Type3",3.39508340820065
+12.6,"LF",0.110735739,"Baking Goods",1.54761966,28,"Medium","Tier 3","Supermarket Type3",2.92082218823069
+12.35,"Regular",0.038657256,"Fruits and Vegetables",2.042406172,4,"Medium","Tier 3","Supermarket Type2",3.13657054422739
+12.6,"Regular",0.007503372,"Dairy",2.166460309,28,"Medium","Tier 3","Supermarket Type3",3.55124303094744
+12.6,"LF",0.064607378,"Canned",1.941609809,28,"Medium","Tier 3","Supermarket Type3",3.33336729732514
+13.5,"LF",0.055075504,"Health and Hygiene",1.5235826,14,"Medium","Tier 1","Supermarket Type1",2.68895681394406
+9.6,"Regular",0.014209811,"Snack Foods",2.274590081,9,"Small","Tier 2","Supermarket Type1",3.44261450480111
+11.6,"Regular",0.132111921,"Frozen Foods",1.915017615,15,"Small","Tier 3","Grocery Store",2.21375128411596
+18.25,"LF",0.054223942,"Snack Foods",2.152335441,9,"Small","Tier 2","Supermarket Type1",3.30648460657887
+12.6,"Regular",0.145591438,"Seafood",2.172325571,28,"Medium","Tier 3","Supermarket Type3",3.58288993746312
+10.2,"Regular",0.146635206,"Frozen Foods",2.143276548,9,"Small","Tier 2","Supermarket Type1",3.30529676761761
+19.1,"LF",0.177545624,"Household",2.236643555,14,"Medium","Tier 1","Supermarket Type1",3.41019954974106
+8.95,"Regular",0.146701312,"Dairy",2.418783389,15,"Small","Tier 3","Grocery Store",2.72903968011294
+6.39,"Regular",0.124410284,"Snack Foods",1.53639934,6,"Small","Tier 2","Supermarket Type1",2.70109842991565
+20.1,"Regular",0.054763518,"Frozen Foods",2.178794563,6,"Small","Tier 2","Supermarket Type1",3.35117957548357
+5.18,"LF",0.030330202,"Health and Hygiene",1.550074182,26,"High","Tier 3","Supermarket Type1",2.69215908968104
+16.75,"Regular",0.008601441,"Meat",1.86748988,4,"Medium","Tier 3","Supermarket Type2",2.95690232039724
+5.88,"LF",0.08644044,"Frozen Foods",2.191450456,9,"Small","Tier 2","Supermarket Type1",3.34974909875964
+6.37,"LF",0,"Frozen Foods",1.776364076,6,"Small","Tier 2","Supermarket Type1",2.93821402023795
+5.92,"Regular",0.019184026,"Soft Drinks",1.702165053,26,"High","Tier 3","Supermarket Type1",2.85571273906576
+17.6,"LF",0.008001018,"Dairy",2.231577131,16,"Small","Tier 1","Supermarket Type1",3.3786212864796
+16.1,"LF",0.034376537,"Fruits and Vegetables",2.408469945,11,"Small","Tier 2","Supermarket Type1",3.57187365932005
+19.2,"LF",0.041291929,"Household",2.114380767,14,"Medium","Tier 1","Supermarket Type1",3.28539400667713
+16.2,"LF",0.019362306,"Soft Drinks",2.189482453,26,"High","Tier 3","Supermarket Type1",3.34334631928746
+20.6,"Regular",0.030504756,"Dairy",2.327613101,9,"Small","Tier 2","Supermarket Type1",3.48814248575458
+9.5,"LF",0,"Hard Drinks",2.276432391,6,"Small","Tier 2","Supermarket Type1",3.4572896154171
+12.6,"LF",0.162248011,"Household",2.20536787,28,"Small","Tier 1","Grocery Store",2.5188583140231
+8.76,"LF",0.050011058,"Health and Hygiene",2.102891772,26,"High","Tier 3","Supermarket Type1",3.25673600558168
+19.75,"LF",0.012437935,"Fruits and Vegetables",2.278724342,26,"High","Tier 3","Supermarket Type1",3.42899607232199
+6.96,"LF",0.077350112,"Soft Drinks",1.961015563,11,"Small","Tier 2","Supermarket Type1",3.1216585928458
+12.65,"LF",0,"Meat",2.032996489,16,"Small","Tier 1","Supermarket Type1",3.19370011627089
+15.35,"LF",0.096943078,"Soft Drinks",2.293532261,6,"Small","Tier 2","Supermarket Type1",3.48103867986802
+14.5,"Regular",0.128235818,"Baking Goods",2.017589214,9,"Small","Tier 2","Supermarket Type1",3.18369935430795
+13,"LF",0.099242622,"Household",1.665637267,26,"High","Tier 3","Supermarket Type1",2.8006358018117
+10.9,"Regular",0.032454046,"Frozen Foods",2.160799153,16,"Small","Tier 1","Supermarket Type1",3.3177629000311
+14.65,"LF",0.171355643,"Fruits and Vegetables",1.678237864,9,"Small","Tier 2","Supermarket Type1",2.83313690542972
+12.15,"LF",0.006770252,"Others",2.095075157,14,"Medium","Tier 1","Supermarket Type1",3.2793780818872
+16.1,"Regular",0.159698192,"Frozen Foods",1.50590662,9,"Small","Tier 2","Supermarket Type1",2.64985341683853
+13.6,"LF",0.117613212,"Snack Foods",2.288279639,9,"Small","Tier 2","Supermarket Type1",3.44754467956141
+12.6,"LF",0.00994477,"Household",2.250022123,28,"Medium","Tier 3","Supermarket Type3",3.64171722795275
+12.6,"LF",0.198316649,"Baking Goods",1.735563772,28,"Small","Tier 1","Grocery Store",2.03641776842557
+14,"LF",0.023783007,"Baking Goods",2.017171957,11,"Small","Tier 2","Supermarket Type1",3.16784009139165
+10.2,"LF",0.211539389,"Canned",2.045278373,15,"Small","Tier 3","Grocery Store",2.3583334378965
+19,"Regular",0.065621523,"Fruits and Vegetables",2.270728667,9,"Small","Tier 2","Supermarket Type1",3.44542417095627
+17.6,"LF",0.018943666,"Health and Hygiene",2.375405704,11,"Small","Tier 2","Supermarket Type1",3.54054868018206
+21.25,"LF",0.01001904,"Meat",2.266374713,11,"Small","Tier 2","Supermarket Type1",3.42547373939515
+9.8,"Regular",0.063764099,"Fruits and Vegetables",2.056329983,26,"High","Tier 3","Supermarket Type1",3.21238489710658
+7.93,"LF",0,"Frozen Foods",2.085794881,16,"Small","Tier 1","Supermarket Type1",3.2353664786505
+6.55,"Regular",0.034575546,"Breads",2.194594256,26,"High","Tier 3","Supermarket Type1",3.36836865442684
+12.6,"Regular",0.015016891,"Meat",2.395572394,28,"Medium","Tier 3","Supermarket Type3",3.80215595643539
+19.5,"LF",0.082536604,"Canned",2.248464208,9,"Small","Tier 2","Supermarket Type1",3.41999801848223
+12.6,"LF",0.120663214,"Canned",1.980811181,28,"Medium","Tier 3","Supermarket Type3",3.37332783087598
+15.2,"LF",0,"Meat",2.408295945,15,"Small","Tier 3","Grocery Store",2.72534691350779
+17.6,"Regular",0.039381633,"Snack Foods",1.991407732,4,"Medium","Tier 3","Supermarket Type2",3.0709750120532
+12.6,"Regular",0.056338482,"Canned",2.266288156,28,"Small","Tier 1","Grocery Store",2.59632289288267
+7.86,"Regular",0.161516894,"Baking Goods",1.569195941,9,"Small","Tier 2","Supermarket Type1",2.72723765610051
+12.6,"Regular",0.184359831,"Snack Foods",2.237232986,28,"Small","Tier 1","Grocery Store",2.55042871935115
+18.2,"LF",0.058707159,"Household",2.343498398,4,"Medium","Tier 3","Supermarket Type2",3.43225989873937
+8.66,"Regular",0.088693595,"Snack Foods",2.088404028,6,"Small","Tier 2","Supermarket Type1",3.26560522825824
+15.5,"Regular",0.156797787,"Snack Foods",2.172140956,26,"High","Tier 3","Supermarket Type1",3.3171294126635
+17.7,"LF",0.116520447,"Snack Foods",2.269575049,9,"Small","Tier 2","Supermarket Type1",3.42659404068208
+7.6,"Regular",0.142292265,"Starchy Foods",2.233870929,26,"High","Tier 3","Supermarket Type1",3.40317676335187
+13.65,"Regular",0.080573371,"Frozen Foods",2.41529661,26,"High","Tier 3","Supermarket Type1",3.56513776179225
+12.85,"LF",0.121972274,"Snack Foods",1.634908328,11,"Small","Tier 2","Supermarket Type1",2.76963599249578
+14.1,"LF",0.067011609,"Snack Foods",2.294705133,11,"Small","Tier 2","Supermarket Type1",3.44505916431998
+8.27,"LF",0.031490111,"Health and Hygiene",2.378557779,15,"Small","Tier 3","Grocery Store",2.69965073985613
+18.2,"Regular",0.012229464,"Fruits and Vegetables",1.755038987,11,"Small","Tier 2","Supermarket Type1",2.90875156980804
+17.85,"LF",0.052176861,"Snack Foods",2.08922383,16,"Small","Tier 1","Supermarket Type1",3.23646324655818
+7.95,"LF",0.01596609,"Snack Foods",2.213573534,6,"Small","Tier 2","Supermarket Type1",3.38737958728685
+20.7,"LF",0.170500183,"Canned",2.265116534,4,"Medium","Tier 3","Supermarket Type2",3.35822432670898
+10.6,"LF",0.011134397,"Breads",1.631904202,4,"Medium","Tier 3","Supermarket Type2",2.72284173270944
+19.85,"LF",0.175849067,"Fruits and Vegetables",2.346503973,26,"High","Tier 3","Supermarket Type1",3.4978182854131
+8.37,"LF",0.071992202,"Hard Drinks",1.583772163,11,"Small","Tier 2","Supermarket Type1",2.72554681231493
+8.38,"Regular",0.046848322,"Baking Goods",2.043586245,26,"High","Tier 3","Supermarket Type1",3.19580163173478
+18.7,"LF",0.046348967,"Health and Hygiene",2.186584004,6,"Small","Tier 2","Supermarket Type1",3.36912592007831
+12.6,"LF",0.077849833,"Snack Foods",2.10449394,28,"Small","Tier 1","Grocery Store",2.40784912631832
+7.73,"LF",0.029236727,"Household",2.092865853,6,"Small","Tier 2","Supermarket Type1",3.27177653648002
+19.6,"Regular",0.127929521,"Snack Foods",2.223967101,26,"High","Tier 3","Supermarket Type1",3.36851298664992
+18.7,"Regular",0.091560606,"Meat",2.260856226,9,"Small","Tier 2","Supermarket Type1",3.4366678331481
+8.42,"Regular",0.030816999,"Canned",2.363302035,26,"High","Tier 3","Supermarket Type1",3.53215276941696
+17.75,"Regular",0.029821648,"Fruits and Vegetables",2.146077779,6,"Small","Tier 2","Supermarket Type1",3.33195210074129
+8.27,"Regular",0.089735804,"Snack Foods",2.172517698,11,"Small","Tier 2","Supermarket Type1",3.32937495650914
+20.7,"Regular",0.04745185,"Dairy",2.331806961,26,"High","Tier 3","Supermarket Type1",3.47485326504005
+20.25,"Regular",0.018789455,"Fruits and Vegetables",2.346503973,26,"High","Tier 3","Supermarket Type1",3.50516390810723
+18.7,"Regular",0.070979698,"Frozen Foods",2.360784582,4,"Medium","Tier 3","Supermarket Type2",3.4466034929759
+12.6,"LF",0.018847114,"Hard Drinks",2.17037673,28,"Small","Tier 1","Grocery Store",2.48168195169923
+12.6,"LF",0.01724183,"Soft Drinks",2.294635502,28,"Medium","Tier 3","Supermarket Type3",3.69468958184099
+18.7,"LF",0.089777214,"Snack Foods",2.40903183,6,"Small","Tier 2","Supermarket Type1",3.5826123442132
+16.5,"LF",0.028418817,"Snack Foods",1.967616297,16,"Small","Tier 1","Supermarket Type1",3.11258148946879
+9.6,"LF",0.035780385,"Snack Foods",2.382587918,6,"Small","Tier 2","Supermarket Type1",3.55969884270471
+12.6,"Regular",0.073462632,"Snack Foods",1.719032814,28,"Small","Tier 1","Grocery Store",2.0200496397424
+15.1,"LF",0.095140088,"Baking Goods",2.204012481,9,"Small","Tier 2","Supermarket Type1",3.36750282923931
+13,"Regular",0.044976367,"Soft Drinks",2.246019214,9,"Small","Tier 2","Supermarket Type1",3.42703783669563
+12.6,"LF",0.212293753,"Canned",1.965097232,28,"Small","Tier 1","Grocery Store",2.28031686376598
+12.6,"LF",0.025354072,"Health and Hygiene",2.159795709,28,"Medium","Tier 3","Supermarket Type3",3.55547765546565
+10.3,"LF",0.195721125,"Health and Hygiene",2.194411653,15,"Small","Tier 3","Grocery Store",2.50959446145998
+6.96,"LF",0.077508015,"Soft Drinks",1.965270392,4,"Medium","Tier 3","Supermarket Type2",3.05703129892194
+12.6,"Regular",0.037962696,"Dairy",1.989327878,28,"Medium","Tier 3","Supermarket Type3",3.36971499354683
+18.85,"LF",0.141615436,"Canned",2.227920625,9,"Small","Tier 2","Supermarket Type1",3.39904048912836
+6.98,"LF",0.041189152,"Canned",1.918519953,11,"Small","Tier 2","Supermarket Type1",3.07866604274374
+15.7,"LF",0.055979703,"Health and Hygiene",2.181564636,9,"Small","Tier 2","Supermarket Type1",3.35173707866697
+17.5,"LF",0.026182758,"Snack Foods",2.404210211,14,"Medium","Tier 1","Supermarket Type1",3.57506426748179
+12.6,"Regular",0,"Fruits and Vegetables",2.274747904,28,"Medium","Tier 3","Supermarket Type3",3.67714282607431
+8.38,"Regular",0.04688734,"Baking Goods",2.033250808,16,"Small","Tier 1","Supermarket Type1",3.19713608912756
+12.85,"LF",0,"Starchy Foods",2.406035765,9,"Small","Tier 2","Supermarket Type1",3.58819348663987
+10.7,"Regular",0.087272074,"Snack Foods",2.186948429,6,"Small","Tier 2","Supermarket Type1",3.36564834035289
+16.75,"LF",0.032637373,"Health and Hygiene",2.282432223,14,"Medium","Tier 1","Supermarket Type1",3.4648458835455
+10.4,"Regular",0.091096531,"Baking Goods",1.718508332,26,"High","Tier 3","Supermarket Type1",2.86181130104023
+13.15,"LF",0.024790707,"Household",2.249366171,6,"Small","Tier 2","Supermarket Type1",3.42970909188919
+6.62,"Regular",0.092158377,"Canned",2.399917273,11,"Small","Tier 2","Supermarket Type1",3.5786987229799
+15,"LF",0.046469277,"Breads",2.092865853,11,"Small","Tier 2","Supermarket Type1",3.26190912384758
+8.35,"Regular",0.126869718,"Frozen Foods",1.871779527,16,"Small","Tier 1","Supermarket Type1",3.02253638511614
+6.4,"LF",0.084885375,"Frozen Foods",1.594167057,14,"Medium","Tier 1","Supermarket Type1",2.74794857967079
+17.7,"LF",0.029999653,"Snack Foods",2.229890622,11,"Small","Tier 2","Supermarket Type1",3.3772226324571
+15.6,"LF",0.037901015,"Snack Foods",2.09401808,6,"Small","Tier 2","Supermarket Type1",3.26150054362931
+6.89,"Regular",0.136314863,"Snack Foods",2.290217199,26,"High","Tier 3","Supermarket Type1",3.44190911878649
+7.24,"LF",0.076975118,"Household",2.066881765,14,"Medium","Tier 1","Supermarket Type1",3.2418633523852
+17,"Regular",0.01599013,"Snack Foods",2.35952283,14,"Medium","Tier 1","Supermarket Type1",3.53653443986149
+8.18,"Regular",0.082568705,"Frozen Foods",1.749417819,11,"Small","Tier 2","Supermarket Type1",2.89397802293159
+12.6,"LF",0.057969482,"Household",2.076685582,28,"Small","Tier 1","Grocery Store",2.38741276277536
+12.6,"Regular",0.302478871,"Snack Foods",2.191722573,28,"Small","Tier 1","Grocery Store",2.50341373116686
+14.3,"LF",0.123264522,"Dairy",2.090867965,6,"Small","Tier 2","Supermarket Type1",3.2546489647463
+6.3,"LF",0.127647181,"Canned",2.317910888,14,"Medium","Tier 1","Supermarket Type1",3.50693579700924
+11.8,"Regular",0.107223632,"Dairy",2.349427513,14,"Medium","Tier 1","Supermarket Type1",3.52425831539304
+12.6,"Regular",0.028842332,"Fruits and Vegetables",1.911136293,28,"Medium","Tier 3","Supermarket Type3",3.30462265080692
+18.2,"Regular",0.066297055,"Fruits and Vegetables",2.392888915,16,"Small","Tier 1","Supermarket Type1",3.56532988556407
+19.6,"LF",0.024264569,"Dairy",1.668123024,14,"Medium","Tier 1","Supermarket Type1",2.81632339542279
+6.11,"Regular",0.151827552,"Soft Drinks",1.633555306,26,"High","Tier 3","Supermarket Type1",2.78490604458835
+11.8,"Regular",0.057538034,"Meat",2.17561791,11,"Small","Tier 2","Supermarket Type1",3.34348360726079
+12.35,"LF",0.100322104,"Fruits and Vegetables",2.055958278,6,"Small","Tier 2","Supermarket Type1",3.23478873438102
+7.44,"LF",0.123338082,"Starchy Foods",2.314212411,4,"Medium","Tier 3","Supermarket Type2",3.4180917502071
+20.6,"Regular",0.051068365,"Dairy",2.328429351,15,"Small","Tier 3","Grocery Store",2.63171685042275
+7.52,"LF",0.055213208,"Fruits and Vegetables",2.112602991,14,"Medium","Tier 1","Supermarket Type1",3.29172405521121
+12.5,"LF",0.00676387,"Household",1.610779365,9,"Small","Tier 2","Supermarket Type1",2.76246560398024
+11.3,"LF",0.094460314,"Baking Goods",2.389718439,15,"Small","Tier 3","Grocery Store",2.70218421003351
+15.35,"LF",0.013812772,"Frozen Foods",1.811017035,16,"Small","Tier 1","Supermarket Type1",2.95063236105231
+12.6,"LF",0.016876708,"Fruits and Vegetables",2.322340467,28,"Medium","Tier 3","Supermarket Type3",3.71884458121238
+13.8,"LF",0.141352562,"Dairy",2.421913745,16,"Small","Tier 1","Supermarket Type1",3.57478125690014
+12.6,"LF",0.013951504,"Frozen Foods",1.564890845,28,"Medium","Tier 3","Supermarket Type3",2.92988416056329
+19,"Regular",0.097294728,"Frozen Foods",1.679171605,9,"Small","Tier 2","Supermarket Type1",2.82625824398324
+12.6,"LF",0.095746519,"Snack Foods",2.319441701,28,"Medium","Tier 3","Supermarket Type3",3.70454880188622
+12.6,"Regular",0.022829734,"Baking Goods",2.382113982,28,"Medium","Tier 3","Supermarket Type3",3.78282224840664
+20.6,"LF",0.071103348,"Household",1.877772048,14,"Medium","Tier 1","Supermarket Type1",3.04233729798535
+11.6,"LF",0.062903297,"Health and Hygiene",2.00175188,15,"Small","Tier 3","Grocery Store",2.31214868107242
+11.5,"LF",0.171779865,"Snack Foods",2.100613131,4,"Medium","Tier 3","Supermarket Type2",3.17806241232643
+16,"LF",0.041112694,"Snack Foods",2.145971662,4,"Medium","Tier 3","Supermarket Type2",3.22299270680588
+12.6,"LF",0.064362554,"Fruits and Vegetables",2.287307607,28,"Medium","Tier 3","Supermarket Type3",3.68280131523698
+15.6,"LF",0.081562686,"Baking Goods",2.052133498,6,"Small","Tier 2","Supermarket Type1",3.22530049739721
+7.32,"LF",0.015364173,"Snack Foods",2.188461612,4,"Medium","Tier 3","Supermarket Type2",3.27040322267826
+12.6,"LF",0.067824456,"Household",2.224751062,28,"Small","Tier 1","Grocery Store",2.53903239698204
+12.6,"Regular",0.06292013,"Dairy",1.949319733,28,"Medium","Tier 3","Supermarket Type3",3.32865253129267
+15.35,"LF",0.020409765,"Soft Drinks",2.339154787,4,"Medium","Tier 3","Supermarket Type2",3.43649294876782
+13.15,"LF",0.056418354,"Soft Drinks",2.153757564,9,"Small","Tier 2","Supermarket Type1",3.32544942158303
+12.6,"Regular",0.127108578,"Dairy",2.081865559,28,"Medium","Tier 3","Supermarket Type3",3.46419162201357
+8.16,"LF",0.119351235,"Meat",2.279103182,26,"High","Tier 3","Supermarket Type1",3.43541101144608
+17.7,"Regular",0.226122963,"Starchy Foods",2.269027945,15,"Small","Tier 3","Grocery Store",2.59476633466551
+13.5,"Regular",0.159720671,"Fruits and Vegetables",2.169116369,16,"Small","Tier 1","Supermarket Type1",3.33787687821483
+17.6,"Regular",0.016092971,"Breads",1.661246504,4,"Medium","Tier 3","Supermarket Type2",2.75679744283295
+12.6,"LF",0.026491715,"Household",2.393184777,28,"Medium","Tier 3","Supermarket Type3",3.78829247279054
+12.6,"LF",0.066298469,"Fruits and Vegetables",2.271432666,28,"Medium","Tier 3","Supermarket Type3",3.66653513261184
+7.73,"LF",0.047782959,"Canned",2.396389767,16,"Small","Tier 1","Supermarket Type1",3.57122073688837
+12.6,"LF",0.008519718,"Health and Hygiene",2.067997255,28,"Medium","Tier 3","Supermarket Type3",3.46151216178496
+12.1,"LF",0.148612263,"Fruits and Vegetables",2.019232641,14,"Medium","Tier 1","Supermarket Type1",3.19376668875127
+15.2,"LF",0.033599041,"Household",2.032583307,16,"Small","Tier 1","Supermarket Type1",3.18765285595089
+12.6,"LF",0.049623924,"Dairy",1.920253804,28,"Medium","Tier 3","Supermarket Type3",3.29194097938452
+12.6,"LF",0.040636926,"Hard Drinks",2.351426768,28,"Medium","Tier 3","Supermarket Type3",3.7436493055932
+21.25,"LF",0.019407069,"Snack Foods",2.076915567,26,"High","Tier 3","Supermarket Type1",3.2105579543779
+20.1,"Regular",0.054445198,"Frozen Foods",2.181090348,9,"Small","Tier 2","Supermarket Type1",3.34000243574197
+17.75,"Regular",0.038042233,"Baking Goods",2.188269093,4,"Medium","Tier 3","Supermarket Type2",3.27939317690605
+12.6,"LF",0.078576075,"Soft Drinks",1.894687049,28,"Small","Tier 1","Grocery Store",2.2082370359254
+9.5,"LF",0.085075063,"Hard Drinks",2.276662131,9,"Small","Tier 2","Supermarket Type1",3.4437058611974
+12.6,"LF",0.081651443,"Meat",2.183464022,28,"Small","Tier 1","Grocery Store",2.50109031535828
+20.6,"LF",0.023585598,"Fruits and Vegetables",1.976706624,6,"Small","Tier 2","Supermarket Type1",3.15026283758875
+12.65,"LF",0.063146492,"Soft Drinks",2.203190141,4,"Medium","Tier 3","Supermarket Type2",3.29827153132587
+7,"LF",0.151712642,"Canned",2.0204773,11,"Small","Tier 2","Supermarket Type1",3.18270908886129
+20.25,"LF",0.02593166,"Household",2.261495065,26,"High","Tier 3","Supermarket Type1",3.40800403505594
+12.6,"LF",0.019671473,"Snack Foods",2.331945306,28,"Small","Tier 1","Grocery Store",2.64100964516897
+14.15,"LF",0.184254826,"Soft Drinks",1.916072655,4,"Medium","Tier 3","Supermarket Type2",3.00312779919127
+6.14,"Regular",0.079312367,"Baking Goods",2.181090348,9,"Small","Tier 2","Supermarket Type1",3.35499182234192
+12.6,"LF",0.072295507,"Household",1.953041232,28,"Small","Tier 1","Grocery Store",2.26072372769465
+12.6,"Regular",0,"Starchy Foods",1.777357214,28,"Medium","Tier 3","Supermarket Type3",3.17595236734177
+11,"LF",0.1062679,"Breads",2.090626923,4,"Medium","Tier 3","Supermarket Type2",3.19218055608862
+11.6,"LF",0.037549969,"Health and Hygiene",2.005198536,26,"High","Tier 3","Supermarket Type1",3.15547358160777
+13,"LF",0.03525175,"Household",1.681271999,4,"Medium","Tier 3","Supermarket Type2",2.75634585464737
+12.6,"Regular",0.106538757,"Fruits and Vegetables",2.162799113,28,"Medium","Tier 3","Supermarket Type3",3.56211902978588
+6.62,"LF",0.093307668,"Dairy",2.292128866,26,"High","Tier 3","Supermarket Type1",3.43324078183322
+10.1,"LF",0.056191301,"Household",2.063517998,11,"Small","Tier 2","Supermarket Type1",3.21803798835565
+12.3,"LF",0.069742672,"Soft Drinks",2.026507933,4,"Medium","Tier 3","Supermarket Type2",3.11743917225677
+14.3,"Regular",0.083147702,"Meat",2.322547167,15,"Small","Tier 3","Grocery Store",2.64461848512654
+6.12,"Regular",0.011372972,"Frozen Foods",1.952544481,16,"Small","Tier 1","Supermarket Type1",3.10662837021163
+17,"LF",0.119362409,"Frozen Foods",2.396972017,9,"Small","Tier 2","Supermarket Type1",3.55526593481982
+12.6,"LF",0.20914265,"Meat",2.280926486,28,"Small","Tier 1","Grocery Store",2.60048060525385
+13.8,"Regular",0.014720848,"Canned",1.953842775,26,"High","Tier 3","Supermarket Type1",3.11046949988457
+8.35,"Regular",0.127066966,"Frozen Foods",1.883862356,14,"Medium","Tier 1","Supermarket Type1",3.05065192313183
+5.37,"Regular",0.141033536,"Seafood",2.239740808,6,"Small","Tier 2","Supermarket Type1",3.4440774503856
+14.85,"LF",0.060967038,"Household",2.405465549,9,"Small","Tier 2","Supermarket Type1",3.57519319780745
+20,"LF",0.058719568,"Health and Hygiene",2.04553577,4,"Medium","Tier 3","Supermarket Type2",3.1325142397847
+6.61,"Regular",0.029006239,"Snack Foods",2.269722569,9,"Small","Tier 2","Supermarket Type1",3.43888887877822
+5.94,"LF",0.034880143,"Canned",2.250259918,9,"Small","Tier 2","Supermarket Type1",3.42794111844282
+11.15,"LF",0.032306341,"Health and Hygiene",2.221029593,14,"Medium","Tier 1","Supermarket Type1",3.40441039232267
+8.18,"LF",0.013130031,"Household",2.154166424,16,"Small","Tier 1","Supermarket Type1",3.31532765173654
+9.3,"Regular",0.02346559,"Snack Foods",2.295805402,15,"Small","Tier 3","Grocery Store",2.60725214138257
+12.6,"Regular",0.062547321,"Baking Goods",1.946368739,28,"Medium","Tier 3","Supermarket Type3",3.33638361916059
+14.85,"Regular",0.019511288,"Dairy",2.419279837,16,"Small","Tier 1","Supermarket Type1",3.57902451969582
+11.8,"Regular",0.02633607,"Canned",1.608673626,26,"High","Tier 3","Supermarket Type1",2.75777362547535
+8.19,"LF",0.046578409,"Fruits and Vegetables",1.687254208,11,"Small","Tier 2","Supermarket Type1",2.83660711182224
+9.6,"LF",0,"Soft Drinks",2.221455448,14,"Medium","Tier 1","Supermarket Type1",3.40671297264021
+12.6,"LF",0.093002339,"Fruits and Vegetables",2.249861404,28,"Medium","Tier 3","Supermarket Type3",3.64435034441138
+6.83,"Regular",0.046898544,"Canned",2.186955771,6,"Small","Tier 2","Supermarket Type1",3.38318843378956
+20.7,"LF",0.039467795,"Household",2.181090348,6,"Small","Tier 2","Supermarket Type1",3.35642071288932
+9.6,"Regular",0.014200671,"Snack Foods",2.272276148,26,"High","Tier 3","Supermarket Type1",3.42276130824641
+21,"LF",0.049381666,"Snack Foods",2.285664857,14,"Medium","Tier 1","Supermarket Type1",3.45203395535642
+20.35,"LF",0.021369722,"Household",1.879857092,11,"Small","Tier 2","Supermarket Type1",3.02555400587626
+13,"Regular",0.030211742,"Canned",1.773215785,4,"Medium","Tier 3","Supermarket Type2",2.86524248598085
+7.5,"LF",0.096413261,"Household",1.743186667,16,"Small","Tier 1","Supermarket Type1",2.8944043388515
+13.15,"LF",0.056429024,"Soft Drinks",2.159209746,16,"Small","Tier 1","Supermarket Type1",3.32547090700601
+8.63,"Regular",0.032976399,"Snack Foods",2.059380877,11,"Small","Tier 2","Supermarket Type1",3.21353213884942
+5.49,"LF",0.042838514,"Health and Hygiene",2.214272004,11,"Small","Tier 2","Supermarket Type1",3.38073574881228
+6.55,"Regular",0.034745307,"Breads",2.200929255,4,"Medium","Tier 3","Supermarket Type2",3.31433536372867
+15.7,"Regular",0.027673055,"Canned",2.228603085,11,"Small","Tier 2","Supermarket Type1",3.39947421339414
+17.7,"LF",0.117201696,"Snack Foods",2.264880602,6,"Small","Tier 2","Supermarket Type1",3.43531316327915
+18,"LF",0.015450376,"Health and Hygiene",2.201288947,16,"Small","Tier 1","Supermarket Type1",3.36550660988145
+6.63,"Regular",0.174110803,"Baking Goods",2.222326211,15,"Small","Tier 3","Grocery Store",2.53949792570203
+18.25,"LF",0.07784544,"Snack Foods",2.415968079,14,"Medium","Tier 1","Supermarket Type1",3.58660263967185
+12.6,"LF",0.074265816,"Dairy",2.039504538,28,"Medium","Tier 3","Supermarket Type3",3.41399737061191
+12,"Regular",0.020411155,"Meat",1.993895414,16,"Small","Tier 1","Supermarket Type1",3.16085356610849
+12.15,"Regular",0.04274788,"Meat",2.264097335,14,"Medium","Tier 1","Supermarket Type1",3.45320147043838
+5.91,"LF",0.04572322,"Canned",2.346637716,14,"Medium","Tier 1","Supermarket Type1",3.53680828314435
+18.6,"LF",0.012651172,"Household",2.090404087,9,"Small","Tier 2","Supermarket Type1",3.25101886818494
+12.6,"LF",0,"Starchy Foods",2.224055776,28,"Medium","Tier 3","Supermarket Type3",3.6264880207018
+9.17,"LF",0.103398309,"Baking Goods",2.158202618,4,"Medium","Tier 3","Supermarket Type2",3.24514886425424
+12.35,"Regular",0.072689818,"Dairy",1.688145632,4,"Medium","Tier 3","Supermarket Type2",2.75864753713873
+15.6,"Regular",0.105208448,"Snack Foods",2.231918944,26,"High","Tier 3","Supermarket Type1",3.37848753202127
+9.8,"Regular",0.14118383,"Baking Goods",1.703298258,4,"Medium","Tier 3","Supermarket Type2",2.78580398214337
+12.6,"LF",0.130544568,"Frozen Foods",2.394532228,28,"Medium","Tier 3","Supermarket Type3",3.77923140851526
+12.6,"LF",0.121635591,"Fruits and Vegetables",2.244212281,28,"Medium","Tier 3","Supermarket Type3",3.63846693071318
+12.6,"LF",0,"Fruits and Vegetables",2.412290492,28,"Small","Tier 1","Grocery Store",2.73442700677819
+15.35,"LF",0.014007727,"Frozen Foods",1.583414167,26,"High","Tier 3","Supermarket Type1",2.70559347034763
+14.5,"Regular",0.041214746,"Canned",1.623718489,26,"High","Tier 3","Supermarket Type1",2.77194932154769
+12.6,"Regular",0.031663212,"Baking Goods",2.238739416,4,"Medium","Tier 3","Supermarket Type2",3.33336475457486
+18.85,"LF",0.042716162,"Canned",2.411338502,14,"Medium","Tier 1","Supermarket Type1",3.59741694406152
+11.6,"Regular",0.009761175,"Snack Foods",2.355911816,9,"Small","Tier 2","Supermarket Type1",3.52504546492905
+15.3,"LF",0.02295878,"Household",2.0070356,26,"High","Tier 3","Supermarket Type1",3.14955804004725
+16.85,"Regular",0.026627857,"Canned",1.971795207,4,"Medium","Tier 3","Supermarket Type2",3.0669587507155
+19,"LF",0.112893408,"Snack Foods",2.117478779,15,"Small","Tier 3","Grocery Store",2.41306341859847
+12.6,"Regular",0.017937483,"Meat",2.014936154,28,"Medium","Tier 3","Supermarket Type3",3.41228682497627
+17,"LF",0.120060274,"Frozen Foods",2.391893381,6,"Small","Tier 2","Supermarket Type1",3.56359150284895
+11.65,"Regular",0.010909704,"Meat",2.044752936,26,"High","Tier 3","Supermarket Type1",3.20120861370388
+17.75,"Regular",0.029653914,"Fruits and Vegetables",2.147935278,16,"Small","Tier 1","Supermarket Type1",3.31476277422966
+11.3,"LF",0.047912071,"Household",2.254949077,4,"Medium","Tier 3","Supermarket Type2",3.3446251779621
+13.5,"Regular",0.129016487,"Starchy Foods",1.99302511,14,"Medium","Tier 1","Supermarket Type1",3.18161611782345
+15.85,"LF",0.078874948,"Canned",1.57345878,4,"Medium","Tier 3","Supermarket Type2",2.65224434517351
+16.6,"LF",0.135944247,"Hard Drinks",2.235634987,14,"Medium","Tier 1","Supermarket Type1",3.40857830316165
+5.32,"LF",0.093261677,"Health and Hygiene",2.004181173,4,"Medium","Tier 3","Supermarket Type2",3.09647260946825
+12.6,"LF",0.008722342,"Fruits and Vegetables",2.091812519,28,"Medium","Tier 3","Supermarket Type3",3.48275859771167
+12.5,"LF",0.081260969,"Meat",2.345921987,14,"Medium","Tier 1","Supermarket Type1",3.52973779982781
+11.3,"LF",0.06705851,"Household",2.287908723,6,"Small","Tier 2","Supermarket Type1",3.46985238614441
+18.6,"LF",0.012643035,"Household",2.078606874,26,"High","Tier 3","Supermarket Type1",3.22145260486799
+12.6,"LF",0.129983688,"Household",1.968698641,28,"Small","Tier 1","Grocery Store",2.27656426615229
+19.2,"Regular",0.094300933,"Frozen Foods",2.273050837,4,"Medium","Tier 3","Supermarket Type2",3.35644549714829
+12.85,"Regular",0.152001201,"Fruits and Vegetables",2.401983001,26,"High","Tier 3","Supermarket Type1",3.56477657563729
+6.13,"LF",0.02848169,"Household",2.04332769,6,"Small","Tier 2","Supermarket Type1",3.22174170593904
+17.25,"LF",0.037396492,"Soft Drinks",2.219198257,6,"Small","Tier 2","Supermarket Type1",3.40427356695102
+10.7,"LF",0.05337973,"Frozen Foods",1.754274928,14,"Medium","Tier 1","Supermarket Type1",2.91015892147374
+12.8,"LF",0.076369874,"Fruits and Vegetables",1.987849416,4,"Medium","Tier 3","Supermarket Type2",3.07337979909143
+14.35,"Regular",0.090896452,"Frozen Foods",2.364172629,9,"Small","Tier 2","Supermarket Type1",3.5299164084544
+19.7,"Regular",0,"Baking Goods",2.296469933,11,"Small","Tier 2","Supermarket Type1",3.45847540899821
+17.25,"Regular",0.159165324,"Fruits and Vegetables",1.802222129,9,"Small","Tier 2","Supermarket Type1",2.96601413065426
+15.7,"Regular",0.11454343,"Canned",2.055837615,9,"Small","Tier 2","Supermarket Type1",3.23124679647601
+12.6,"LF",0.10818157,"Dairy",2.174946108,28,"Small","Tier 1","Grocery Store",2.47600082193403
+12.15,"LF",0.037955309,"Meat",1.79853049,14,"Medium","Tier 1","Supermarket Type1",2.9693834959742
+9.7,"Regular",0.128176489,"Baking Goods",2.351874349,26,"High","Tier 3","Supermarket Type1",3.5107045902799
+18,"Regular",0.238831875,"Fruits and Vegetables",1.945721604,15,"Small","Tier 3","Grocery Store",2.25519928211857
+20.85,"LF",0.021416681,"Fruits and Vegetables",2.019658716,4,"Medium","Tier 3","Supermarket Type2",3.10261943350512
+7.55,"Regular",0.031007381,"Fruits and Vegetables",2.091340499,11,"Small","Tier 2","Supermarket Type1",3.25780454959934
+12.1,"LF",0.029781363,"Soft Drinks",2.16715304,16,"Small","Tier 1","Supermarket Type1",3.33415741673055
+10,"LF",0.038653608,"Fruits and Vegetables",2.389900042,26,"High","Tier 3","Supermarket Type1",3.54704869185647
+6.45,"LF",0.029859711,"Baking Goods",1.973790801,6,"Small","Tier 2","Supermarket Type1",3.14924478972605
+12.6,"LF",0.081197035,"Breads",2.085438292,28,"Small","Tier 1","Grocery Store",2.41222472406294
+11.65,"LF",0.131394793,"Baking Goods",2.181564636,26,"High","Tier 3","Supermarket Type1",3.32841622785559
+12.6,"LF",0.164006137,"Snack Foods",2.054166275,28,"Small","Tier 1","Grocery Store",2.35600889964089
+8.9,"LF",0.026492726,"Frozen Foods",2.319096478,6,"Small","Tier 2","Supermarket Type1",3.49289829774899
+12.6,"LF",0.023463124,"Soft Drinks",2.28031562,28,"Medium","Tier 3","Supermarket Type3",3.68000155899789
+18.2,"LF",0.1630653,"Health and Hygiene",1.636574145,9,"Small","Tier 2","Supermarket Type1",2.79208150719581
+8.63,"Regular",0.032960823,"Snack Foods",2.060893418,14,"Medium","Tier 1","Supermarket Type1",3.2342789792139
+18.75,"LF",0.053025371,"Snack Foods",2.284544425,4,"Medium","Tier 3","Supermarket Type2",3.36367761038821
+11.8,"LF",0.008578539,"Health and Hygiene",2.070588978,11,"Small","Tier 2","Supermarket Type1",3.23092285266967
+12.6,"LF",0.083221904,"Household",2.241808871,6,"Small","Tier 2","Supermarket Type1",3.42201089295822
+13.8,"Regular",0.064195136,"Fruits and Vegetables",1.879676081,9,"Small","Tier 2","Supermarket Type1",3.0471796379648
+6.26,"Regular",0.009887927,"Meat",2.178218715,11,"Small","Tier 2","Supermarket Type1",3.34873706637065
+12.6,"Regular",0.138846289,"Canned",2.421255694,28,"Medium","Tier 3","Supermarket Type3",3.83136919550844
+8.02,"LF",0.033259081,"Household",2.188358045,15,"Small","Tier 3","Grocery Store",2.49872044105923
+12.6,"LF",0.027610698,"Snack Foods",2.174747502,28,"Small","Tier 1","Grocery Store",2.47997587150607
+17,"LF",0.126758324,"Household",2.09529561,4,"Medium","Tier 3","Supermarket Type2",3.17833737477724
+12.6,"LF",0.014008751,"Dairy",2.233864339,28,"Small","Tier 1","Grocery Store",2.53666703937331
+18.7,"LF",0.02442574,"Soft Drinks",1.723721586,15,"Small","Tier 3","Grocery Store",2.02547873550788
+15.5,"LF",0.053589594,"Soft Drinks",1.64519622,4,"Medium","Tier 3","Supermarket Type2",2.72554090616653
+7.81,"Regular",0.03412912,"Snack Foods",2.217788633,4,"Medium","Tier 3","Supermarket Type2",3.30714887895098
+12.6,"LF",0.033737273,"Soft Drinks",1.753287301,28,"Medium","Tier 3","Supermarket Type3",3.14016819799661
+6.47,"LF",0.208397715,"Canned",2.42371826,15,"Small","Tier 3","Grocery Store",2.74758816998775
+12.6,"LF",0.039751236,"Dairy",2.247734707,28,"Small","Tier 1","Grocery Store",2.55078591549081
+8.21,"LF",0.010781158,"Hard Drinks",2.175915189,14,"Medium","Tier 1","Supermarket Type1",3.35151362706357
+19.35,"Regular",0.083079826,"Fruits and Vegetables",1.905063707,15,"Small","Tier 3","Grocery Store",2.21349455204431
+9.5,"Regular",0.048676324,"Starchy Foods",2.273671999,9,"Small","Tier 2","Supermarket Type1",3.46091139032327
+14.85,"Regular",0.035311852,"Fruits and Vegetables",2.206712027,14,"Medium","Tier 1","Supermarket Type1",3.39195579440932
+6.11,"Regular",0.103080901,"Fruits and Vegetables",2.118254141,14,"Medium","Tier 1","Supermarket Type1",3.30495370421004
+6.79,"Regular",0.022974812,"Snack Foods",2.319715518,16,"Small","Tier 1","Supermarket Type1",3.48447205272282
+12.6,"LF",0.030062224,"Health and Hygiene",2.188550525,28,"Medium","Tier 3","Supermarket Type3",3.58491319405405
+11.5,"LF",0.020960615,"Health and Hygiene",2.124811252,26,"High","Tier 3","Supermarket Type1",3.27808481279779
+12.6,"LF",0,"Soft Drinks",1.941452794,28,"Medium","Tier 3","Supermarket Type3",3.33300778412184
+13.15,"LF",0.020715913,"Breads",1.92198076,16,"Small","Tier 1","Supermarket Type1",3.09123866092083
+8.66,"Regular",0.088373591,"Snack Foods",2.076915567,11,"Small","Tier 2","Supermarket Type1",3.23129009399387
+19.7,"Regular",0.08073703,"Baking Goods",2.294490475,16,"Small","Tier 1","Supermarket Type1",3.45963030875
+14.5,"Regular",0,"Fruits and Vegetables",2.229540552,9,"Small","Tier 2","Supermarket Type1",3.40543311769337
+7.95,"LF",0.015863075,"Snack Foods",2.209034881,26,"High","Tier 3","Supermarket Type1",3.35171844893532
+11.5,"LF",0.017714096,"Health and Hygiene",2.123729499,4,"Medium","Tier 3","Supermarket Type2",3.21646668167142
+15.75,"LF",0.166513779,"Dairy",1.580361509,4,"Medium","Tier 3","Supermarket Type2",2.63945617773608
+15.6,"LF",0.143915417,"Breakfast",2.105848632,6,"Small","Tier 2","Supermarket Type1",3.22905644989899
+19.35,"Regular",0.062882112,"Baking Goods",2.215157274,6,"Small","Tier 2","Supermarket Type1",3.39768134550546
+12.6,"Regular",0.041726942,"Fruits and Vegetables",2.08638546,4,"Medium","Tier 3","Supermarket Type2",3.18149547784362
+12.65,"LF",0.042211119,"Household",2.036204772,16,"Small","Tier 1","Supermarket Type1",3.1924501369139
+12.1,"LF",0.015497337,"Household",2.218936006,4,"Medium","Tier 3","Supermarket Type2",3.30749922620571
+17.2,"Regular",0.012030747,"Canned",2.22172296,14,"Medium","Tier 1","Supermarket Type1",3.41102091911944
+12.6,"LF",0.097768728,"Household",2.153661234,28,"Small","Tier 1","Grocery Store",2.46611816592494
+12.6,"Regular",0.185008985,"Fruits and Vegetables",1.627156853,28,"Small","Tier 1","Grocery Store",1.93662646954787
+16.75,"LF",0,"Fruits and Vegetables",2.407218852,16,"Small","Tier 1","Supermarket Type1",3.57388137070572
+13.35,"Regular",0.149974858,"Snack Foods",2.254707555,4,"Medium","Tier 3","Supermarket Type2",3.34214072264473
+14.1,"LF",0.125675936,"Fruits and Vegetables",1.939118718,26,"High","Tier 3","Supermarket Type1",3.08325217364168
+14.3,"Regular",0.109144085,"Fruits and Vegetables",1.945889873,15,"Small","Tier 3","Grocery Store",2.25743410092525
+13.65,"Regular",0.078909166,"Dairy",2.271200142,14,"Medium","Tier 1","Supermarket Type1",3.44342115514995
+12.6,"LF",0.094817105,"Hard Drinks",1.891544148,28,"Small","Tier 1","Grocery Store",2.1958347039912
+12.6,"Regular",0,"Seafood",2.265662459,28,"Small","Tier 1","Grocery Store",2.60237917871573
+14.15,"LF",0.095378221,"Soft Drinks",2.231751383,16,"Small","Tier 1","Supermarket Type1",3.39919956692343
+9.2,"LF",0.015949001,"Baking Goods",1.925101599,6,"Small","Tier 2","Supermarket Type1",3.09821815347576
+16.7,"Regular",0.038496166,"Snack Foods",2.168822052,26,"High","Tier 3","Supermarket Type1",3.31360673399136
+12.3,"LF",0.111274591,"Baking Goods",1.545151188,16,"Small","Tier 1","Supermarket Type1",2.68828633779707
+14.15,"LF",0.183472595,"Soft Drinks",1.913960005,9,"Small","Tier 2","Supermarket Type1",3.07897105878165
+8.43,"LF",0,"Soft Drinks",2.290872992,6,"Small","Tier 2","Supermarket Type1",3.48167699780051
+12.6,"LF",0.031743707,"Dairy",2.253178993,28,"Medium","Tier 3","Supermarket Type3",3.63299389626421
+18.85,"LF",0.016132592,"Health and Hygiene",2.114819742,14,"Medium","Tier 1","Supermarket Type1",3.29230805718348
+13.1,"LF",0.020903193,"Dairy",2.076561077,14,"Medium","Tier 1","Supermarket Type1",3.23751767244594
+19.35,"Regular",0.039990314,"Soft Drinks",2.217712349,14,"Medium","Tier 1","Supermarket Type1",3.40545743102299
+12.6,"Regular",0.170382726,"Frozen Foods",1.655827762,28,"Small","Tier 1","Grocery Store",1.95287437549186
+6.39,"LF",0.083768522,"Hard Drinks",2.040838013,26,"High","Tier 3","Supermarket Type1",3.1860516029665
+7.05,"Regular",0.055548003,"Breads",2.352778155,9,"Small","Tier 2","Supermarket Type1",3.54757819499449
+17.1,"LF",0.128614205,"Fruits and Vegetables",2.048008847,14,"Medium","Tier 1","Supermarket Type1",3.22111727474069
+6.68,"LF",0.021710275,"Household",1.54391167,11,"Small","Tier 2","Supermarket Type1",2.68745729654494
+11.5,"Regular",0.042087749,"Frozen Foods",2.284841146,11,"Small","Tier 2","Supermarket Type1",3.44105780445885
+9.21,"LF",0.008782561,"Fruits and Vegetables",2.078606874,11,"Small","Tier 2","Supermarket Type1",3.23712403196006
+20.6,"Regular",0.046280998,"Snack Foods",2.249037822,6,"Small","Tier 2","Supermarket Type1",3.42504362912919
+11.4,"LF",0.009898492,"Health and Hygiene",1.688450079,11,"Small","Tier 2","Supermarket Type1",2.83969537052594
+12.6,"LF",0.075368868,"Health and Hygiene",1.547198545,28,"Medium","Tier 3","Supermarket Type3",2.92786688723247
+7.1,"LF",0.110633958,"Fruits and Vegetables",2.240069762,6,"Small","Tier 2","Supermarket Type1",3.42562668320164
+14.5,"Regular",0,"Snack Foods",2.202287198,9,"Small","Tier 2","Supermarket Type1",3.3664609450202
+7.05,"Regular",0.05587277,"Breads",2.346565766,6,"Small","Tier 2","Supermarket Type1",3.55474380805301
+9.5,"LF",0.041851461,"Soft Drinks",1.498172661,26,"High","Tier 3","Supermarket Type1",2.63814515086815
+18.85,"LF",0.167552202,"Household",2.28581286,9,"Small","Tier 2","Supermarket Type1",3.45052594820253
+14.65,"LF",0.011212719,"Others",1.745554126,11,"Small","Tier 2","Supermarket Type1",2.90107986224239
+13.3,"LF",0.063925726,"Frozen Foods",2.181474281,6,"Small","Tier 2","Supermarket Type1",3.34988611525535
+7.08,"LF",0.097660814,"Dairy",2.151715432,15,"Small","Tier 3","Grocery Store",2.44950022687278
+7.96,"LF",0,"Canned",2.206257415,6,"Small","Tier 2","Supermarket Type1",3.39563558812964
+4.64,"LF",0.140889111,"Breads",2.1041435,16,"Small","Tier 1","Supermarket Type1",3.28113537273165
+12.6,"LF",0.058198141,"Health and Hygiene",2.043183021,28,"Medium","Tier 3","Supermarket Type3",3.4359276637116
+16.75,"LF",0.081446638,"Fruits and Vegetables",2.41010005,14,"Medium","Tier 1","Supermarket Type1",3.59229590825134
+15.35,"LF",0.015676231,"Others",2.158504218,16,"Small","Tier 1","Supermarket Type1",3.32717096211189
+9.3,"LF",0.042283454,"Hard Drinks",2.098431891,9,"Small","Tier 2","Supermarket Type1",3.26139025075342
+5.7,"Regular",0.06797671,"Breads",2.410775209,4,"Medium","Tier 3","Supermarket Type2",3.52952536375557
+9.2,"LF",0.080442371,"Household",2.032466449,15,"Small","Tier 3","Grocery Store",2.33837396180704
+17.85,"LF",0.03781972,"Soft Drinks",2.282438116,9,"Small","Tier 2","Supermarket Type1",3.45525176633578
+10.2,"Regular",0.012483408,"Meat",2.290949007,11,"Small","Tier 2","Supermarket Type1",3.46246358660032
+10.9,"LF",0.137584599,"Dairy",2.418726758,6,"Small","Tier 2","Supermarket Type1",3.59189299932552
+12.6,"Regular",0.205484395,"Baking Goods",2.296689317,28,"Small","Tier 1","Grocery Store",2.61810178486347
+13.1,"LF",0.037793818,"Fruits and Vegetables",2.240063266,6,"Small","Tier 2","Supermarket Type1",3.42323873834367
+15.5,"Regular",0.075736746,"Baking Goods",2.424157427,9,"Small","Tier 2","Supermarket Type1",3.59985928376784
+14.15,"LF",0.014719325,"Household",2.294269978,15,"Small","Tier 3","Grocery Store",2.60457567384831
+14.1,"LF",0.11326743,"Baking Goods",1.737157643,16,"Small","Tier 1","Supermarket Type1",2.88414967180516
+12.6,"Regular",0,"Frozen Foods",2.115713665,28,"Medium","Tier 3","Supermarket Type3",3.50108766092692
+7.9,"Regular",0.094952408,"Breakfast",2.004893749,4,"Medium","Tier 3","Supermarket Type2",3.04464847339286
+15.75,"LF",0.135836828,"Household",2.001603924,6,"Small","Tier 2","Supermarket Type1",3.17442642176592
+14.8,"LF",0,"Meat",2.277344661,26,"High","Tier 3","Supermarket Type1",3.4311063835466
+20.1,"Regular",0.022425236,"Fruits and Vegetables",2.354691463,16,"Small","Tier 1","Supermarket Type1",3.5255236009592
+12.6,"LF",0.051924192,"Snack Foods",2.082811212,28,"Medium","Tier 3","Supermarket Type3",3.4623337530513
+12.6,"LF",0.054806734,"Fruits and Vegetables",2.161800284,28,"Medium","Tier 3","Supermarket Type3",3.55428541271958
+8.62,"LF",0.116722514,"Fruits and Vegetables",1.979746812,4,"Medium","Tier 3","Supermarket Type2",3.06677518824953
+12.6,"LF",0.244338986,"Dairy",2.025021432,28,"Small","Tier 1","Grocery Store",2.32198020829981
+12.6,"Regular",0.021471456,"Snack Foods",2.117365438,28,"Small","Tier 1","Grocery Store",2.42821088329124
+13.65,"Regular",0.026067434,"Snack Foods",1.896692628,6,"Small","Tier 2","Supermarket Type1",3.06727511545486
+6.39,"Regular",0.123710526,"Snack Foods",1.570395815,16,"Small","Tier 1","Supermarket Type1",2.71682862851819
+9.31,"LF",0.038032068,"Frozen Foods",1.787821646,11,"Small","Tier 2","Supermarket Type1",2.92598217795469
+15,"LF",0.064504433,"Hard Drinks",1.674916227,6,"Small","Tier 2","Supermarket Type1",2.838569047497
+17.7,"Regular",0.041163522,"Fruits and Vegetables",1.907559684,6,"Small","Tier 2","Supermarket Type1",3.08763794891958
+16.75,"LF",0.060668416,"Dairy",2.236563963,11,"Small","Tier 2","Supermarket Type1",3.3804652433337
+15.1,"LF",0.056067524,"Household",2.145661229,4,"Medium","Tier 3","Supermarket Type2",3.23099640777481
+21.25,"LF",0.114066204,"Health and Hygiene",2.367411835,4,"Medium","Tier 3","Supermarket Type2",3.46145346258294
+17.6,"LF",0.097135675,"Dairy",1.95126756,26,"High","Tier 3","Supermarket Type1",3.07929601700956
+13.15,"Regular",0.165616415,"Fruits and Vegetables",2.237232986,14,"Medium","Tier 1","Supermarket Type1",3.42351790095833
+5.04,"Regular",0,"Breads",2.358322491,16,"Small","Tier 1","Supermarket Type1",3.54876382446013
+12.6,"Regular",0.030362777,"Dairy",2.323302438,28,"Medium","Tier 3","Supermarket Type3",3.71180773447719
+12.6,"LF",0.145951533,"Household",2.206705012,28,"Small","Tier 1","Grocery Store",2.52028329611282
+5.26,"Regular",0.02454694,"Breads",1.980942796,14,"Medium","Tier 1","Supermarket Type1",3.17780078097755
+6.24,"LF",0.118674359,"Household",2.417788787,16,"Small","Tier 1","Supermarket Type1",3.58582869285327
+5.82,"LF",0.080765853,"Household",2.228346454,14,"Medium","Tier 1","Supermarket Type1",3.4078497127439
+7.29,"LF",0.050065211,"Dairy",2.197084185,11,"Small","Tier 2","Supermarket Type1",3.34421013244849
+7,"LF",0.15202235,"Canned",2.027871263,4,"Medium","Tier 3","Supermarket Type2",3.12129647486386
+12.6,"LF",0.087383304,"Dairy",2.256306824,28,"Medium","Tier 3","Supermarket Type3",3.63600822974142
+13.8,"Regular",0,"Fruits and Vegetables",1.870995828,11,"Small","Tier 2","Supermarket Type1",3.02948769430821
+15.5,"LF",0.053480419,"Soft Drinks",1.627130208,11,"Small","Tier 2","Supermarket Type1",2.77602220129171
+12.6,"LF",0.044444956,"Household",2.389662492,28,"Medium","Tier 3","Supermarket Type3",3.78462376457421
+8.26,"LF",0.034544435,"Hard Drinks",2.06477012,4,"Medium","Tier 3","Supermarket Type2",3.149390441723
+15,"LF",0.044978225,"Health and Hygiene",2.148861057,14,"Medium","Tier 1","Supermarket Type1",3.32876307464809
+8.79,"LF",0.025967624,"Fruits and Vegetables",2.078969114,16,"Small","Tier 1","Supermarket Type1",3.24107761038723
+12.6,"LF",0.058092551,"Snack Foods",2.235634987,28,"Small","Tier 1","Grocery Store",2.5422349832615
+12.6,"LF",0.148742896,"Baking Goods",2.029902997,28,"Small","Tier 1","Grocery Store",2.3380575907251
+12.6,"Regular",0.041273391,"Frozen Foods",1.962276499,28,"Medium","Tier 3","Supermarket Type3",3.34379224400525
+12.6,"Regular",0.141997869,"Fruits and Vegetables",1.956895169,28,"Medium","Tier 3","Supermarket Type3",3.35110532579218
+8.98,"Regular",0,"Canned",1.929022259,4,"Medium","Tier 3","Supermarket Type2",3.02668848116648
+7.79,"LF",0.140342195,"Dairy",2.023789747,6,"Small","Tier 2","Supermarket Type1",3.18873988538442
+12.6,"LF",0.008903212,"Meat",2.082697785,28,"Medium","Tier 3","Supermarket Type3",3.4747345012236
+20.7,"LF",0.170072462,"Canned",2.264408355,14,"Medium","Tier 1","Supermarket Type1",3.44568272213567
+8.77,"Regular",0,"Fruits and Vegetables",2.23965528,26,"High","Tier 3","Supermarket Type1",3.40082048658835
+20.25,"LF",0.036399734,"Dairy",2.341134075,11,"Small","Tier 2","Supermarket Type1",3.48611805155305
+17.7,"LF",0.012567811,"Household",2.226464312,11,"Small","Tier 2","Supermarket Type1",3.38175077304103
+8.32,"Regular",0.035773394,"Baking Goods",2.15939994,6,"Small","Tier 2","Supermarket Type1",3.34549836545738
+18.1,"LF",0.022434418,"Fruits and Vegetables",1.983217506,14,"Medium","Tier 1","Supermarket Type1",3.15467905734638
+12.15,"LF",0,"Health and Hygiene",1.592738422,6,"Small","Tier 2","Supermarket Type1",2.76391901526575
+15.25,"LF",0.089998959,"Frozen Foods",2.332679174,11,"Small","Tier 2","Supermarket Type1",3.48126220927455
+12.15,"LF",0,"Others",2.092625917,16,"Small","Tier 1","Supermarket Type1",3.26115191963577
+9.3,"LF",0.04774013,"Baking Goods",2.2900649,15,"Small","Tier 3","Grocery Store",2.60115133599844
+12.6,"LF",0.01769927,"Dairy",1.870410929,28,"Medium","Tier 3","Supermarket Type3",3.24099900098901
+20.1,"Regular",0.054816926,"Fruits and Vegetables",2.288432566,4,"Medium","Tier 3","Supermarket Type2",3.38510735993305
+11.8,"LF",0.008554052,"Health and Hygiene",2.067997255,26,"High","Tier 3","Supermarket Type1",3.21980494429118
+17.7,"LF",0.029914022,"Snack Foods",2.220844195,26,"High","Tier 3","Supermarket Type1",3.35949382824703
+12.6,"LF",0.043551753,"Snack Foods",2.265984601,28,"Medium","Tier 3","Supermarket Type3",3.64997398345372
+14.65,"Regular",0.099692906,"Snack Foods",1.707285663,6,"Small","Tier 2","Supermarket Type1",2.87259009398765
+10.9,"LF",0.059834024,"Fruits and Vegetables",2.125573645,15,"Small","Tier 3","Grocery Store",2.4361426707752
+8.58,"Regular",0.071832909,"Dairy",2.288203155,9,"Small","Tier 2","Supermarket Type1",3.45290397501349
+15.1,"LF",0.055793586,"Household",2.145350573,26,"High","Tier 3","Supermarket Type1",3.29120036792216
+12.6,"Regular",0.026949463,"Meat",2.296030833,28,"Medium","Tier 3","Supermarket Type3",3.70016187229753
+13,"LF",0.041909345,"Household",2.406542565,11,"Small","Tier 2","Supermarket Type1",3.56815202492839
+20.1,"LF",0.014925407,"Health and Hygiene",2.156595789,26,"High","Tier 3","Supermarket Type1",3.30689166485681
+12.85,"LF",0.108102606,"Fruits and Vegetables",2.368034232,26,"High","Tier 3","Supermarket Type1",3.52316798011165
+16.7,"Regular",0.091437584,"Starchy Foods",1.808324429,15,"Small","Tier 3","Grocery Store",2.12379618582966
+13.3,"LF",0.009581155,"Snack Foods",1.812585842,16,"Small","Tier 1","Supermarket Type1",2.95526085882095
+12.6,"LF",0.035997636,"Others",1.89576388,28,"Small","Tier 1","Grocery Store",2.2127328491365
+17,"LF",0.126244059,"Household",2.095644199,16,"Small","Tier 1","Supermarket Type1",3.25113782982404
+17.6,"Regular",0.053481818,"Starchy Foods",1.679482407,6,"Small","Tier 2","Supermarket Type1",2.86228837725115
+14.6,"LF",0.043021542,"Household",2.294264243,15,"Small","Tier 3","Grocery Store",2.60427633366
+8.9,"Regular",0.08154715,"Snack Foods",1.697236319,6,"Small","Tier 2","Supermarket Type1",2.8648785307743
+12.6,"Regular",0.1263349,"Canned",2.26503586,28,"Small","Tier 1","Grocery Store",2.59480212534514
+10.3,"LF",0.078903499,"Baking Goods",2.24953343,11,"Small","Tier 2","Supermarket Type1",3.40726552250575
+12.6,"LF",0.091411749,"Health and Hygiene",2.084122087,28,"Small","Tier 1","Grocery Store",2.40114116942835
+5.59,"Regular",0.094741514,"Snack Foods",1.800144972,15,"Small","Tier 3","Grocery Store",2.10096485297729
+8.06,"LF",0,"Breakfast",2.366857221,4,"Medium","Tier 3","Supermarket Type2",3.40864879357147
+11.35,"Regular",0.063173691,"Dairy",1.935434709,26,"High","Tier 3","Supermarket Type1",3.07292028679917
+7.04,"LF",0.021883368,"Frozen Foods",2.421259974,14,"Medium","Tier 1","Supermarket Type1",3.59501615746209
+13.15,"Regular",0.165221717,"Fruits and Vegetables",2.235721312,26,"High","Tier 3","Supermarket Type1",3.39430987406935
+16.25,"LF",0.057629899,"Fruits and Vegetables",2.09308743,4,"Medium","Tier 3","Supermarket Type2",3.17971979326394
+11.1,"LF",0.010632752,"Canned",1.916931673,26,"High","Tier 3","Supermarket Type1",3.06687444973993
+5.59,"Regular",0.05671761,"Snack Foods",1.798766626,11,"Small","Tier 2","Supermarket Type1",2.94785441555447
+6.55,"LF",0.024505418,"Breads",2.012555474,26,"High","Tier 3","Supermarket Type1",3.174966686102
+12.6,"LF",0.088394115,"Frozen Foods",2.289466762,28,"Medium","Tier 3","Supermarket Type3",3.67176356368812
+13.65,"LF",0.077219509,"Health and Hygiene",1.751994638,9,"Small","Tier 2","Supermarket Type1",2.91258445801491
+18.6,"LF",0.076791671,"Snack Foods",2.206889532,26,"High","Tier 3","Supermarket Type1",3.34464719673477
+11.1,"Regular",0,"Fruits and Vegetables",2.218936006,4,"Medium","Tier 3","Supermarket Type2",3.31805700072694
+10.2,"Regular",0.012528611,"Meat",2.290281755,6,"Small","Tier 2","Supermarket Type1",3.48432940535711
+5.88,"LF",0.003597678,"Hard Drinks",2.187238055,14,"Medium","Tier 1","Supermarket Type1",3.36415625320938
+12.6,"LF",0.173527068,"Fruits and Vegetables",1.964005864,28,"Small","Tier 1","Grocery Store",2.27468993853031
+4.64,"LF",0.141686037,"Breads",2.103801669,6,"Small","Tier 2","Supermarket Type1",3.29987495192204
+8.51,"LF",0.052051256,"Household",2.153043116,11,"Small","Tier 2","Supermarket Type1",3.31044312706114
+17.25,"Regular",0.047533568,"Snack Foods",1.986354253,6,"Small","Tier 2","Supermarket Type1",3.15745879041042
+6.62,"LF",0.093913607,"Dairy",2.298290967,6,"Small","Tier 2","Supermarket Type1",3.47056299397639
+10.1,"Regular",0.053667516,"Fruits and Vegetables",2.348322001,14,"Medium","Tier 1","Supermarket Type1",3.53901594986289
+8.68,"LF",0.01478914,"Frozen Foods",1.990065225,15,"Small","Tier 3","Grocery Store",2.28530937131317
+18.5,"LF",0.033938279,"Others",2.122308955,9,"Small","Tier 2","Supermarket Type1",3.29421904152803
+9.8,"Regular",0.045522854,"Baking Goods",1.545151188,6,"Small","Tier 2","Supermarket Type1",2.71568446359885
+7.63,"LF",0.061188147,"Soft Drinks",1.973329246,11,"Small","Tier 2","Supermarket Type1",3.13403204179781
+15.75,"LF",0.054884821,"Baking Goods",2.290802744,26,"High","Tier 3","Supermarket Type1",3.43876495492112
+12.6,"LF",0.19033746,"Snack Foods",2.202645768,28,"Small","Tier 1","Grocery Store",2.50799652596382
+9.5,"Regular",0.010914988,"Snack Foods",2.264489145,9,"Small","Tier 2","Supermarket Type1",3.43232384664307
+15.7,"LF",0.037383778,"Soft Drinks",2.254701274,4,"Medium","Tier 3","Supermarket Type2",3.34978198676882
+12.6,"LF",0.042354152,"Fruits and Vegetables",2.356545934,28,"Medium","Tier 3","Supermarket Type3",3.75379218490151
+9.7,"LF",0,"Fruits and Vegetables",2.271353157,15,"Small","Tier 3","Grocery Store",2.58618384799281
+12.6,"LF",0.003574698,"Hard Drinks",2.189489752,28,"Medium","Tier 3","Supermarket Type3",3.57791458211487
+10.5,"Regular",0.11733375,"Baking Goods",2.215164154,6,"Small","Tier 2","Supermarket Type1",3.40138106091851
+12.6,"LF",0.079261744,"Snack Foods",1.912886014,28,"Small","Tier 1","Grocery Store",2.21159366672253
+17.75,"LF",0.030410273,"Dairy",2.408353953,26,"High","Tier 3","Supermarket Type1",3.54761905343565
+7.16,"Regular",0.169137707,"Breads",1.54761966,6,"Small","Tier 2","Supermarket Type1",2.73600541750621
+12.6,"Regular",0,"Meat",2.260216447,28,"Medium","Tier 3","Supermarket Type3",3.66357137272278
+12.6,"Regular",0.059110912,"Meat",2.299600118,28,"Small","Tier 1","Grocery Store",2.62710369297142
+5,"LF",0,"Soft Drinks",2.279787818,15,"Small","Tier 3","Grocery Store",2.60110484992252
+12.6,"LF",0.048857925,"Breads",1.785467933,14,"Medium","Tier 1","Supermarket Type1",2.96730394785142
+7.91,"LF",0.064163983,"Hard Drinks",2.361670052,14,"Medium","Tier 1","Supermarket Type1",3.54171924468974
+12.6,"LF",0,"Dairy",1.709566741,28,"Small","Tier 1","Grocery Store",1.99971317621443
+7.39,"LF",0.120770963,"Others",2.15669147,4,"Medium","Tier 3","Supermarket Type2",3.25600301905309
+12.6,"Regular",0.076944658,"Fruits and Vegetables",2.410157817,28,"Medium","Tier 3","Supermarket Type3",3.81557200502236
+8.63,"Regular",0.055084019,"Snack Foods",2.059759507,15,"Small","Tier 3","Grocery Store",2.36567278401545
+15,"Regular",0.162093059,"Canned",2.261326164,4,"Medium","Tier 3","Supermarket Type2",3.36385493328419
+8.98,"Regular",0.052836076,"Canned",1.937630212,11,"Small","Tier 2","Supermarket Type1",3.10430994139561
+12.6,"LF",0.036213953,"Snack Foods",1.966370792,28,"Medium","Tier 3","Supermarket Type3",3.34312538526171
+12.6,"LF",0.050790917,"Household",2.154663119,28,"Small","Tier 1","Grocery Store",2.4673041455676
+14,"LF",0.040725405,"Household",1.6379438,15,"Small","Tier 3","Grocery Store",1.93232372662014
+10.7,"Regular",0.061008889,"Breakfast",2.24937253,6,"Small","Tier 2","Supermarket Type1",3.38547370445882
+13.65,"Regular",0,"Meat",1.579248399,11,"Small","Tier 2","Supermarket Type1",2.73204895169838
+5.62,"LF",0.210511558,"Health and Hygiene",2.084122087,15,"Small","Tier 3","Grocery Store",2.39863291489953
+18.25,"Regular",0.183579854,"Dairy",2.044763122,14,"Medium","Tier 1","Supermarket Type1",3.20912575474392
+12.6,"LF",0.078174543,"Canned",1.601523306,28,"Medium","Tier 3","Supermarket Type3",2.98499421819365
+15.5,"LF",0.103422709,"Snack Foods",2.160909505,9,"Small","Tier 2","Supermarket Type1",3.31630405029641
+12.6,"Regular",0.187443314,"Fruits and Vegetables",2.163991587,28,"Small","Tier 1","Grocery Store",2.48646062431248
+12.6,"LF",0.034938717,"Household",1.690226214,28,"Medium","Tier 3","Supermarket Type3",3.06827222945569
+20.6,"LF",0.045603215,"Health and Hygiene",2.173882912,4,"Medium","Tier 3","Supermarket Type2",3.26375299255756
+15.5,"Regular",0.085834992,"Frozen Foods",1.696087165,16,"Small","Tier 1","Supermarket Type1",2.83959352962122
+6.36,"LF",0.121225455,"Fruits and Vegetables",1.661869452,6,"Small","Tier 2","Supermarket Type1",2.83370459038126
+12.6,"LF",0.114475357,"Soft Drinks",2.20661974,28,"Medium","Tier 3","Supermarket Type3",3.60421037702683
+15.5,"Regular",0.076059648,"Baking Goods",2.423502769,4,"Medium","Tier 3","Supermarket Type2",3.52118322592852
+5.79,"Regular",0.064871045,"Fruits and Vegetables",2.418508775,15,"Small","Tier 3","Grocery Store",2.74538428040728
+5.77,"LF",0.081944045,"Baking Goods",1.564860093,26,"High","Tier 3","Supermarket Type1",2.69951345116936
+19.2,"LF",0.100074524,"Frozen Foods",2.042530624,16,"Small","Tier 1","Supermarket Type1",3.18577514469677
+12.6,"Regular",0.066336811,"Baking Goods",2.187987477,28,"Small","Tier 1","Grocery Store",2.50723943978476
+8.6,"LF",0.032672263,"Health and Hygiene",2.149882061,14,"Medium","Tier 1","Supermarket Type1",3.33265504952361
+12.6,"LF",0.130321652,"Dairy",1.948007827,28,"Medium","Tier 3","Supermarket Type3",3.3200929587104
+18.85,"Regular",0.068059156,"Dairy",2.080424442,14,"Medium","Tier 1","Supermarket Type1",3.24578125385553
+12.5,"LF",0.103442268,"Household",2.232601765,16,"Small","Tier 1","Supermarket Type1",3.39346331989345
+7.02,"LF",0,"Dairy",1.923373562,6,"Small","Tier 2","Supermarket Type1",3.08670542419675
+7.86,"Regular",0.162205516,"Baking Goods",1.559724734,4,"Medium","Tier 3","Supermarket Type2",2.6395301768675
+13.15,"LF",0.056516756,"Soft Drinks",2.156795,14,"Medium","Tier 1","Supermarket Type1",3.33873796103968
+16.2,"Regular",0.016639482,"Frozen Foods",1.981694505,26,"High","Tier 3","Supermarket Type1",3.12012945723845
+6.65,"LF",0.053279839,"Canned",2.169596266,9,"Small","Tier 2","Supermarket Type1",3.34494925136349
+6.69,"Regular",0.037060755,"Meat",2.247573139,4,"Medium","Tier 3","Supermarket Type2",3.35050643128135
+12.6,"Regular",0.08234117,"Meat",2.268954073,28,"Small","Tier 1","Grocery Store",2.59563605368752
+6.36,"LF",0.120443298,"Fruits and Vegetables",1.657113245,26,"High","Tier 3","Supermarket Type1",2.79782293705895
+14.85,"LF",0.102065622,"Household",2.405294781,15,"Small","Tier 3","Grocery Store",2.71768676864392
+13.3,"Regular",0.071597469,"Fruits and Vegetables",1.784286275,11,"Small","Tier 2","Supermarket Type1",2.94065265348065
+16.5,"Regular",0.079837509,"Fruits and Vegetables",2.009166939,14,"Medium","Tier 1","Supermarket Type1",3.18874963937511
+18.5,"Regular",0.045534457,"Dairy",2.165274604,14,"Medium","Tier 1","Supermarket Type1",3.33291735924944
+7.94,"LF",0.031730739,"Household",2.416791902,9,"Small","Tier 2","Supermarket Type1",3.58992129407358
+12.6,"Regular",0.056713056,"Fruits and Vegetables",2.349877159,28,"Medium","Tier 3","Supermarket Type3",3.75389955253425
+16.35,"LF",0.032538896,"Meat",2.219543138,16,"Small","Tier 1","Supermarket Type1",3.38303488708018
+19.85,"LF",0.005264755,"Dairy",2.4225708,6,"Small","Tier 2","Supermarket Type1",3.59235860471887
+6.72,"Regular",0.121832956,"Baking Goods",1.638942284,11,"Small","Tier 2","Supermarket Type1",2.79028875427944
+17.85,"LF",0.065797601,"Frozen Foods",2.169689126,9,"Small","Tier 2","Supermarket Type1",3.32228566870101
+20.75,"LF",0.108930629,"Snack Foods",2.206712027,11,"Small","Tier 2","Supermarket Type1",3.35187743228511
+12.6,"LF",0.03046847,"Starchy Foods",2.406035765,28,"Medium","Tier 3","Supermarket Type3",3.81277379773892
+20.6,"Regular",0.077029195,"Snack Foods",2.248548019,15,"Small","Tier 3","Grocery Store",2.55371601128805
+12.6,"LF",0.017344679,"Fruits and Vegetables",2.363237686,28,"Medium","Tier 3","Supermarket Type3",3.76073116277949
+18.85,"LF",0,"Hard Drinks",2.209669939,9,"Small","Tier 2","Supermarket Type1",3.37128284492808
+14.1,"LF",0.089817198,"Canned",2.1545749,14,"Medium","Tier 1","Supermarket Type1",3.33635299395348
+20.25,"LF",0.148372897,"Health and Hygiene",2.037003153,11,"Small","Tier 2","Supermarket Type1",3.19234500978331
+5.15,"Regular",0.061301149,"Meat",2.086853649,11,"Small","Tier 2","Supermarket Type1",3.2554696658014
+12.6,"Regular",0.04152307,"Fruits and Vegetables",2.094496284,26,"High","Tier 3","Supermarket Type1",3.2503247351732
+15.25,"Regular",0.066269294,"Snack Foods",2.254465899,6,"Small","Tier 2","Supermarket Type1",3.43287950546535
+7.29,"LF",0.031278532,"Household",2.245525993,4,"Medium","Tier 3","Supermarket Type2",3.336787467505
+12.6,"LF",0.025842951,"Household",1.686972137,28,"Medium","Tier 3","Supermarket Type3",3.0649702487905
+20.75,"LF",0.021293097,"Soft Drinks",2.181564636,11,"Small","Tier 2","Supermarket Type1",3.34169982298183
+12.6,"Regular",0.124668026,"Snack Foods",2.416791902,28,"Medium","Tier 3","Supermarket Type3",3.81114602142777
+19,"LF",0.127983545,"Snack Foods",2.03206325,26,"High","Tier 3","Supermarket Type1",3.16523538207853
+16.1,"Regular",0.080010553,"Frozen Foods",2.094248159,15,"Small","Tier 3","Grocery Store",2.39553007852446
+11.1,"LF",0.010658153,"Canned",1.91955294,14,"Medium","Tier 1","Supermarket Type1",3.09722021182306
+13,"LF",0.041994899,"Household",2.406031332,4,"Medium","Tier 3","Supermarket Type2",3.49864343170692
+6.87,"LF",0.09512291,"Snack Foods",2.326994587,15,"Small","Tier 3","Grocery Store",2.63303147788353
+7.5,"LF",0.03269312,"Frozen Foods",2.378017227,11,"Small","Tier 2","Supermarket Type1",3.5312896872505
+15.25,"LF",0.026663778,"Snack Foods",1.939618081,11,"Small","Tier 2","Supermarket Type1",3.08100157667116
+18.25,"LF",0.075311837,"Snack Foods",2.088506765,14,"Medium","Tier 1","Supermarket Type1",3.25121543734021
+6.42,"LF",0.053426165,"Dairy",2.252125039,26,"High","Tier 3","Supermarket Type1",3.39249096085054
+12.5,"LF",0.10402738,"Household",2.23614612,6,"Small","Tier 2","Supermarket Type1",3.41618396938655
+16.85,"Regular",0.023201357,"Snack Foods",1.66221746,11,"Small","Tier 2","Supermarket Type1",2.8031767029655
+9.2,"Regular",0.04719387,"Frozen Foods",1.723181381,14,"Medium","Tier 1","Supermarket Type1",2.88597686269307
+17,"LF",0.119871307,"Frozen Foods",2.395052623,4,"Medium","Tier 3","Supermarket Type2",3.47529386320495
+12.6,"LF",0.092564193,"Household",1.728318063,28,"Medium","Tier 3","Supermarket Type3",3.10709101593936
+5.85,"Regular",0.104998144,"Frozen Foods",2.328831605,9,"Small","Tier 2","Supermarket Type1",3.49739563398887
+12.6,"LF",0.052300844,"Frozen Foods",1.945877083,28,"Medium","Tier 3","Supermarket Type3",3.31997137021546
+18.35,"Regular",0.15783357,"Fruits and Vegetables",1.942445601,15,"Small","Tier 3","Grocery Store",2.25196609294991
+12.6,"Regular",0.010928678,"Snack Foods",2.222935384,28,"Medium","Tier 3","Supermarket Type3",3.61297923042471
+12.35,"LF",0.100164204,"Fruits and Vegetables",2.055576318,4,"Medium","Tier 3","Supermarket Type2",3.1428639824247
+13.8,"Regular",0.057104066,"Snack Foods",2.366793397,4,"Medium","Tier 3","Supermarket Type2",3.45706121025496
+5.43,"Regular",0.114472403,"Baking Goods",1.946213436,16,"Small","Tier 1","Supermarket Type1",3.10905248295353
+14.5,"Regular",0.063810405,"Breads",2.420383887,26,"High","Tier 3","Supermarket Type1",3.59604624467207
+12.65,"Regular",0.075981306,"Frozen Foods",2.284170305,26,"High","Tier 3","Supermarket Type1",3.43128802286964
+12.8,"LF",0.116527666,"Starchy Foods",2.417347449,15,"Small","Tier 3","Grocery Store",2.74221303273157
+9.2,"Regular",0.051827123,"Baking Goods",1.889102161,4,"Medium","Tier 3","Supermarket Type2",2.97667688287224
+17.35,"LF",0.020555958,"Others",1.900158399,9,"Small","Tier 2","Supermarket Type1",3.06723513245435
+14.5,"LF",0.061986574,"Dairy",2.184974623,16,"Small","Tier 1","Supermarket Type1",3.33206428877213
+7.91,"LF",0.010032624,"Snack Foods",2.395048076,11,"Small","Tier 2","Supermarket Type1",3.55073964460676
+8.5,"LF",0.097884718,"Canned",1.720427242,16,"Small","Tier 1","Supermarket Type1",2.87837154552148
+8.3,"Regular",0.038204311,"Dairy",1.943097633,9,"Small","Tier 2","Supermarket Type1",3.09967351532892
+12.6,"Regular",0.149288779,"Frozen Foods",2.199834133,28,"Medium","Tier 3","Supermarket Type3",3.58673851798834
+13.5,"LF",0,"Soft Drinks",2.27689175,9,"Small","Tier 2","Supermarket Type1",3.45160576558377
+19.1,"LF",0.045270426,"Dairy",1.588986164,26,"High","Tier 3","Supermarket Type1",2.70775558224452
+16.2,"LF",0.050545502,"Household",2.282432223,4,"Medium","Tier 3","Supermarket Type2",3.3706181984946
+12.6,"LF",0.102157958,"Dairy",2.161406338,28,"Small","Tier 1","Grocery Store",2.46215347068398
+12.3,"LF",0.116261335,"Soft Drinks",2.029764329,15,"Small","Tier 3","Grocery Store",2.34142894813685
+15.85,"LF",0.069100548,"Breads",2.335691735,16,"Small","Tier 1","Supermarket Type1",3.51362630766343
+15.25,"LF",0.06153089,"Household",2.12154934,6,"Small","Tier 2","Supermarket Type1",3.29775003924363
+12.6,"Regular",0.06627464,"Snack Foods",1.733964029,28,"Medium","Tier 3","Supermarket Type3",3.11197163321604
+7.32,"LF",0.015332872,"Snack Foods",2.187616593,11,"Small","Tier 2","Supermarket Type1",3.33852251684788
+12.6,"LF",0.009950343,"Meat",2.268486236,28,"Medium","Tier 3","Supermarket Type3",3.66502111214175
+12.6,"LF",0.037160705,"Hard Drinks",1.734238003,28,"Small","Tier 1","Grocery Store",2.03491312062655
+12.35,"LF",0.093824276,"Snack Foods",2.078864095,6,"Small","Tier 2","Supermarket Type1",3.24721321342783
+17.85,"LF",0.110152524,"Frozen Foods",2.17668439,15,"Small","Tier 3","Grocery Store",2.47210782904778
+10.1,"LF",0.046848053,"Hard Drinks",1.783101394,6,"Small","Tier 2","Supermarket Type1",2.95158274101228
+14.15,"LF",0.034868095,"Snack Foods",2.387003061,9,"Small","Tier 2","Supermarket Type1",3.54870070504296
+7.44,"LF",0.122735471,"Starchy Foods",2.312312365,26,"High","Tier 3","Supermarket Type1",3.4766689269984
+11.3,"LF",0.056434817,"Baking Goods",2.394121982,16,"Small","Tier 1","Supermarket Type1",3.55845275259306
+11.5,"Regular",0.125602951,"Frozen Foods",2.003614748,16,"Small","Tier 1","Supermarket Type1",3.15619005716314
+12.6,"LF",0.116762173,"Canned",2.298802442,28,"Medium","Tier 3","Supermarket Type3",3.6990374080237
+7.55,"Regular",0.030918873,"Fruits and Vegetables",2.093096543,26,"High","Tier 3","Supermarket Type1",3.2511399740083
+6.68,"LF",0.021666335,"Household",1.5235826,16,"Small","Tier 1","Supermarket Type1",2.67009278348557
+15.7,"Regular",0.115031783,"Canned",2.057362524,4,"Medium","Tier 3","Supermarket Type2",3.1548025544793
+12.6,"LF",0.022457694,"Frozen Foods",1.993906865,28,"Medium","Tier 3","Supermarket Type3",3.36926645788916
+12.6,"LF",0.080203852,"Baking Goods",1.892072331,28,"Medium","Tier 3","Supermarket Type3",3.27372494322938
+18.1,"LF",0.178694026,"Dairy",2.201202604,4,"Medium","Tier 3","Supermarket Type2",3.27426931439879
+5.31,"Regular",0.04710181,"Meat",2.259739097,14,"Medium","Tier 1","Supermarket Type1",3.45171998553307
+12.6,"Regular",0.047704151,"Fruits and Vegetables",2.272434814,28,"Medium","Tier 3","Supermarket Type3",3.67461139944389
+12.6,"LF",0.06981517,"Dairy",2.331194396,28,"Medium","Tier 3","Supermarket Type3",3.71277012188263
+9.3,"LF",0.042357203,"Hard Drinks",2.090747461,14,"Medium","Tier 1","Supermarket Type1",3.26369721333684
+11.35,"Regular",0.023454399,"Dairy",2.259977838,6,"Small","Tier 2","Supermarket Type1",3.43647520245061
+19.35,"Regular",0.018600249,"Snack Foods",2.04239593,11,"Small","Tier 2","Supermarket Type1",3.19148723387851
+13,"Regular",0.083683243,"Canned",2.297853705,11,"Small","Tier 2","Supermarket Type1",3.47139534671998
+7.24,"LF",0.167316771,"Snack Foods",2.295666482,15,"Small","Tier 3","Grocery Store",2.60053655031779
+12.6,"LF",0.039576776,"Fruits and Vegetables",2.255107925,28,"Small","Tier 1","Grocery Store",2.57330120830503
+10,"LF",0.038904624,"Fruits and Vegetables",2.389900042,6,"Small","Tier 2","Supermarket Type1",3.57806070048269
+19.75,"LF",0.01438222,"Household",2.009591955,6,"Small","Tier 2","Supermarket Type1",3.18126846532318
+8.42,"Regular",0.030968306,"Canned",2.357620822,4,"Medium","Tier 3","Supermarket Type2",3.46581217227859
+18.85,"LF",0.016107549,"Health and Hygiene",2.113149539,16,"Small","Tier 1","Supermarket Type1",3.2748568610703
+5.03,"LF",0.008664064,"Household",2.076915567,11,"Small","Tier 2","Supermarket Type1",3.23414345733309
+17.6,"Regular",0.047330801,"Snack Foods",2.082347984,14,"Medium","Tier 1","Supermarket Type1",3.25227401536024
+18.6,"LF",0.015769693,"Snack Foods",2.182233706,16,"Small","Tier 1","Supermarket Type1",3.33152200647755
+10.2,"LF",0.04217956,"Snack Foods",1.645842604,6,"Small","Tier 2","Supermarket Type1",2.80481724034635
+6.78,"Regular",0.140163038,"Baking Goods",1.974106223,16,"Small","Tier 1","Supermarket Type1",3.13694217672234
+7.16,"Regular",0.168154574,"Breads",1.528754773,9,"Small","Tier 2","Supermarket Type1",2.70315713662169
+10.8,"LF",0.097805615,"Hard Drinks",1.868867699,15,"Small","Tier 3","Grocery Store",2.16822576837879
+9.2,"LF",0.107870997,"Snack Foods",2.258310122,9,"Small","Tier 2","Supermarket Type1",3.41881013529896
+9.8,"Regular",0.045358609,"Baking Goods",1.558557381,11,"Small","Tier 2","Supermarket Type1",2.70686666003246
+12.6,"LF",0.119698523,"Others",2.155478754,28,"Medium","Tier 3","Supermarket Type3",3.55506049524336
+12.6,"LF",0.023339367,"Fruits and Vegetables",1.977164606,28,"Medium","Tier 3","Supermarket Type3",3.36528299661415
+13.6,"LF",0.009991273,"Household",2.244368672,9,"Small","Tier 2","Supermarket Type1",3.41091403194912
+7.22,"Regular",0.064141866,"Baking Goods",1.787113184,15,"Small","Tier 3","Grocery Store",2.09385511453036
+20.5,"LF",0.032954044,"Household",1.595299973,6,"Small","Tier 2","Supermarket Type1",2.75654621866063
+6.06,"LF",0,"Fruits and Vegetables",2.210473158,9,"Small","Tier 2","Supermarket Type1",3.38261539377874
+17.2,"LF",0.156935553,"Meat",2.205901816,4,"Medium","Tier 3","Supermarket Type2",3.29582570816082
+13.15,"LF",0.044011225,"Snack Foods",2.258385827,6,"Small","Tier 2","Supermarket Type1",3.43090374104969
+16.5,"Regular",0.068112874,"Canned",2.019527533,9,"Small","Tier 2","Supermarket Type1",3.19386431888721
+8.06,"LF",0.021372636,"Breakfast",2.364987134,9,"Small","Tier 2","Supermarket Type1",3.48466512265279
+12.6,"Regular",0,"Baking Goods",1.880429415,28,"Medium","Tier 3","Supermarket Type3",3.26905934727749
+19.85,"LF",0.054245722,"Seafood",2.292426211,4,"Medium","Tier 3","Supermarket Type2",3.39346916011454
+12.6,"LF",0.041621987,"Household",2.404151647,28,"Medium","Tier 3","Supermarket Type3",3.79947360085606
+20.25,"Regular",0.018805105,"Fruits and Vegetables",2.343757465,16,"Small","Tier 1","Supermarket Type1",3.51427125652904
+19.25,"Regular",0.027190917,"Meat",2.289613476,4,"Medium","Tier 3","Supermarket Type2",3.38809542867561
+7.85,"LF",0.163902159,"Hard Drinks",2.156380731,6,"Small","Tier 2","Supermarket Type1",3.33449446502262
+10,"LF",0.067312613,"Snack Foods",2.369881636,14,"Medium","Tier 1","Supermarket Type1",3.54305034187299
+10,"LF",0.021421289,"Household",2.39510788,9,"Small","Tier 2","Supermarket Type1",3.56684427752027
+5.18,"LF",0.030479118,"Health and Hygiene",1.522279875,4,"Medium","Tier 3","Supermarket Type2",2.60316959830472
+12.6,"LF",0.031024168,"Health and Hygiene",2.323302438,28,"Small","Tier 1","Grocery Store",2.64632238665828
+12.6,"LF",0.015664229,"Meat",2.087339803,28,"Small","Tier 1","Grocery Store",2.40286145992897
+11.5,"LF",0.014883661,"Starchy Foods",2.241815341,14,"Medium","Tier 1","Supermarket Type1",3.4307126934632
+13.65,"LF",0.065618434,"Frozen Foods",1.677973576,9,"Small","Tier 2","Supermarket Type1",2.82049664586179
+17.35,"LF",0.167722519,"Household",2.24642767,11,"Small","Tier 2","Supermarket Type1",3.40182337771398
+8.27,"Regular",0.214125129,"Soft Drinks",2.264799884,15,"Small","Tier 3","Grocery Store",2.59057902111361
+9.9,"LF",0.060055757,"Household",2.369705925,9,"Small","Tier 2","Supermarket Type1",3.54073920753668
+10.65,"LF",0.048885018,"Others",2.220507142,4,"Medium","Tier 3","Supermarket Type2",3.3201810500235
+15.2,"LF",0.097611115,"Health and Hygiene",2.066509297,6,"Small","Tier 2","Supermarket Type1",3.24750100301721
+15.1,"LF",0,"Meat",2.387836706,11,"Small","Tier 2","Supermarket Type1",3.5526077068902
+12.6,"LF",0.012481638,"Household",2.226206413,28,"Medium","Tier 3","Supermarket Type3",3.61731582414118
+11.6,"LF",0.037734334,"Health and Hygiene",1.991687601,4,"Medium","Tier 3","Supermarket Type2",3.08111343297235
+16.7,"Regular",0.062395455,"Snack Foods",1.760846016,6,"Small","Tier 2","Supermarket Type1",2.92667684627129
+16.7,"Regular",0.054851438,"Starchy Foods",1.808999147,4,"Medium","Tier 3","Supermarket Type2",2.90379898584094
+12.6,"LF",0.100493148,"Fruits and Vegetables",2.090274281,28,"Small","Tier 1","Grocery Store",2.40426634708604
+7.94,"LF",0,"Household",2.421095307,16,"Small","Tier 1","Supermarket Type1",3.5888741515423
+10.2,"LF",0.112399145,"Hard Drinks",2.047998737,14,"Medium","Tier 1","Supermarket Type1",3.21928002520481
+10.9,"LF",0.064939211,"Fruits and Vegetables",2.288203155,4,"Medium","Tier 3","Supermarket Type2",3.38188265275984
+7.41,"LF",0.159165324,"Dairy",2.316242166,9,"Small","Tier 2","Supermarket Type1",3.4748513712532
+19.75,"Regular",0.018019662,"Frozen Foods",2.259034526,9,"Small","Tier 2","Supermarket Type1",3.42011251328628
+11.8,"Regular",0.057410724,"Meat",2.174747502,9,"Small","Tier 2","Supermarket Type1",3.351612298984
+7.72,"Regular",0,"Fruits and Vegetables",2.070948375,4,"Medium","Tier 3","Supermarket Type2",3.16796463133662
+12.6,"LF",0.173324207,"Frozen Foods",1.601151366,28,"Small","Tier 1","Grocery Store",1.88987656494008
+14.3,"LF",0.123070513,"Dairy",2.08340586,4,"Medium","Tier 3","Supermarket Type2",3.15547263612462
+10.5,"Regular",0.093954022,"Snack Foods",2.325975985,11,"Small","Tier 2","Supermarket Type1",3.48556009714947
+18,"LF",0.073606829,"Canned",2.195061236,6,"Small","Tier 2","Supermarket Type1",3.37951836082646
+13.15,"LF",0.036672107,"Frozen Foods",2.261495065,16,"Small","Tier 1","Supermarket Type1",3.41291187236219
+10.7,"LF",0.057744249,"Fruits and Vegetables",1.787131618,26,"High","Tier 3","Supermarket Type1",2.92930329402522
+9.8,"LF",0,"Fruits and Vegetables",2.24362581,14,"Medium","Tier 1","Supermarket Type1",3.42511038494834
+5.86,"Regular",0.151087845,"Meat",2.190699712,14,"Medium","Tier 1","Supermarket Type1",3.38041298998297
+5.4,"LF",0.048388423,"Health and Hygiene",2.212327728,6,"Small","Tier 2","Supermarket Type1",3.40131431019557
+8.4,"LF",0.039553606,"Snack Foods",1.99609206,14,"Medium","Tier 1","Supermarket Type1",3.16099923531287
+20,"Regular",0.051702257,"Frozen Foods",2.099914641,4,"Medium","Tier 3","Supermarket Type2",3.17890852260704
+6.87,"LF",0,"Soft Drinks",2.113827079,26,"High","Tier 3","Supermarket Type1",3.27001189923291
+15.2,"LF",0,"Household",2.04332769,6,"Small","Tier 2","Supermarket Type1",3.21786428731445
+9.7,"LF",0.029567218,"Snack Foods",2.205453389,9,"Small","Tier 2","Supermarket Type1",3.36471996274457
+7.42,"Regular",0.021695674,"Seafood",2.268011803,6,"Small","Tier 2","Supermarket Type1",3.47254117588973
+11.6,"LF",0.037574137,"Health and Hygiene",2.00001824,9,"Small","Tier 2","Supermarket Type1",3.16765091012185
+11.35,"Regular",0.04324563,"Fruits and Vegetables",2.299886732,11,"Small","Tier 2","Supermarket Type1",3.46969720700218
+20.7,"LF",0.021518435,"Baking Goods",2.197359965,4,"Medium","Tier 3","Supermarket Type2",3.2804813217836
+18.6,"LF",0.118661426,"Others",1.769072918,4,"Medium","Tier 3","Supermarket Type2",2.85408748063095
+14.8,"LF",0.04487828,"Soft Drinks",1.877757086,16,"Small","Tier 1","Supermarket Type1",3.03651484077215
